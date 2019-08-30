@@ -1,12 +1,12 @@
 ## data-structures
-Coursework assignments for MSDV PGDV5110 (Fall 2019)
+Coursework assignments for PGDV5110 (Fall 2019)
 
 
 ---
 
 ### Purpose
 
-This repository is for the Parsons The New School Master's in Data Visualization course in data structures.
+This repository is for The New School (Parsons) Master's in Data Visualization course in data structures.
 
 Coursework assignments will be posted in the relevant folders for assessment and future referral. 
 
