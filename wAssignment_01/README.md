@@ -46,9 +46,10 @@ It is recommended to investigate solving the asynchronous callback issue in futu
 #### Output:
 
 The folder contains three main sets of files:
-* The wAssignment_01.js code that makes the requests to obtain ten .html files.
-* Ten meetinglist##.txt files that contain the body part of the .html meeting agendas.
 * This README.md file
+* The wAssignment_01.js code that makes the requests to obtain ten .html files.
+* Ten meetinglist##.txt files in the ./data subfolder that each contains the body part of the .html meeting agendas.
+
 
 
 
