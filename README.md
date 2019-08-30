@@ -10,6 +10,8 @@ This repository is for the Parsons The New School Master's in Data Visualization
 
 Coursework assignments will be posted in the relevant folders for assessment and future referral. 
 
+Please refer to the subfolders for each applicable assignment.
+
 ----
 
 ### Course description
