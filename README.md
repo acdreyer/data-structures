@@ -16,10 +16,10 @@ Please refer to the subfolders for each applicable assignment.
 
 ### Course description
 
-The Data Structures course description can be found in the [program curriculum](https://courses.newschool.edu/courses/PGDV5110):
+The Data Structures course description shown below is from the [course catalogue](https://courses.newschool.edu/courses/PGDV5110):
 
 "*This course covers the fundamentals of the database, semi-structured data, and unstructured data. Students will gain familiarity with data visualization concepts, techniques, and tools, including acquisition, augmentation, and restructuring; data storage and aggregation; access to parallel and distributed computing; high-volume data, disparate sources, and performance; and streaming data and real time and dynamic queries.*"
 
-The Data Visualization course github page can be found [here](https://github.com/visualizedata/data-structures/blob/master/README.md).
+The Data Structures course github page can be found [here](https://github.com/visualizedata/data-structures/blob/master/README.md).
 
 A link to the MS in Data Visualization program is found [here](https://www.newschool.edu/parsons/ms-data-visualization/).
