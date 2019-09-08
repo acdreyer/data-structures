@@ -31,10 +31,10 @@ Manual manipulation of the source file was not allowed.
 Sample code was again supplied in the [data structures course github page](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_02.md)
 with explanation of using cheerio. The code was modified and various functionality added.
 The cheerio module could not be used optimally due to lack of the .html structure and element identifiers.
-Subsequently .html tags of `'tr'`` were used to a level as close to the data set as cheerio could go.
+Subsequently .html tags of `'tr'` were used to a level as close to the data set as cheerio could go.
 It became apparent that `'td'` table cells could not be accessed directly using cheerio commands. This seems to be a limitation of cheerio.
 
-It was decided to use the `$().html()` method to extract the relevant data cell.
+It was decided to use the `$().html()` method to extract the relevant data cells.
 The table .html was identified using three levels of `'tr'` tags using the cheerio `.find(tr)` method.
 A search was done by iterating through the table rows and then the columns.
 Strictly speaking the table iteration was not necessary, since one could just as well 
