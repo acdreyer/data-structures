@@ -22,15 +22,19 @@ db_credentials.port = 5432;
 const client = new Client(db_credentials);
 client.connect();
 
-// Sample SQL statement to query the entire contents of a table: 
+//  SQL statement to query the entire contents of a table: 
+var thisQuery = "SELECT * FROM aameetings;";
+
+// Uncomment for debugging sections:
 // var thisQuery = "SELECT * FROM aalocations;";
 // var thisQuery = "SELECT * FROM aatimes;";
 // var thisQuery = "SELECT * FROM aabuildingsdirections;";
-var thisQuery = "SELECT * FROM aamoreinfo;";
+// var thisQuery = "SELECT * FROM aamoreinfo;";
 
 client.query(thisQuery, (err, res) => {
 
     console.log(err, res.rows);
-    console.log("Number of rows:" + res.rows.length);
+    console.log("Number of table rows :" + res.rows.length);
     client.end();
 });
+

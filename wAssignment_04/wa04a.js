@@ -26,6 +26,25 @@ db_credentials.port = 5432;
 const client = new Client(db_credentials);
 client.connect();
 
+// -------------------------------aameetings-----------------------
+// -------------------------------aameetings-----------------------
+// Sample SQL statement to create a table for locations: 
+// This table should get an index (possibly a serial)...
+var thisQuery = "CREATE TABLE aameetings (id SERIAL PRIMARY KEY, zone char(2), address varchar(100), lat double precision, long double precision, zipcode char(5), timestart TIME, timeend TIME, days varchar(50), buildingname varchar(100), meetingname varchar(100), meetingtypes varchar(100), specialinterests varchar(100) );";
+// Sample SQL statement to delete a table: 
+// var thisQuery = "DROP TABLE aameetings;"; 
+
+client.query(thisQuery, (err, res) => {
+    console.log(err, res);
+    client.end();
+});
+
+
+
+
+
+// Create separate tables for debugging purposes:
+// Do in sections
 
 // // -------------------------------aalocations-----------------------
 // // Sample SQL statement to create a table for locations: 
@@ -55,9 +74,9 @@ client.connect();
 
 
 
-// // -------------------------------aabuildingsdirections-----------------------
-// //  SQL statement to create a table for buildings and directions: 
-// var thisQuery3 = "CREATE TABLE aabuildingsdirections (buildingname varchar(100), meetingname varchar(100), description_1 varchar(100), description_2 varchar(100) );";
+// -------------------------------aabuildingsdirections-----------------------
+//  SQL statement to create a table for buildings and directions: 
+// var thisQuery3 = "CREATE TABLE aabuildingsdirections (buildingname varchar(100), meetingname varchar(100) );";
 // // Sample SQL statement to delete a table: 
 // // var thisQuery3 = "DROP TABLE aabuildingsdirections;"; 
 

@@ -23,6 +23,30 @@ var meetings = require('./data/zone7AAmeetingsGeo.json');
 
 
 
+
+
+
+// -------------------------------aameetings-----------------------
+// Connect to the AWS RDS Postgres database 
+// var addressesForDb = [ { address: '63 Fifth Ave, New York, NY', latLong: { lat: 40.7353041, lng: -73.99413539999999 } }, { address: '16 E 16th St, New York, NY', latLong: { lat: 40.736765, lng: -73.9919024 } }, { address: '2 W 13th St, New York, NY', latLong: { lat: 40.7353297, lng: -73.99447889999999 } } ];
+async.eachSeries(meetings, function(value, callback) {
+    const client = new Client(db_credentials);
+    client.connect();
+    var thisQuery = "INSERT INTO aameetings VALUES (default, 7, E'" + value.streetAddress + "', " + value.GeoInfo.lat + ", " + value.GeoInfo.long + ", " + value.zipcode + ", '00:00', '00:00', 'DayTest' ,E'" + value.buildingName.replace(/'/g,"\\'") + "', E'" + value.meetingName.replace(/'/g,"\\'") + "', 'Meetingtypetest' , 'SpecialinterestTest' );";
+    // console.log("Meeting: " + value.meetingName.replace(/'/g,"\\'"));
+    console.log(thisQuery);
+    client.query(thisQuery, (err, res) => {
+        console.log(err, res);
+        client.end();
+    });
+    setTimeout(callback, 1000); 
+}); 
+
+
+
+
+// Note: all these bottom sections are used for debugging in manageable chunks.
+
 // -------------------------------aalocations-----------------------
 // // Connect to the AWS RDS Postgres database 
 // // var addressesForDb = [ { address: '63 Fifth Ave, New York, NY', latLong: { lat: 40.7353041, lng: -73.99413539999999 } }, { address: '16 E 16th St, New York, NY', latLong: { lat: 40.736765, lng: -73.9919024 } }, { address: '2 W 13th St, New York, NY', latLong: { lat: 40.7353297, lng: -73.99447889999999 } } ];
@@ -61,12 +85,15 @@ var meetings = require('./data/zone7AAmeetingsGeo.json');
 
 
 // // -------------------------------aabuildingsdirections-----------------------
-// // var thisQuery3 = "CREATE TABLE aabuildingsdirections (buildingname varchar(100), meetingname varchar(100), description_1 varchar(100), description_2 varchar(100) );";
-// // Connect to the AWS RDS Postgres database aabuildingsdirections
+// var thisQuery3 = "CREATE TABLE aabuildingsdirections (buildingname varchar(100), meetingname varchar(100));";
+// Connect to the AWS RDS Postgres database aabuildingsdirections
 // async.eachSeries(meetings, function(value, callback) {
 //     const client = new Client(db_credentials);
 //     client.connect();
-//     var thisQuery = "INSERT INTO aabuildingsdirections VALUES (E'" + value.buildingName + "', E'" + value.meetingName + "', E'" + value.descr1 + "', E'" + value.descr2 + "');";
+//     var thisQuery = "INSERT INTO aabuildingsdirections VALUES (E'" + value.buildingName.replace(/'/g,"\\'") + "', E'" + value.meetingName.replace(/'/g,"\\'") + "');";
+//     // console.log(value.buildingName.replace(/'/g,"\\'"));
+//     // console.log(value.meetingName.replace(/'/g,"\\'"));
+    
 //     client.query(thisQuery, (err, res) => {
 //         console.log(err, res);
 //         client.end();
@@ -77,15 +104,15 @@ var meetings = require('./data/zone7AAmeetingsGeo.json');
 
 
 // -------------------------------aamoreinfo-----------------------
-// var thisQuery4 = "CREATE TABLE aamoreinfo (meetingtypes varchar(100), specialinterests varchar(100) );";
-// Connect to the AWS RDS Postgres database aamoreinfo
-async.eachSeries(meetings, function(value, callback) {
-    const client = new Client(db_credentials);
-    client.connect();
-    var thisQuery = "INSERT INTO aamoreinfo VALUES ( 'Meetingtypetest' , 'SpecialinterestTest' );";
-    client.query(thisQuery, (err, res) => {
-        console.log(err, res);
-        client.end();
-    });
-    setTimeout(callback, 1000); 
-}); 
+// // var thisQuery4 = "CREATE TABLE aamoreinfo (meetingtypes varchar(100), specialinterests varchar(100) );";
+// // Connect to the AWS RDS Postgres database aamoreinfo
+// async.eachSeries(meetings, function(value, callback) {
+//     const client = new Client(db_credentials);
+//     client.connect();
+//     var thisQuery = "INSERT INTO aamoreinfo VALUES ( 'Meetingtypetest' , 'SpecialinterestTest' );";
+//     client.query(thisQuery, (err, res) => {
+//         console.log(err, res);
+//         client.end();
+//     });
+//     setTimeout(callback, 1000); 
+// }); 
