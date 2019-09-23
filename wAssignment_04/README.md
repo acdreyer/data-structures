@@ -23,19 +23,20 @@ The following questions required answers:
 1. Will you use a Normalized Data Model or a Denormalized Data Model? Why?
 
 
-A Denormalized Data model was selected, because the data set is not significantly large.
+A Denormalized Data model was selected, because the data set is not significantly large
+(approx 50-60 meetings across ten zones).
 Storage requirements are adequate in AWS and the complexity to Normalize the data
-would not be inline with the learning curve to do it at this time.
+would not be inline with fully normalizing the database at this time.
 Whereas this choice might impact scalability (if for example the whole world AA 
-meetings is needed), however the duplication in the current model is deemed
-acceptable for a Denormalized model.
+meetings is needed), the duplication in the current model is deemed
+to have a Denormalized model.
 
 
 
 2. When the data comes back out of the database, how should it be structured? Why?
 
 Data coming back from the database should be Normalized because browser 
-performance would be negatively impacted by handling the full data set.
+performance would be negatively impacted by handling the full data set all at once.
 Subsets of the table would be extracted and used locally in the browser, with
 information only accessed as required.
 This is especially true because subset queries should be manageble with this 
@@ -55,31 +56,62 @@ A flat data structure was chosen without relations as indicated in the image bel
 
 ![Data Structure](./images/AAmeetingsDataStruct.png)
 
+#### Process:
+
+In order to create, read, update and delete the database, three node.js script 
+files were used. The first was used to create and delete the database using
+`CREATE TABLE` and `DROP TABLE` commands commented or uncommented.
+The second file was used to update (using `INSERT INTO`) and the 
+third file was used to read (using `SELECT * FROM`).
+
+Since a flat structure was used, all commands were populated inline, using the following
+variables and data types:
+
+* **id**:	SERIAL PRIMARY KEY
+* **zone**:	char(2)
+* **address**: varchar(100)
+* **lat**: double precision 
+* **long**: double precision 
+* **zipcode**: char(5) 
+* **timestart**: TIME 
+* **timeend**: TIME
+* **days**: varchar(50) 
+* **buildingname**: varchar(100) 
+* **meetingname**: varchar(100) 
+* **meetingtypes**: varchar(100) 
+* **specialinterests**: varchar(100)
+
+In order to make syntax editing manageble, four tables were created first, 
+each focusing on a subset of variables. When each of these were completed, 
+one big table was populated; using: `INSERT INTO aameetings ...`
+
+![Data Insertion](./images/wa04_insert.png)
 
 
 #### Output:
 
-The output is a data table in the AWS PostgreSQL database (see example below):
+The output is a data table in the AWS PostgreSQL database (see example below).
+This shows only the last entry; with the number of rows logged out to verify 
+all entries were added.
 
-``` 
-  { id: 53,
-    zone: '7 ',
-    address: '351 East 74th Street',
-    lat: 40.7694194,
-    long: -73.9555151,
-    zipcode: '10021',
-    timestart: '00:00:00',
-    timeend: '00:00:00',
-    days: 'DayTest',
-    buildingname: 'Jan Hus Church',
-    meetingname: 'YORKVILLE-BUTTERFIELD - Yorkville',
-    meetingtypes: 'Meetingtypetest',
-    specialinterests: 'SpecialinterestTest' } ]
-Number of table rows :53
-```
+<!--``` -->
+<!--  { id: 53,-->
+<!--    zone: '7 ',-->
+<!--    address: '351 East 74th Street',-->
+<!--    lat: 40.7694194,-->
+<!--    long: -73.9555151,-->
+<!--    zipcode: '10021',-->
+<!--    timestart: '00:00:00',-->
+<!--    timeend: '00:00:00',-->
+<!--    days: 'DayTest',-->
+<!--    buildingname: 'Jan Hus Church',-->
+<!--    meetingname: 'YORKVILLE-BUTTERFIELD - Yorkville',-->
+<!--    meetingtypes: 'Meetingtypetest',-->
+<!--    specialinterests: 'SpecialinterestTest' } ]-->
+<!--Number of table rows :53-->
+<!--```-->
+![Data Structure](./images/wa04_selectSample.png)
 
-The number of table rows was verified, including each of the row outputs to verify
-the database quality.
 
 
 #### Notes and dependencies
