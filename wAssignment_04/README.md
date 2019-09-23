@@ -1,9 +1,9 @@
-## MSDV PGDV5110 Weekly assignment 03 
+## MSDV PGDV5110 Weekly assignment 04 
 (due 23/16/2019 6pm)
 
 ### Summary:
 
-This task builds on the previous week's assignment storing data into a PostgreSQL
+This task consists of storing previous week's AA meeting data into a PostgreSQL
 database on Amazon Web Services (AWS).
 
 ### Documentation:
@@ -23,13 +23,16 @@ The following questions required answers:
 1. Will you use a Normalized Data Model or a Denormalized Data Model? Why?
 
 
-A Denormalized Data model was selected, because the data set is not significantly large
-(approx 50-60 meetings across ten zones).
+A Denormalized Data model was selected, because the data set is not extremely large
+(53 meetings for zone 7 and ultimately will be expanded to 10 zones; est. 500-600 rows).
+
 Storage requirements are adequate in AWS and the complexity to Normalize the data
 would not be inline with fully normalizing the database at this time.
 Whereas this choice might impact scalability (if for example the whole world AA 
 meetings is needed), the duplication in the current model is deemed
-to have a Denormalized model.
+to have a Denormalized model. 
+A Normalized model might be required if storage requirements are under pressure
+and if there is significant duplication.
 
 
 
