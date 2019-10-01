@@ -56,25 +56,25 @@ blogEntries.push(new BlogEntry('AAmeetings', '09-26-2019',
 blogEntries.push(new BlogEntry('IoT', '09-27-2019', 
 "It seems like pharmacies don’t like to sell data loggers without doctor’s orders *sigh… Luckily there is some reflection that can be done.", 
 ["datalogging"],
-"https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20190927_reflections.png",
+"https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20190927_reflections.jpg",
 ["CVS","Central Park"]));
 
 blogEntries.push(new BlogEntry('Thoughts', '09-28-2019', 
 "National Geographic visualizing the top dogs. I wonder if this is stored in a relational database.", 
 ["dogs", "relationalDB"],
-"https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20190928_natgeo.png",
+"https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20190928_natgeo.jpg",
 ["Subway"]));
 
 blogEntries.push(new BlogEntry('Thoughts', '09-29-2019', 
 "The medieval faire at the Cloisters is some good research to bolster MET Qualitative data viz research. What is the quality of the armour?", 
 ["Qualitative"],
-"https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20190929_medieval.png",
+"https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20190929_medieval.jpg",
 ["Cloisters"]));
 
 blogEntries.push(new BlogEntry('Thoughts', '09-30-2019', 
 "This is not a horizontal data structure.", 
 ["structure"],
-"https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20190930_structure.png",
+"https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20190930_structure.jpg",
 ["Columbus Circle"]));
 
 // Check that it is correct
