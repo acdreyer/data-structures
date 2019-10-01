@@ -45,7 +45,7 @@ A flat data structure as indicated in the image below.
 
 
 
-![Data Structure](./images/week05_dataModel.PNG | width = 200)
+![Data Structure](./images/week05_dataModel.PNG)
 
 ---------
 
@@ -83,7 +83,7 @@ BlogEntry {
 
 The resulting table in AWS is shown here:
 
-![Data Insertion](./images/week05_noSQLtable.PN)
+![Data Insertion](./images/week05_noSQLtable.PNG)
 
 
 
@@ -93,6 +93,5 @@ The resulting table in AWS is shown here:
 #### Notes and dependencies
 
 The is intented to be run on Cloud9 where all dependencies for development is already available.
-[async](https://caolan.github.io/async/v3/),  [dotenv](https://www.npmjs.com/package/dotenv) and 
-[pg](https://node-postgres.com/) is required.
+[async](https://caolan.github.io/async/v3/) and [aws-sdk](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/) are required.
 
