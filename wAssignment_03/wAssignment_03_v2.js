@@ -1,9 +1,8 @@
-/* MSDV PGDV5110 Weekly Assignment 03
+/* MSDV PGDV5110 Weekly Assignment 01
 
 Created by A.C. Dreyer;  09/14/2019 */
 
 // Note: much of the TAMU API interface code comes from supplied sample code.
-// The 2nd version is to add various sections for handling more files.
 
 
 // Dependencies
@@ -24,7 +23,7 @@ var count = 0;
 var TAMUcontent = [];
 
 // extract addresses from JSON file
-var zoneFileName = '../wAssignment_02/data/zone7AAmeetings'; //list of meetings (zone file)
+var zoneFileName = './data/zone7AAmeetings'; //list of meetings (zone file)
 var meetingContent = JSON.parse(fs.readFileSync(zoneFileName + ".json")); //Load meeting data
 meetingContent = meetingContent.filter(function(x) { return x }); //Remove null entries
 meetingContent = meetingContent.filter(value => Object.keys(value).length !== 0); //Remove empty entries

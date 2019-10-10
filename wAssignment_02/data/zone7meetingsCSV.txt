@@ -5,7 +5,7 @@ Address,City/State,Zipcode
 351 East 74th Street,NY,10021
 1393 York Avenue,NY,10021
 520 Park Avenue,NY,10021
-337 E. 74th St.,NY,10021
+337 East 74th Street,NY,10021
 1157 Lexington Avenue,NY,10075
 420 East 76th Street,NY,10021
 230 East 90th Street,NY,10128
@@ -41,11 +41,11 @@ Address,City/State,Zipcode
 593 Park Avenue,NY,10128
 65 East 89th Street,NY,10128
 865 Madison Avenue,NY,10021
-543 Main St.,NY,10044
+543 Main Street,NY,10044
 413 East 79th Street,NY,10021
 351 East 74th Street,NY,10021
 310 East 67th Street,NY,10065
-331 E 70th St,NY,10021
+331 East 70th Street,NY,10021
 411 East 68th Street,NY,10021
 2 East 90th Street,NY,10128
 341 East 87th Street,NY,10128
