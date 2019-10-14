@@ -25,7 +25,12 @@ const client = new Client(db_credentials);
 client.connect();
 
 // Sample SQL statement to query meetings on Monday that start on or after 7:00pm: 
-var thisQuery = "SELECT mtgday, mtgtime, mtglocation, mtgaddress, mtgtypes FROM aadata WHERE mtgday = 'Monday' and mtghour >= 7;";
+// var thisQuery = "CREATE TABLE aameetings (id SERIAL PRIMARY KEY, zone , address , lat , long , zipcode , timestart , timeend , days , buildingname , meetingname , meetingtypes , specialinterests );";
+var thisQuery =     "SELECT address, lat, long, timestart, meetingname, zone \
+                    FROM aameetings \
+                    WHERE timestart = '00:00:00' and lat >= 40.7697705 and long <= -73.960301601538 \
+                    ORDER BY lat ASC, long DESC;";
+
 
 client.query(thisQuery, (err, res) => {
     if (err) {throw err}
