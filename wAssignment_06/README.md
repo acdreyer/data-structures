@@ -9,9 +9,9 @@ This task consists of database queries broken into two parts:
 
 The assignment is detailed in the [data structures course github page](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_06.md).
 
---------------------------
 
 ### Documentation:
+--------------------------
 
 1. PostgreSQL Query:
 
@@ -25,7 +25,7 @@ populated (see following [assignment](https://github.com/visualizedata/data-stru
 Additional `GROUP BY` sections might then have to be added to aggregate
 data. Parsed times should also still be added to the database table.
 
-The following code was used to select a window for a specified min. latitude and
+The following code was used to select a window for a specified minimun latitude and
 specified maximum longitude. This query will be more involved for the final project: 
 
 ```
@@ -35,10 +35,13 @@ var thisQuery =     "SELECT address, lat, long, timestart, meetingname, zone \
                     ORDER BY lat ASC, long DESC;";
 ```
 
+
+
 The output is shown below:
 
 ![Data Structure](./images/w06_a.PNG)
 
+-----------------------
 
 2. DynamoDB Query:
 
@@ -61,6 +64,9 @@ The query is done with the following values:
         ":maxDate": {N: new Date("Sep 29 2019").valueOf().toString()}
     }
 ```
+The updated database is shown below:
+
+![Data Structure](./images/w06_b_1.PNG)
 
 The output is shown below:
 
