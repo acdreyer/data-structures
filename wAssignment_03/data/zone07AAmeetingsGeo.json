@@ -1,0 +1,2217 @@
+[
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "A Baffled Lot",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "2nd Floor",
+		"descr2": "Betw 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "48 East 80th Street",
+		"zipcode": "10021",
+		"buildingName": "Manhattan Church of Christ",
+		"meetingName": "A.A. Traditions And History",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "2nd Floor Library",
+		"descr2": "Ring Bell Next to Sign.",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "T",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7767263",
+			"long": "-73.9612366",
+			"TAMUaddress": "48 E 80TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.9349112426035"
+		}
+	},
+	{
+		"streetAddress": "184 East 76th Street",
+		"zipcode": "10021",
+		"buildingName": "St. Jean Baptiste Church",
+		"meetingName": "Active",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "Basement",
+		"descr2": "Betw Lexington &amp; 3rd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7729024777959",
+			"long": "-73.960301601538",
+			"TAMUaddress": "184 E 76TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "Afternoon Awakening",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "2nd Floor",
+		"descr2": "Betw. 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "2:30 PM",
+				"timeend": "3:30 PM",
+				"meettype": "B",
+				"meetspecial": "Living Sober"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "2:30 PM",
+				"timeend": "3:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Wednesdays",
+				"timestart": "2:30 PM",
+				"timeend": "3:30 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Thursdays",
+				"timestart": "2:30 PM",
+				"timeend": "3:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Fridays",
+				"timestart": "2:30 PM",
+				"timeend": "3:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "1393 York Avenue",
+		"zipcode": "10021",
+		"buildingName": "Church of the Epiphany",
+		"meetingName": "Atlantic Eleventh Step Meditation",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "@ 74th Street",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:15 PM",
+				"timeend": "8:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.768415",
+			"long": "-73.9528341",
+			"TAMUaddress": "1393 YORK AVE New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "520 Park Avenue",
+		"zipcode": "10021",
+		"buildingName": "Christ United Methodist Church",
+		"meetingName": "Atlantic Group (I)",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "@ 60th Street",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7639426",
+			"long": "-73.9700429",
+			"TAMUaddress": "520 PARK AVE New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.9349112426035"
+		}
+	},
+	{
+		"streetAddress": "337 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Archdiocian Cathedral of the Holy Trinity",
+		"meetingName": "Atlantic Group (II)",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "Between First and Second Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7696836",
+			"long": "-73.9561119",
+			"TAMUaddress": "337 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "1157 Lexington Avenue",
+		"zipcode": "10075",
+		"buildingName": "All Souls Church",
+		"meetingName": "Atlantic Group (Iii)",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "between 79th and 80th Streets",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7754455",
+			"long": "-73.9583638",
+			"TAMUaddress": "1157 LEXINGTON AVE New York NY 10075",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "420 East 76th Street",
+		"zipcode": "10021",
+		"buildingName": "Gracie Square Hospital",
+		"meetingName": "Breaking Through",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "Betw 1st &amp; York Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7697705",
+			"long": "-73.9529077",
+			"TAMUaddress": "420 E 76TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "230 East 90th Street",
+		"zipcode": "10128",
+		"buildingName": "Our Lady of Good Counsel Church",
+		"meetingName": "Came To Believe",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Downstairs",
+		"descr2": "Betw 2nd &amp; 3rd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "3:30 PM",
+				"timeend": "4:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.780841",
+			"long": "-73.9510956",
+			"TAMUaddress": "230 E 90TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "65 East 89th Street",
+		"zipcode": "10128",
+		"buildingName": "St. Thomas More Church",
+		"meetingName": "Carnegie Hill",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Basement",
+		"descr2": "@ Park &amp; Madison Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.78259",
+			"long": "-73.9566571",
+			"TAMUaddress": "65 E 89TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "865 Madison Avenue",
+		"zipcode": "10021",
+		"buildingName": "St. James Episcopal Church",
+		"meetingName": "Central",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Basement",
+		"descr2": "@ East 71st Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "5:00 PM",
+				"timeend": "5:45 PM",
+				"meettype": "O",
+				"meetspecial": "Meditation"
+			},
+			"1": {
+				"datemeet": "Sundays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Sundays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Sundays",
+				"timestart": "7:15 PM",
+				"timeend": "8:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7713251",
+			"long": "-73.9655852",
+			"TAMUaddress": "865 MADISON AVE New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "1296 Lexington Avenue",
+		"zipcode": "10128",
+		"buildingName": "Immanuel Lutheran Church",
+		"meetingName": "Chapter Five",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Basement",
+		"descr2": "Enter through red door on Lexington Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Thursdays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Fridays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"5": {
+				"datemeet": "Sundays",
+				"timestart": "8:00 AM",
+				"timeend": "9:00 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"6": {
+				"datemeet": "Saturdays",
+				"timestart": "8:00 AM",
+				"timeend": "9:00 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"7": {
+				"datemeet": "Fridays",
+				"timestart": "6:15 PM",
+				"timeend": "7:30 PM",
+				"meettype": "S",
+				"meetspecial": "Women"
+			},
+			"8": {
+				"datemeet": "Sundays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"9": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:30 PM",
+				"timeend": "9:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"10": {
+				"datemeet": "Thursdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:15 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7803300287851",
+			"long": "-73.9550885355201",
+			"TAMUaddress": "1296 LEXINGTON AVE New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "Eleventh Step At Jan Hus",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Mazaryk Room",
+		"descr2": "Betw. 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "9:00 AM",
+				"timeend": "10:00 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "1157 Lexington Avenue",
+		"zipcode": "10028",
+		"buildingName": "All Souls Uniterian Church",
+		"meetingName": "Fearless",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "1st Floor",
+		"descr2": "@ East 80th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7754455",
+			"long": "-73.9583638",
+			"TAMUaddress": "1157 LEXINGTON AVE New York NY 10028",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.9349112426035"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "Friday Central",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Mazaryk Room",
+		"descr2": "Betw. 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "Friday Night Gay Men & Women",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "2nd Floor",
+		"descr2": "Betw. 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "S",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "65 East 89th Street",
+		"zipcode": "10128",
+		"buildingName": "St. Thomas More Church Rectory",
+		"meetingName": "Friday Night Men's Step",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Betw Madison &amp; Park Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "S",
+				"meetspecial": "Men"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.78259",
+			"long": "-73.9566571",
+			"TAMUaddress": "65 E 89TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "65 East 89th Street",
+		"zipcode": "10128",
+		"buildingName": "Church of Saint Thomas Moore",
+		"meetingName": "Humanists Too",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Rectory basement",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "null",
+				"meetspecial": "Agnostic"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.78259",
+			"long": "-73.9566571",
+			"TAMUaddress": "65 E 89TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "I'm All In",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "2nd Floor",
+		"descr2": "Betw. 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Thursdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Fridays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Saturdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"5": {
+				"datemeet": "Mondays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "135 East 96th Street",
+		"zipcode": "10128",
+		"buildingName": "St. Francis de Sales Church",
+		"meetingName": "Into Action Manhattan",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "between Lexington and Park Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "S",
+				"meetspecial": "Big Book Workshop"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7862757",
+			"long": "-73.951491",
+			"TAMUaddress": "135 E 96TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.4023668639053"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Presbyterian Church",
+		"meetingName": "Kitchen Table Meeting",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "2nd Floor Kitchen",
+		"descr2": "Betw. 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "11:00 AM",
+				"timeend": "12:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "2 East 90th Street",
+		"zipcode": "10128",
+		"buildingName": "Church of the Heavenly Rest",
+		"meetingName": "Lenox Hill",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Betw 5th &amp; Madison Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Mondays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Thursdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Thursdays",
+				"timestart": "8:15 PM",
+				"timeend": "9:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Mondays",
+				"timestart": "8:15 PM",
+				"timeend": "9:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7836928",
+			"long": "-73.9578694",
+			"TAMUaddress": "2 E 90TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "1157 Lexington Avenue",
+		"zipcode": "10028",
+		"buildingName": "All Souls Uniterian Church",
+		"meetingName": "Lex 80 Step",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "Betw. 79th &amp; 80th Streets",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "S",
+				"meetspecial": "Twelve Steps"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7754455",
+			"long": "-73.9583638",
+			"TAMUaddress": "1157 LEXINGTON AVE New York NY 10028",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.9349112426035"
+		}
+	},
+	{
+		"streetAddress": "420 East 76th Street",
+		"zipcode": "10021",
+		"buildingName": "Gracie Square Hospital",
+		"meetingName": "Live And Let Live",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "Betw. 1st &amp; York  Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			},
+			"1": {
+				"datemeet": "Thursdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "OD",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			},
+			"2": {
+				"datemeet": "Tuesdays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "C",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7697705",
+			"long": "-73.9529077",
+			"TAMUaddress": "420 E 76TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Presbyterian Church",
+		"meetingName": "Madison 73",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "2nd Floor",
+		"descr2": "Betw.1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Saturdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "Meditation (Expect Miracles)",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "2nd Floor Chapel Room",
+		"descr2": "Betw. 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "11:00 AM",
+				"timeend": "12:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Fridays",
+				"timestart": "11:00 AM",
+				"timeend": "12:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Mondays",
+				"timestart": "11:00 AM",
+				"timeend": "12:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Tuesdays",
+				"timestart": "11:00 AM",
+				"timeend": "12:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Wednesdays",
+				"timestart": "11:00 AM",
+				"timeend": "12:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"5": {
+				"datemeet": "Wednesdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "1285 Madison Avenue",
+		"zipcode": "10128",
+		"buildingName": "Philomathist Center",
+		"meetingName": "Men's Nyc Big Book Step Study",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:30 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7843189",
+			"long": "-73.9560924",
+			"TAMUaddress": "1285 MADISON AVE New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "48 East 84th Street",
+		"zipcode": "10028",
+		"buildingName": "St. Ignatius Loyola School",
+		"meetingName": "Metropolitan",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "Betw Madison &amp; Park Avenues",
+		"descr2": "On Saturday enter via Park Avenue Entrance",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "3:15 PM",
+				"timeend": "4:15 PM",
+				"meettype": "S",
+				"meetspecial": "First Step Workshop"
+			},
+			"1": {
+				"datemeet": "Sundays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "null",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Sundays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:45 PM",
+				"timeend": "8:45 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7790604",
+			"long": "-73.9588788",
+			"TAMUaddress": "48 E 84TH ST New York NY 10028",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "408 East 82nd Street",
+		"zipcode": "10028",
+		"buildingName": "St. Stephen of Hungary Church",
+		"meetingName": "Monday East Topic",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Rectory",
+		"descr2": "Betw 1st &amp; York Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7738528",
+			"long": "-73.9504699",
+			"TAMUaddress": "408 E 82ND ST New York NY 10028",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "Monday Women",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "2nd Floor Front Room",
+		"descr2": "Betw. 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:15 PM",
+				"timeend": "8:15 PM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "Morning Reflections",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "2nd Floor",
+		"descr2": "Front Room",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "9:30 AM",
+				"timeend": "10:30 AM",
+				"meettype": "OD",
+				"meetspecial": "Daily Reflections"
+			},
+			"1": {
+				"datemeet": "Thursdays",
+				"timestart": "9:30 AM",
+				"timeend": "10:30 AM",
+				"meettype": "OD",
+				"meetspecial": "Daily Reflections"
+			},
+			"2": {
+				"datemeet": "Fridays",
+				"timestart": "9:30 AM",
+				"timeend": "10:30 AM",
+				"meettype": "OD",
+				"meetspecial": "Daily Reflections"
+			},
+			"3": {
+				"datemeet": "Mondays",
+				"timestart": "9:30 AM",
+				"timeend": "10:30 AM",
+				"meettype": "OD",
+				"meetspecial": "Daily Reflections"
+			},
+			"4": {
+				"datemeet": "Tuesdays",
+				"timestart": "9:30 AM",
+				"timeend": "10:30 AM",
+				"meettype": "OD",
+				"meetspecial": "Daily Reflections"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "125 East 85th Street",
+		"zipcode": "10028",
+		"buildingName": "Congregational Kehilath Jeshurun",
+		"meetingName": "New Choices",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "Ramaz School Entrance",
+		"descr2": "@ Lexington Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7790514",
+			"long": "-73.956386",
+			"TAMUaddress": "125 E 85TH ST New York NY 10028",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "Open Book",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "2nd Floor",
+		"descr2": "Library Room",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:15 PM",
+				"timeend": "8:15 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "Our Primary Purpose",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "2nd Floor Kitchen",
+		"descr2": "Betw. 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "9:30 AM",
+				"timeend": "10:30 AM",
+				"meettype": "S",
+				"meetspecial": "Women"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "865 Madison Avenue",
+		"zipcode": "10021",
+		"buildingName": "St. James Church",
+		"meetingName": "Park Bench (II)",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "3rd Floor",
+		"descr2": "Betw. 71st &amp; 72nd Streets",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Thursdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7713251",
+			"long": "-73.9655852",
+			"TAMUaddress": "865 MADISON AVE New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "62 East 92nd Street",
+		"zipcode": "10128",
+		"buildingName": "Brick Church Parish House",
+		"meetingName": "Park Madison",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "Basement",
+		"descr2": "Betw Madison &amp; Park Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "6:45 PM",
+				"timeend": "7:45 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:45 PM",
+				"timeend": "7:45 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Tuesdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Fridays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7842393",
+			"long": "-73.955258",
+			"TAMUaddress": "62 E 92ND ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "Perseverance",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "2nd Floor Front Room",
+		"descr2": "Betw. 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "11:00 AM",
+				"timeend": "12:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "420 East 87th Street",
+		"zipcode": "10128",
+		"buildingName": "St. Joseph's School",
+		"meetingName": "Recovery Room",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Basement",
+		"descr2": "Betw 1st &amp; York Avenues Enter thru Red Door",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7770465",
+			"long": "-73.9479432",
+			"TAMUaddress": "420 E 87TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.4023668639053"
+		}
+	},
+	{
+		"streetAddress": "593 Park Avenue",
+		"zipcode": "10128",
+		"buildingName": "Central Presbyterian Church",
+		"meetingName": "Renewal East",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "5th Floor Library",
+		"descr2": "@ 64th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.765841",
+			"long": "-73.9673386",
+			"TAMUaddress": "593 PARK AVE New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.4023668639053"
+		}
+	},
+	{
+		"streetAddress": "65 East 89th Street",
+		"zipcode": "10128",
+		"buildingName": "St. Thomas More Church",
+		"meetingName": "Renewal North",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "Ring Red Buzzer",
+		"descr2": "Chelsea Room",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.78259",
+			"long": "-73.9566571",
+			"TAMUaddress": "65 E 89TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "865 Madison Avenue",
+		"zipcode": "10021",
+		"buildingName": "St. James Episcopal Church",
+		"meetingName": "Rhinelander",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Basement",
+		"descr2": "@ East 71st Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Thursdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Thursdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Mondays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7713251",
+			"long": "-73.9655852",
+			"TAMUaddress": "865 MADISON AVE New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"buildingName": "",
+		"streetAddress": "543 Main Street",
+		"zipcode": "10044",
+		"meetingName": "Roosevelt Island Serenity",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "Basement",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7618261",
+			"long": "-73.9500511",
+			"TAMUaddress": "543 MAIN ST New York NY 10044",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "413 East 79th Street",
+		"zipcode": "10021",
+		"buildingName": "St. Monica's Church",
+		"meetingName": "Seventy",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Basement",
+		"descr2": "Betw 1st &amp; York Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:00 AM",
+				"timeend": "7:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Mondays",
+				"timestart": "6:00 AM",
+				"timeend": "7:00 AM",
+				"meettype": "C",
+				"meetspecial": "Daily Reflections"
+			},
+			"2": {
+				"datemeet": "Fridays",
+				"timestart": "6:00 AM",
+				"timeend": "7:00 AM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Thursdays",
+				"timestart": "6:00 AM",
+				"timeend": "7:00 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:00 AM",
+				"timeend": "7:00 AM",
+				"meettype": "C",
+				"meetspecial": "As Bill Sees It"
+			},
+			"5": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"6": {
+				"datemeet": "Mondays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"7": {
+				"datemeet": "Fridays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"8": {
+				"datemeet": "Thursdays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"9": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"10": {
+				"datemeet": "Saturdays",
+				"timestart": "8:00 AM",
+				"timeend": "9:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"11": {
+				"datemeet": "Sundays",
+				"timestart": "8:00 AM",
+				"timeend": "9:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"12": {
+				"datemeet": "Wednesdays",
+				"timestart": "8:30 AM",
+				"timeend": "9:30 AM",
+				"meettype": "T",
+				"meetspecial": "null"
+			},
+			"13": {
+				"datemeet": "Tuesdays",
+				"timestart": "8:30 AM",
+				"timeend": "9:30 AM",
+				"meettype": "C",
+				"meetspecial": "Promises"
+			},
+			"14": {
+				"datemeet": "Mondays",
+				"timestart": "8:30 AM",
+				"timeend": "9:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"15": {
+				"datemeet": "Fridays",
+				"timestart": "8:30 AM",
+				"timeend": "9:30 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"16": {
+				"datemeet": "Thursdays",
+				"timestart": "8:30 AM",
+				"timeend": "9:30 AM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"17": {
+				"datemeet": "Thursdays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "T",
+				"meetspecial": "null"
+			},
+			"18": {
+				"datemeet": "Wednesdays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"19": {
+				"datemeet": "Tuesdays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"20": {
+				"datemeet": "Mondays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"21": {
+				"datemeet": "Saturdays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "C",
+				"meetspecial": "Children Welcome"
+			},
+			"22": {
+				"datemeet": "Sundays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"23": {
+				"datemeet": "Fridays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"24": {
+				"datemeet": "Thursdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"25": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"26": {
+				"datemeet": "Tuesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"27": {
+				"datemeet": "Mondays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"28": {
+				"datemeet": "Saturdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"29": {
+				"datemeet": "Sundays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"30": {
+				"datemeet": "Fridays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"31": {
+				"datemeet": "Saturdays",
+				"timestart": "2:00 PM",
+				"timeend": "3:00 PM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			},
+			"32": {
+				"datemeet": "Sundays",
+				"timestart": "2:00 PM",
+				"timeend": "3:00 PM",
+				"meettype": "C",
+				"meetspecial": "Men"
+			},
+			"33": {
+				"datemeet": "Fridays",
+				"timestart": "4:00 PM",
+				"timeend": "5:00 PM",
+				"meettype": "S",
+				"meetspecial": "First Step Workshop"
+			},
+			"34": {
+				"datemeet": "Thursdays",
+				"timestart": "4:00 PM",
+				"timeend": "5:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"35": {
+				"datemeet": "Wednesdays",
+				"timestart": "4:00 PM",
+				"timeend": "5:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"36": {
+				"datemeet": "Tuesdays",
+				"timestart": "4:00 PM",
+				"timeend": "5:00 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"37": {
+				"datemeet": "Mondays",
+				"timestart": "4:00 PM",
+				"timeend": "5:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"38": {
+				"datemeet": "Saturdays",
+				"timestart": "4:00 PM",
+				"timeend": "5:00 PM",
+				"meettype": "S",
+				"meetspecial": "Steps 1-2-3"
+			},
+			"39": {
+				"datemeet": "Sundays",
+				"timestart": "4:00 PM",
+				"timeend": "5:00 PM",
+				"meettype": "C",
+				"meetspecial": "As Bill Sees It"
+			},
+			"40": {
+				"datemeet": "Fridays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "C",
+				"meetspecial": "Children Welcome"
+			},
+			"41": {
+				"datemeet": "Thursdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			},
+			"42": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"43": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"44": {
+				"datemeet": "Mondays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "T",
+				"meetspecial": "null"
+			},
+			"45": {
+				"datemeet": "Saturdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"46": {
+				"datemeet": "Sundays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"47": {
+				"datemeet": "Sundays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "C",
+				"meetspecial": "Promises"
+			},
+			"48": {
+				"datemeet": "Fridays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"49": {
+				"datemeet": "Wednesdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"50": {
+				"datemeet": "Tuesdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "C",
+				"meetspecial": "Sponsorship Workshop"
+			},
+			"51": {
+				"datemeet": "Saturdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			},
+			"52": {
+				"datemeet": "Saturdays",
+				"timestart": "10:00 PM",
+				"timeend": "11:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"53": {
+				"datemeet": "Sundays",
+				"timestart": "10:00 PM",
+				"timeend": "11:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"54": {
+				"datemeet": "Fridays",
+				"timestart": "10:00 PM",
+				"timeend": "11:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"55": {
+				"datemeet": "Thursdays",
+				"timestart": "10:00 PM",
+				"timeend": "11:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"56": {
+				"datemeet": "Tuesdays",
+				"timestart": "10:00 PM",
+				"timeend": "11:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"57": {
+				"datemeet": "Mondays",
+				"timestart": "10:00 PM",
+				"timeend": "11:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"58": {
+				"datemeet": "Wednesdays",
+				"timestart": "10:00 PM",
+				"timeend": "11:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7721222",
+			"long": "-73.9517608",
+			"TAMUaddress": "413 E 79TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.9349112426035"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "Sober Women",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Sanctuary",
+		"descr2": "Betw. 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "9:15 AM",
+				"timeend": "10:15 AM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "310 East 67th Street",
+		"zipcode": "10065",
+		"buildingName": "New York Blood Center",
+		"meetingName": "Step By Step",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "Auditorium",
+		"descr2": "Betw. 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7651821",
+			"long": "-73.9599207",
+			"TAMUaddress": "310 E 67TH ST New York NY 10065",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "331 East 70th Street",
+		"zipcode": "10021",
+		"buildingName": "Lenox Hill Neighborhood House",
+		"meetingName": "Sunday On 70th",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Betw 1st &amp; 2nd Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.766948",
+			"long": "-73.9577722",
+			"TAMUaddress": "331 E 70TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "411 East 68th Street",
+		"zipcode": "10021",
+		"buildingName": "Church of St. Catherine of Siena",
+		"meetingName": "Sutton",
+		"wheelchairacc": true,
+		"zone": "7",
+		"descr1": "Betw. York &amp; 1st Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7651081",
+			"long": "-73.957215",
+			"TAMUaddress": "411 E 68TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.9349112426035"
+		}
+	},
+	{
+		"streetAddress": "2 East 90th Street",
+		"zipcode": "10128",
+		"buildingName": "Church of the Heavenly Rest",
+		"meetingName": "Three Twelves",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Basement",
+		"descr2": "Enter thru the Family Chapel on 5th Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "12:00 PM",
+				"timeend": "1:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Thursdays",
+				"timestart": "12:00 PM",
+				"timeend": "1:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7836928",
+			"long": "-73.9578694",
+			"TAMUaddress": "2 E 90TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "341 East 87th Street",
+		"zipcode": "10128",
+		"buildingName": "Holy Trinity Church",
+		"meetingName": "Trinity",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "Choir Room Ring Bell",
+		"descr2": "Btw. 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:15 PM",
+				"timeend": "8:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Fridays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Tuesdays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7780211",
+			"long": "-73.9497263",
+			"TAMUaddress": "341 E 87TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "We Humanists",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "2nd Floor Museum Room",
+		"descr2": "Betw 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "C",
+				"meetspecial": "Agnostic"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "Wednesday East On Thursday",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "2nd Floor Kitchen",
+		"descr2": "Betw. 1st &amp; 2nd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"zipcode": "10021",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "Yorkville",
+		"wheelchairacc": false,
+		"zone": "7",
+		"descr1": "2nd Floor",
+		"descr2": "Masaryk Room",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	}
+]

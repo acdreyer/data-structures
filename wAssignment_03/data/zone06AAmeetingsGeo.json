@@ -1,0 +1,2347 @@
+[
+	{
+		"streetAddress": "207 West 96th Street",
+		"zipcode": "10025",
+		"buildingName": "Holy Name Church",
+		"meetingName": "A New Day",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "Betw. Amsterdam Avenue &amp; Bway.",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "3:00 PM",
+				"timeend": "4:00 PM",
+				"meettype": "C",
+				"meetspecial": "As Bill Sees It"
+			},
+			"1": {
+				"datemeet": "Wednesdays",
+				"timestart": "3:00 PM",
+				"timeend": "4:00 PM",
+				"meettype": "C",
+				"meetspecial": "Living Sober"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7945161",
+			"long": "-73.9710419",
+			"TAMUaddress": "207 W 96TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "120 West 69th Street",
+		"zipcode": "10023",
+		"buildingName": "Christ & St. Stephen's Church",
+		"meetingName": "A Vision For You",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "Betw Columbus Avenue &amp; Bway",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "7:45 PM",
+				"timeend": "8:45 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Fridays",
+				"timestart": "9:00 PM",
+				"timeend": "10:00 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7756982",
+			"long": "-73.9810333",
+			"TAMUaddress": "120 W 69TH ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "422 West 57th Street",
+		"zipcode": "10023",
+		"buildingName": "Trinity Presbyterian Church",
+		"meetingName": "After Eight (I)",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Betw 9th and 10th Ave",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:45 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7682311",
+			"long": "-73.9868768",
+			"TAMUaddress": "422 W 57TH ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.9349112426035"
+		}
+	},
+	{
+		"streetAddress": "164 West 74th Street",
+		"zipcode": "10023",
+		"buildingName": "Phoenix House",
+		"meetingName": "After Eight (II)",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "1st floor",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "AA Literature"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7796117",
+			"long": "-73.9801807",
+			"TAMUaddress": "164 W 74TH ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "207 West 96th Street",
+		"zipcode": "10025",
+		"buildingName": "Holy Name Church",
+		"meetingName": "Altered Attitudes",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Little Room Basement",
+		"descr2": "Betw. Amsterdam Avenue &amp; Bway.",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "9:30 PM",
+				"timeend": "10:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7945161",
+			"long": "-73.9710419",
+			"TAMUaddress": "207 W 96TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "144 West 90th Street",
+		"zipcode": "10024",
+		"buildingName": "St. Gregory's Church",
+		"meetingName": "Amsterdam",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "Betw. Columbus &amp; Amsterdam Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "1:00 PM",
+				"timeend": "2:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Saturdays",
+				"timestart": "2:30 PM",
+				"timeend": "4:00 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Mondays",
+				"timestart": "4:00 PM",
+				"timeend": "5:30 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Tuesdays",
+				"timestart": "4:00 PM",
+				"timeend": "5:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Wednesdays",
+				"timestart": "4:00 PM",
+				"timeend": "5:30 PM",
+				"meettype": "O",
+				"meetspecial": "Living Sober"
+			},
+			"5": {
+				"datemeet": "Fridays",
+				"timestart": "4:00 PM",
+				"timeend": "5:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7898068",
+			"long": "-73.9723737",
+			"TAMUaddress": "144 W 90TH ST New York NY 10024",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "141 West 73rd Street",
+		"zipcode": "10023",
+		"buildingName": "Hamilton House",
+		"meetingName": "Ansonia",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "Betw Columbus &amp; Amsterdam Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7789036",
+			"long": "-73.9799533",
+			"TAMUaddress": "141 W 73RD ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "4 West 76th Street",
+		"zipcode": "10023",
+		"buildingName": "Fourth Universalist Church",
+		"meetingName": "Atlantic West Step & Tradition",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Meeting in the gym",
+		"descr2": "Between Central Park West &amp; Columbus Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7788736",
+			"long": "-73.9745891",
+			"TAMUaddress": "4 W 76TH ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "221 West 107th Street",
+		"zipcode": "10025",
+		"buildingName": "Church of the Ascension",
+		"meetingName": "Bloomingdale",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "Betw. Amsterdam Avenue &amp; Bway",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8017795",
+			"long": "-73.9665393",
+			"TAMUaddress": "221 W 107TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "207 West 96th Street",
+		"zipcode": "10025",
+		"buildingName": "Holy Name Church",
+		"meetingName": "Broadway At 96th",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "Little Room",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Fridays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7945161",
+			"long": "-73.9710419",
+			"TAMUaddress": "207 W 96TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "215 West 82nd Street",
+		"zipcode": "10024",
+		"buildingName": "Holy Trinity Rectory",
+		"meetingName": "Cadillacs For Everyone",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "Betw Amsterdam Avenue &amp; Bway",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "OD",
+				"meetspecial": "Men"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7852818734432",
+			"long": "-73.9771060064311",
+			"TAMUaddress": "215 W 82ND ST New York NY 10024",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "601 West 114th Street",
+		"zipcode": "10025",
+		"buildingName": "Broadway Presbyterian Church",
+		"meetingName": "Campus Cheer",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "2nd Red Door",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Thursdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8069051",
+			"long": "-73.965058",
+			"TAMUaddress": "601 W 114TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "160 Central Park West",
+		"zipcode": "10023",
+		"buildingName": "Universalist Church",
+		"meetingName": "Central Park West",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "basement gymnasium",
+		"descr2": "enter on 76th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "8:15 PM",
+				"timeend": "9:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7787712",
+			"long": "-73.9743066",
+			"TAMUaddress": "160 CENTRAL PARK W New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "5 West 63rd Street",
+		"zipcode": "10023",
+		"buildingName": "West Side YMCA at 63rd Street",
+		"meetingName": "Chelsea Riverside",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "Downstairs in large meeting room.",
+		"descr2": "Betw. Central Park West &amp; Broadway",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:30 PM",
+				"timeend": "8:45 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Mondays",
+				"timestart": "9:00 PM",
+				"timeend": "10:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Mondays",
+				"timestart": "10:15 PM",
+				"timeend": "11:15 PM",
+				"meettype": "C",
+				"meetspecial": "Topic"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7708644",
+			"long": "-73.9806413",
+			"TAMUaddress": "5 W 63RD ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "4 West 76th Street",
+		"zipcode": "10023",
+		"buildingName": "Universalist Church",
+		"meetingName": "Chock Full Of Sobriety",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "In the gym",
+		"descr2": "Betw Columbus Avenue &amp; Central Park West",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7788736",
+			"long": "-73.9745891",
+			"TAMUaddress": "4 W 76TH ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "160 Central Park West",
+		"zipcode": "10023",
+		"buildingName": "Fourth Universalist Society",
+		"meetingName": "Classen Hall (II)",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Gym basement.",
+		"descr2": "@ 76th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7787712",
+			"long": "-73.9743066",
+			"TAMUaddress": "160 CENTRAL PARK W New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "152 West 66th Street",
+		"zipcode": "10023",
+		"buildingName": "Good Shepherd Faith Church",
+		"meetingName": "Classen Hall Step Meeting ( I )",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement Level Chapel",
+		"descr2": "Betw. Broadway &amp; Amsterdam Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "6:15 PM",
+				"timeend": "7:45 PM",
+				"meettype": "S",
+				"meetspecial": "Twelve Steps"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7744405",
+			"long": "-73.9838262",
+			"TAMUaddress": "152 W 66TH ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "3 West 95th Street",
+		"zipcode": "10025",
+		"buildingName": "Second Presbyterian Church",
+		"meetingName": "Columbus At Five",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Lower Level Auditorium",
+		"descr2": "Betw Central Park West &amp; Columbus Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "5:00 PM",
+				"timeend": "6:00 PM",
+				"meettype": "C",
+				"meetspecial": "Children Welcome"
+			},
+			"1": {
+				"datemeet": "Sundays",
+				"timestart": "5:00 PM",
+				"timeend": "6:00 PM",
+				"meettype": "C",
+				"meetspecial": "Children Welcome"
+			},
+			"2": {
+				"datemeet": "Fridays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "C",
+				"meetspecial": "Topic"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7912379",
+			"long": "-73.9655109",
+			"TAMUaddress": "3 W 95TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "251 West 80th Street",
+		"zipcode": "10024",
+		"buildingName": "All Angels Church",
+		"meetingName": "Eightieth Street Beginners",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "7:30 PM",
+				"timeend": "8:45 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7848713",
+			"long": "-73.9800524",
+			"TAMUaddress": "251 W 80TH ST New York NY 10024",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "111 West 71st Street",
+		"zipcode": "10023",
+		"buildingName": "Hargrave House",
+		"meetingName": "Fast Break",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "@ Columbus Avenue",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "7:00 AM",
+				"timeend": "8:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Mondays",
+				"timestart": "7:00 AM",
+				"timeend": "8:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:00 AM",
+				"timeend": "8:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:00 AM",
+				"timeend": "8:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Thursdays",
+				"timestart": "7:00 AM",
+				"timeend": "8:00 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"5": {
+				"datemeet": "Fridays",
+				"timestart": "8:15 AM",
+				"timeend": "9:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"6": {
+				"datemeet": "Mondays",
+				"timestart": "8:15 AM",
+				"timeend": "9:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"7": {
+				"datemeet": "Tuesdays",
+				"timestart": "8:15 AM",
+				"timeend": "9:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"8": {
+				"datemeet": "Wednesdays",
+				"timestart": "8:15 AM",
+				"timeend": "9:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"9": {
+				"datemeet": "Thursdays",
+				"timestart": "8:15 AM",
+				"timeend": "9:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7769996",
+			"long": "-73.9796679",
+			"TAMUaddress": "111 W 71ST ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "5 West 63rd Street",
+		"zipcode": "10023",
+		"buildingName": "West Side YMCA",
+		"meetingName": "Fast Break Weekend",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "1st Floor",
+		"descr2": "Betw CPW &amp; Bway",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "8:00 AM",
+				"timeend": "9:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Saturdays",
+				"timestart": "8:00 AM",
+				"timeend": "9:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7708644",
+			"long": "-73.9806413",
+			"TAMUaddress": "5 W 63RD ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "5 West 63rd Street",
+		"zipcode": "10023",
+		"buildingName": "West Side YMCA",
+		"meetingName": "Fireside (II) Weekend Meetings Only",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Betw Central Park West &amp; Broadway",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "10:30 AM",
+				"timeend": "11:30 AM",
+				"meettype": "S",
+				"meetspecial": "First Step Workshop"
+			},
+			"1": {
+				"datemeet": "Sundays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Saturdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7708644",
+			"long": "-73.9806413",
+			"TAMUaddress": "5 W 63RD ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "207 West 96th Street",
+		"zipcode": "10025",
+		"buildingName": "Holy Name Church",
+		"meetingName": "First Things First",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "Little Room",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "6:00 AM",
+				"timeend": "7:00 AM",
+				"meettype": "OD",
+				"meetspecial": "As Bill Sees It"
+			},
+			"1": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:00 AM",
+				"timeend": "7:00 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Saturdays",
+				"timestart": "6:00 AM",
+				"timeend": "7:00 AM",
+				"meettype": "OD",
+				"meetspecial": "As Bill Sees It"
+			},
+			"3": {
+				"datemeet": "Thursdays",
+				"timestart": "6:00 AM",
+				"timeend": "7:00 AM",
+				"meettype": "S",
+				"meetspecial": "As Bill Sees It"
+			},
+			"4": {
+				"datemeet": "Sundays",
+				"timestart": "6:00 AM",
+				"timeend": "7:00 AM",
+				"meettype": "OD",
+				"meetspecial": "As Bill Sees It"
+			},
+			"5": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:00 AM",
+				"timeend": "7:00 AM",
+				"meettype": "OD",
+				"meetspecial": "As Bill Sees It"
+			},
+			"6": {
+				"datemeet": "Fridays",
+				"timestart": "6:00 AM",
+				"timeend": "7:00 AM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"7": {
+				"datemeet": "Fridays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"8": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"9": {
+				"datemeet": "Saturdays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"10": {
+				"datemeet": "Mondays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"11": {
+				"datemeet": "Thursdays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"12": {
+				"datemeet": "Sundays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"13": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:15 AM",
+				"timeend": "8:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"14": {
+				"datemeet": "Fridays",
+				"timestart": "8:45 AM",
+				"timeend": "9:45 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"15": {
+				"datemeet": "Wednesdays",
+				"timestart": "8:45 AM",
+				"timeend": "9:45 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"16": {
+				"datemeet": "Saturdays",
+				"timestart": "8:45 AM",
+				"timeend": "9:45 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"17": {
+				"datemeet": "Mondays",
+				"timestart": "8:45 AM",
+				"timeend": "9:45 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"18": {
+				"datemeet": "Thursdays",
+				"timestart": "8:45 AM",
+				"timeend": "9:45 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"19": {
+				"datemeet": "Sundays",
+				"timestart": "8:45 AM",
+				"timeend": "9:45 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"20": {
+				"datemeet": "Tuesdays",
+				"timestart": "8:45 AM",
+				"timeend": "9:45 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"21": {
+				"datemeet": "Tuesdays",
+				"timestart": "10:15 AM",
+				"timeend": "11:15 AM",
+				"meettype": "C",
+				"meetspecial": "Living Sober"
+			},
+			"22": {
+				"datemeet": "Fridays",
+				"timestart": "10:15 AM",
+				"timeend": "11:15 AM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"23": {
+				"datemeet": "Wednesdays",
+				"timestart": "10:15 AM",
+				"timeend": "11:15 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"24": {
+				"datemeet": "Saturdays",
+				"timestart": "10:15 AM",
+				"timeend": "11:15 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"25": {
+				"datemeet": "Mondays",
+				"timestart": "10:15 AM",
+				"timeend": "11:15 AM",
+				"meettype": "C",
+				"meetspecial": "Promises"
+			},
+			"26": {
+				"datemeet": "Thursdays",
+				"timestart": "10:15 AM",
+				"timeend": "11:15 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"27": {
+				"datemeet": "Sundays",
+				"timestart": "10:15 AM",
+				"timeend": "11:15 AM",
+				"meettype": "T",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7945161",
+			"long": "-73.9710419",
+			"TAMUaddress": "207 W 96TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "26 West 84th Street",
+		"zipcode": "10024",
+		"buildingName": "Church of St. Matthew and St. Timothy",
+		"meetingName": "Friday Night Step",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Betw. Columbus Avenue and Central Park West",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "6:30 PM",
+				"timeend": "7:45 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7844228",
+			"long": "-73.9716168",
+			"TAMUaddress": "26 W 84TH ST New York NY 10024",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "200 West 97th Street",
+		"zipcode": "10025",
+		"buildingName": "Holy Name School",
+		"meetingName": "Grupo Camino Real",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "@ Amsterdam Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "4:30 PM",
+				"timeend": "5:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Thursdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7946604892952",
+			"long": "-73.9699229082063",
+			"TAMUaddress": "200 W 97TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "218 West 108th Street",
+		"zipcode": "10025",
+		"buildingName": "Grace House",
+		"meetingName": "Grupo Dulces 24",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "Main Floor",
+		"descr2": "Betw. Amsterdam Avenue &amp; Broadway",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Fridays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Sundays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8021037",
+			"long": "-73.9658778",
+			"TAMUaddress": "218 W 108TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "125 West 104th Street",
+		"zipcode": "10025",
+		"buildingName": "Iglesia Metodista Grace",
+		"meetingName": "Grupo Luz Divina",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "1st Floor",
+		"descr2": "Betw. Columbus &amp; Amsterdam Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7985878",
+			"long": "-73.9649967",
+			"TAMUaddress": "125 W 104TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "141 West 73rd Street",
+		"zipcode": "10023",
+		"buildingName": "Hamilton House",
+		"meetingName": "Hargrave",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "between Columbus and AAvenue",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Fridays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Thursdays",
+				"timestart": "8:15 PM",
+				"timeend": "9:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7789036",
+			"long": "-73.9799533",
+			"TAMUaddress": "141 W 73RD ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "236 West 73rd Street",
+		"zipcode": "10023",
+		"buildingName": "Rutgers Church",
+		"meetingName": "Lambda West",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "5th Floor",
+		"descr2": "West of Broadway",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "S",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			},
+			"1": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "OD",
+				"meetspecial": "Interpreted for the Deaf"
+			},
+			"2": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:15 PM",
+				"timeend": "8:15 PM",
+				"meettype": "B",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			},
+			"3": {
+				"datemeet": "Wednesdays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "C",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7796494",
+			"long": "-73.982239",
+			"TAMUaddress": "236 W 73RD ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "165 West 105th Street",
+		"zipcode": "10025",
+		"buildingName": "West End Presbyterian Church",
+		"meetingName": "Manhattan Valley",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "@ Amsterdam Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7996866",
+			"long": "-73.9657282",
+			"TAMUaddress": "165 W 105TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "207 West 96th Street",
+		"zipcode": "10025",
+		"buildingName": "Holy Name Church",
+		"meetingName": "Metropolis Men's Meeting",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Btwn. Amsterdam Avenue and Broadway",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "5:45 PM",
+				"timeend": "7:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7945161",
+			"long": "-73.9710419",
+			"TAMUaddress": "207 W 96TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "207 West 96th Street",
+		"zipcode": "10025",
+		"buildingName": "Holy Name Church Rectory",
+		"meetingName": "Mid",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "Little Room",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "1:00 PM",
+				"timeend": "2:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Mondays",
+				"timestart": "1:00 PM",
+				"timeend": "2:15 PM",
+				"meettype": "S",
+				"meetspecial": "Meditation"
+			},
+			"2": {
+				"datemeet": "Tuesdays",
+				"timestart": "1:00 PM",
+				"timeend": "2:15 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Wednesdays",
+				"timestart": "1:00 PM",
+				"timeend": "2:15 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Thursdays",
+				"timestart": "1:00 PM",
+				"timeend": "2:15 PM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7945161",
+			"long": "-73.9710419",
+			"TAMUaddress": "207 W 96TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "2504 Broadway",
+		"zipcode": "10025",
+		"buildingName": "Advent Lutheran Church",
+		"meetingName": "Morningside",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "@ 93rd Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Saturdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Saturdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Saturdays",
+				"timestart": "9:15 PM",
+				"timeend": "10:15 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7927534",
+			"long": "-73.972842",
+			"TAMUaddress": "2504 BROADWAY New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "405 West 114th Street",
+		"zipcode": "10025",
+		"buildingName": "Church of Notre Dame",
+		"meetingName": "Morningside Heights Beginners",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "Merton Room",
+		"descr2": "1 Block East of  Amsterdam Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Fridays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7946083",
+			"long": "-73.9358608",
+			"TAMUaddress": "405 W 114TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "95.3254437869822"
+		}
+	},
+	{
+		"streetAddress": "368 West End Ave",
+		"zipcode": "10024",
+		"buildingName": "West End Collegiate Church",
+		"meetingName": "Never Too Late",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "1st floor",
+		"descr2": "@77th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.783225",
+			"long": "-73.9817572",
+			"TAMUaddress": "368 W END AVE New York NY 10024",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "225 West 99th Street",
+		"zipcode": "10025",
+		"buildingName": "St. Michael's Parish House",
+		"meetingName": "Night Light",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "1st Floor",
+		"descr2": "Betw. Amsterdam Avenue &amp; Broadway",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7964452",
+			"long": "-73.9694226",
+			"TAMUaddress": "225 W 99TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "251 West 100th Street",
+		"zipcode": "10025",
+		"buildingName": "Anshe Chesed Synagogue",
+		"meetingName": "Night Light Beginners",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "@ West End Avenue",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7977791",
+			"long": "-73.9709911",
+			"TAMUaddress": "251 W 100TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "207 West 96th Street",
+		"zipcode": "10025",
+		"buildingName": "Holy Name Church",
+		"meetingName": "Ninety",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "Little Room",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "10:00 PM",
+				"timeend": "11:00 PM",
+				"meettype": "T",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Mondays",
+				"timestart": "10:00 PM",
+				"timeend": "11:00 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Tuesdays",
+				"timestart": "10:00 PM",
+				"timeend": "11:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Wednesdays",
+				"timestart": "10:00 PM",
+				"timeend": "11:00 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Thursdays",
+				"timestart": "10:00 PM",
+				"timeend": "11:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"5": {
+				"datemeet": "Saturdays",
+				"timestart": "10:00 PM",
+				"timeend": "11:00 PM",
+				"meettype": "C",
+				"meetspecial": "As Bill Sees It"
+			},
+			"6": {
+				"datemeet": "Fridays",
+				"timestart": "11:00 PM",
+				"timeend": "12:00 AM",
+				"meettype": "C",
+				"meetspecial": "Promises"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7945161",
+			"long": "-73.9710419",
+			"TAMUaddress": "207 W 96TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "26 West 84th Street",
+		"zipcode": "10024",
+		"buildingName": "Church of St. Matthew & St. Timothy",
+		"meetingName": "Oxford (I)",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "Betw. Central Park West &amp; Columbus Avenue",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "s",
+				"timestart": "12:00 AM",
+				"timeend": "12:00 AM",
+				"meettype": "null",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Mondays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "C",
+				"meetspecial": "Interpreted for the Deaf"
+			},
+			"2": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "O",
+				"meetspecial": "Interpreted for the Deaf"
+			},
+			"3": {
+				"datemeet": "Thursdays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7844228",
+			"long": "-73.9716168",
+			"TAMUaddress": "26 W 84TH ST New York NY 10024",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "5 West 63rd Street",
+		"zipcode": "10023",
+		"buildingName": "West Side YMCA",
+		"meetingName": "Promises Promises",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "Room D",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7708644",
+			"long": "-73.9806413",
+			"TAMUaddress": "5 W 63RD ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "552 West End Avenue",
+		"zipcode": "10024",
+		"buildingName": "St. Ignatius Church",
+		"meetingName": "Renewal West",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "Betw. Broadway &amp; West End Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.78931",
+			"long": "-73.9773114",
+			"TAMUaddress": "552 W END AVE New York NY 10024",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "164 West 74 Street",
+		"zipcode": "10024",
+		"buildingName": "Phoenix House",
+		"meetingName": "Routes",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "1st Floor",
+		"descr2": "ask at Front Desk",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7796117",
+			"long": "-73.9801807",
+			"TAMUaddress": "164 W 74 ST New York NY 10024",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "99.4674556213018"
+		}
+	},
+	{
+		"streetAddress": "340 West 85th Street",
+		"zipcode": "10024",
+		"buildingName": "Volunteers of America",
+		"meetingName": "Rude Awakening",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "Betw. West End Avenue &amp; Riverside Drive",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "C",
+				"meetspecial": "Living Sober"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7887343",
+			"long": "-73.9798639",
+			"TAMUaddress": "340 W 85TH ST New York NY 10024",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "368 West End Avenue",
+		"zipcode": "10024",
+		"buildingName": "West End Collegiate Church",
+		"meetingName": "Smithereens",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "1st Floor",
+		"descr2": "@ West 77th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Wednesdays",
+				"timestart": "8:15 PM",
+				"timeend": "9:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.783225",
+			"long": "-73.9817572",
+			"TAMUaddress": "368 W END AVE New York NY 10024",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "152 West 71st Street",
+		"zipcode": "10023",
+		"buildingName": "Blessed Sacrament Church Rectory",
+		"meetingName": "Sober Stepping",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Betw Columbus Avenue &amp; Broadway",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "S",
+				"meetspecial": "Promises"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7774259",
+			"long": "-73.9812051",
+			"TAMUaddress": "152 W 71ST ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "5 West 63rd Street",
+		"zipcode": "10023",
+		"buildingName": "West Side YMCA",
+		"meetingName": "Sunday Men's Topic",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Betw. Central Park West &amp; Broadway",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "10:30 AM",
+				"timeend": "11:30 AM",
+				"meettype": "C",
+				"meetspecial": "Men"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7708644",
+			"long": "-73.9806413",
+			"TAMUaddress": "5 W 63RD ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "131 West 72nd Street",
+		"zipcode": "10023",
+		"buildingName": "",
+		"meetingName": "Sunday West",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "3rd Floor",
+		"descr2": "Room #2F",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "12:00 PM",
+				"timeend": "1:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7780247",
+			"long": "-73.9798344",
+			"TAMUaddress": "131 W 72ND ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "207 West 96th Street",
+		"zipcode": "10025",
+		"buildingName": "Holy Name Church",
+		"meetingName": "Turn It Over",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "Little Room",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "3:30 PM",
+				"timeend": "4:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "3:30 PM",
+				"timeend": "4:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Tuesdays",
+				"timestart": "4:30 PM",
+				"timeend": "5:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Thursdays",
+				"timestart": "4:30 PM",
+				"timeend": "5:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Fridays",
+				"timestart": "4:30 PM",
+				"timeend": "5:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7945161",
+			"long": "-73.9710419",
+			"TAMUaddress": "207 W 96TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "152 West 71st Street",
+		"zipcode": "10023",
+		"buildingName": "Blessed Sacrament Church Rectory",
+		"meetingName": "Way Of Life",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Ring Bell",
+		"descr2": "Betw. Columbus Avenue &amp; Broadway",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "C",
+				"meetspecial": "As Bill Sees It"
+			},
+			"1": {
+				"datemeet": "Saturdays",
+				"timestart": "11:15 AM",
+				"timeend": "12:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7774259",
+			"long": "-73.9812051",
+			"TAMUaddress": "152 W 71ST ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "30 West 68th Street",
+		"zipcode": "10023",
+		"buildingName": "Stephen Wise Free Synagogue",
+		"meetingName": "We Agnostics Of Nyc",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "Check security desk for Room #",
+		"descr2": "Betw Central Park West &amp; Columbus Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "C",
+				"meetspecial": "Agnostic"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7740859",
+			"long": "-73.979107",
+			"TAMUaddress": "30 W 68TH ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "207 West 96th Street",
+		"zipcode": "10025",
+		"buildingName": "Holy Name Church",
+		"meetingName": "We Are Not Doctors (Westside)",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "Little Room",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "4:45 PM",
+				"timeend": "5:45 PM",
+				"meettype": "OD",
+				"meetspecial": "Medication"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7945161",
+			"long": "-73.9710419",
+			"TAMUaddress": "207 W 96TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "263 West 86th Street",
+		"zipcode": "10024",
+		"buildingName": "Church of St. Paul & St. Andrew",
+		"meetingName": "West End",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "1st Floor",
+		"descr2": "@Corner of West End Avenue &amp; 86th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Thursdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7887918",
+			"long": "-73.9772649",
+			"TAMUaddress": "263 W 86TH ST New York NY 10024",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "306 West 102nd Street",
+		"zipcode": "10025",
+		"buildingName": "Addiction Institute",
+		"meetingName": "Westside 11th Step Meditation Workshop",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "2nd Floor",
+		"descr2": "Betw West End Avenue &amp; Riverside Drive",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7992334",
+			"long": "-73.9710638",
+			"TAMUaddress": "306 W 102ND ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "152 West 71st Street",
+		"zipcode": "10023",
+		"buildingName": "Blessed Sacrament Church Rectory",
+		"meetingName": "Westside Step",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7774259",
+			"long": "-73.9812051",
+			"TAMUaddress": "152 W 71ST ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "26 West 84th Street",
+		"zipcode": "10024",
+		"buildingName": "Church of St.Matthew & St. Timothy",
+		"meetingName": "Westside Young People",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Stanford Room blue door",
+		"descr2": "Betw. Columbus Avenue &amp; Central Park West",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "Young People"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7844228",
+			"long": "-73.9716168",
+			"TAMUaddress": "26 W 84TH ST New York NY 10024",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "595 Columbus Avenue",
+		"zipcode": "10024",
+		"buildingName": "Goddard Riverside Community Center",
+		"meetingName": "Without A Prayer",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "88th Street",
+		"descr2": "Ground Level",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "5:00 PM",
+				"timeend": "6:00 PM",
+				"meettype": "OD",
+				"meetspecial": "Agnostic"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7879892",
+			"long": "-73.9707609",
+			"TAMUaddress": "595 COLUMBUS AVE New York NY 10024",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "306 West 102nd Street",
+		"zipcode": "10025",
+		"buildingName": "Trinity Halfway House",
+		"meetingName": "Women Living Sober",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "2nd Floor",
+		"descr2": "Betw. Riverside Drive &amp; West End Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "9:00 AM",
+				"timeend": "10:00 AM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			},
+			"1": {
+				"datemeet": "Saturdays",
+				"timestart": "9:00 AM",
+				"timeend": "10:00 AM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7992334",
+			"long": "-73.9710638",
+			"TAMUaddress": "306 W 102ND ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "213 West 82nd Street",
+		"zipcode": "10024",
+		"buildingName": "Holy Trinity Church",
+		"meetingName": "Women West Aa",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "Betw. Amsterdam Avenue &amp; Bway",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7760114",
+			"long": "-73.9550312",
+			"TAMUaddress": "213 W 82ND ST New York NY 10024",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "95.3254437869822"
+		}
+	},
+	{
+		"streetAddress": "152 West 71st Street",
+		"zipcode": "10023",
+		"buildingName": "Blessed Sacrament (Rectory)",
+		"meetingName": "Women's Beginning Literature",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Between Broadway and Columbus Avenue",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "12:00 PM",
+				"timeend": "1:00 PM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			},
+			"1": {
+				"datemeet": "Mondays",
+				"timestart": "12:00 PM",
+				"timeend": "1:15 PM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			},
+			"2": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "Women"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7774259",
+			"long": "-73.9812051",
+			"TAMUaddress": "152 W 71ST ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "152 West 71st Street",
+		"zipcode": 10023,
+		"buildingName": "",
+		"meetingName": "Women's Eleventh Step Meeting",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "Between Broadway and Columbuis Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "12:00 PM",
+				"timeend": "1:00 PM",
+				"meettype": "OD",
+				"meetspecial": "Women"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7774259",
+			"long": "-73.9812051",
+			"TAMUaddress": "152 W 71ST ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "152 West 71st Street",
+		"zipcode": "10023",
+		"buildingName": "Blessed Sacrament (Rectory)",
+		"meetingName": "Women's Tell It Like It Is",
+		"wheelchairacc": true,
+		"zone": "6",
+		"descr1": "Between Broadway and Columbus Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "12:00 PM",
+				"timeend": "1:15 PM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7774259",
+			"long": "-73.9812051",
+			"TAMUaddress": "152 W 71ST ST New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "160 Central Park West",
+		"zipcode": "10023",
+		"buildingName": "Universalist Church",
+		"meetingName": "Women's Westside Topic",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Downstairs",
+		"descr2": "Enter through side door on 76th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7787712",
+			"long": "-73.9743066",
+			"TAMUaddress": "160 CENTRAL PARK W New York NY 10023",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "207 West 96th Street",
+		"zipcode": "10025",
+		"buildingName": "Holy Name Church",
+		"meetingName": "Writing Sober",
+		"wheelchairacc": false,
+		"zone": "6",
+		"descr1": "Basement",
+		"descr2": "Little Room",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "C",
+				"meetspecial": "Special Purpose Groups"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7945161",
+			"long": "-73.9710419",
+			"TAMUaddress": "207 W 96TH ST New York NY 10025",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	}
+]

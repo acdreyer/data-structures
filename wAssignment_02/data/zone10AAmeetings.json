@@ -1,0 +1,576 @@
+[
+    null,
+    {},
+    {
+        "streetAddress": "701 West 168th Street",
+        "zipcode": "10032",
+        "buildingName": "Columbia Presbyterian Hospital",
+        "meetingName": "A New Way Of Living",
+        "wheelchairacc": true,
+        "zone": "10",
+        "descr1": "@ Fort Washington Avenue",
+        "descr2": "Hammer Health &amp; Science Library",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Thursdays",
+                "timestart": "12:00 PM",
+                "timeend": "1:00 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Fridays",
+                "timestart": "12:00 PM",
+                "timeend": "1:00 PM",
+                "meettype": "C",
+                "meetspecial": "Living Sober"
+            },
+            "2": {
+                "datemeet": "Mondays",
+                "timestart": "12:00 PM",
+                "timeend": "1:00 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Tuesdays",
+                "timestart": "12:00 PM",
+                "timeend": "1:00 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "4": {
+                "datemeet": "Wednesdays",
+                "timestart": "12:00 PM",
+                "timeend": "1:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "715 West 179th Street",
+        "zipcode": "10033",
+        "buildingName": "Holy Rood Church",
+        "meetingName": "Bridge To Sobriety (I)",
+        "wheelchairacc": false,
+        "zone": "10",
+        "descr1": "Betw Bway &amp; Fort Washington Avenue",
+        "descr2": "",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Mondays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Tuesdays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "B",
+                "meetspecial": "Living Sober"
+            },
+            "2": {
+                "datemeet": "Wednesdays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Thursdays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "4": {
+                "datemeet": "Fridays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "715 West 179th Street",
+        "zipcode": "10040",
+        "buildingName": "Holy Rood Church",
+        "meetingName": "Bridge To Sobriety (II)",
+        "wheelchairacc": true,
+        "zone": "10",
+        "descr1": "corner of Fort Washington Avenue",
+        "descr2": "",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "S",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "431 West 204th Street",
+        "zipcode": "10034",
+        "buildingName": "St. Jude's School",
+        "meetingName": "Dyckman",
+        "wheelchairacc": false,
+        "zone": "10",
+        "descr1": "Basement",
+        "descr2": "Off of 10th Avenue",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "12:00 PM",
+                "timeend": "1:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Wednesdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "550 West 155th Street",
+        "zipcode": "10032",
+        "buildingName": "Church of the Intercession",
+        "meetingName": "Found",
+        "wheelchairacc": false,
+        "zone": "10",
+        "descr1": "2nd Floor Guild Room",
+        "descr2": "Betw Amsterdam Avenue &amp; Bway",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Saturdays",
+                "timestart": "12:30 PM",
+                "timeend": "2:00 PM",
+                "meettype": "C",
+                "meetspecial": "Gay Men"
+            }
+        }
+    },
+    {
+        "streetAddress": "557 West 156th Street",
+        "zipcode": "10032",
+        "buildingName": "Casita Esperanza",
+        "meetingName": "Grupo Despertar",
+        "wheelchairacc": true,
+        "zone": "10",
+        "descr1": "",
+        "descr2": "",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Wednesdays",
+                "timestart": "8:00 PM",
+                "timeend": "10:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Fridays",
+                "timestart": "8:00 PM",
+                "timeend": "10:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "35 Thayer Street",
+        "zipcode": "10040",
+        "buildingName": "",
+        "meetingName": "Grupo La Flama Panamericana",
+        "wheelchairacc": true,
+        "zone": "10",
+        "descr1": "Basement",
+        "descr2": "@ 200th Street",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "5:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Tuesdays",
+                "timestart": "8:00 PM",
+                "timeend": "10:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Thursdays",
+                "timestart": "8:00 PM",
+                "timeend": "10:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Saturdays",
+                "timestart": "8:00 PM",
+                "timeend": "10:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "715 West 179th Street",
+        "zipcode": "10033",
+        "buildingName": "Episcopal Holy Rood Church",
+        "meetingName": "Grupo Libertad",
+        "wheelchairacc": true,
+        "zone": "10",
+        "descr1": "1st Floor",
+        "descr2": "",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "7:30 PM",
+                "timeend": "8:30 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Thursdays",
+                "timestart": "7:30 PM",
+                "timeend": "8:30 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Thursdays",
+                "timestart": "9:30 PM",
+                "timeend": "10:30 AM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Tuesdays",
+                "timestart": "9:30 PM",
+                "timeend": "10:30 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "502 West 165th Street",
+        "zipcode": "10032",
+        "buildingName": "Church Santa Rosa de Lima",
+        "meetingName": "Grupo Recuperacion",
+        "wheelchairacc": false,
+        "zone": "10",
+        "descr1": "Basement",
+        "descr2": "Betw. St. Nicholas &amp; Amsterdam Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "2:30 PM",
+                "timeend": "3:30 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Tuesdays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Thursdays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "91 Arden Street",
+        "zipcode": "10034",
+        "buildingName": "Our Lady Queen of Martyrs",
+        "meetingName": "Grupo Un Nuevo Amanecer",
+        "wheelchairacc": false,
+        "zone": "10",
+        "descr1": "2 blocks South of Dyckman Street",
+        "descr2": "Betw. Broadway &amp; Sherman Avenue",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Mondays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Fridays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "20 Cumming Street",
+        "zipcode": "10034",
+        "buildingName": "Holy Trinity Episcopal Church",
+        "meetingName": "Happy Destiny",
+        "wheelchairacc": false,
+        "zone": "10",
+        "descr1": "@Seaman Ave.",
+        "descr2": "",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "7:30 PM",
+                "timeend": "8:30 PM",
+                "meettype": "C",
+                "meetspecial": "Gay Lesbian and Bisexual"
+            },
+            "1": {
+                "datemeet": "Wednesdays",
+                "timestart": "7:30 PM",
+                "timeend": "8:30 PM",
+                "meettype": "B",
+                "meetspecial": "Gay Lesbian and Bisexual"
+            }
+        }
+    },
+    {
+        "streetAddress": "84 Vermilyea Avenue",
+        "zipcode": "10034",
+        "buildingName": "Mount Washington Presbyterian Church",
+        "meetingName": "Inwood Fort Tryon",
+        "wheelchairacc": false,
+        "zone": "10",
+        "descr1": "@ 204th Street",
+        "descr2": "1 Block East of Broadway",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Saturdays",
+                "timestart": "11:00 AM",
+                "timeend": "12:00 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Saturdays",
+                "timestart": "11:00 AM",
+                "timeend": "12:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Tuesdays",
+                "timestart": "12:30 PM",
+                "timeend": "1:30 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "620 Isham Street",
+        "zipcode": "10034",
+        "buildingName": "Church of the Good Shepherd",
+        "meetingName": "Isham Park",
+        "wheelchairacc": false,
+        "zone": "10",
+        "descr1": "Betw Cooper Street &amp; Seaman Avenue",
+        "descr2": "",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Mondays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "2005 Amsterdam Avenue",
+        "zipcode": "10032",
+        "buildingName": "COATHA Church on the Hill Senior Center",
+        "meetingName": "Progress Not Perfection",
+        "wheelchairacc": true,
+        "zone": "10",
+        "descr1": "@ 159th Street",
+        "descr2": "",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Fridays",
+                "timestart": "7:30 PM",
+                "timeend": "8:30 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "178 Bennett Avenue",
+        "zipcode": "10040",
+        "buildingName": "Our Saviour's Atonement Lutheran Church",
+        "meetingName": "The Men Upstairs",
+        "wheelchairacc": false,
+        "zone": "10",
+        "descr1": "2nd Floor Lorenz Library",
+        "descr2": "@ 189th Street",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Mondays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "C",
+                "meetspecial": "Men"
+            }
+        }
+    },
+    {
+        "streetAddress": "178 Bennett Avenue",
+        "zipcode": "10040",
+        "buildingName": "Our Saviour's Atonement Church",
+        "meetingName": "The Missing Link",
+        "wheelchairacc": false,
+        "zone": "10",
+        "descr1": "2nd Floor",
+        "descr2": "@ 189th Street South Entrance",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Fridays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "91 Arden Street",
+        "zipcode": "10034",
+        "buildingName": "Our Lady Queen of Martyrs",
+        "meetingName": "Upper Manhattan",
+        "wheelchairacc": false,
+        "zone": "10",
+        "descr1": "2 blocks South of Dyckman Street",
+        "descr2": "Betw. Broadway &amp; Sherman Avenue",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Thursdays",
+                "timestart": "7:30 PM",
+                "timeend": "8:30 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "20 Cummings Street",
+        "zipcode": "10034",
+        "buildingName": "Holy Trinity Church",
+        "meetingName": "Uptown Saturday Night",
+        "wheelchairacc": false,
+        "zone": "10",
+        "descr1": "Betw. Broadway &amp; Seaman Avenue",
+        "descr2": "",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Saturdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "715 West 179th Street",
+        "zipcode": "10033",
+        "buildingName": "Holy Rood Church",
+        "meetingName": "Washington Heights (I)",
+        "wheelchairacc": true,
+        "zone": "10",
+        "descr1": "@ Fort Washington",
+        "descr2": "",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "7:30 PM",
+                "timeend": "8:30 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "178 Bennett Avenue",
+        "zipcode": "10040",
+        "buildingName": "Cornerstone Center",
+        "meetingName": "Washington Heights (II)",
+        "wheelchairacc": false,
+        "zone": "10",
+        "descr1": "Kitchen",
+        "descr2": "@ North Building",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Thursdays",
+                "timestart": "7:30 PM",
+                "timeend": "8:30 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "178 Bennett Avenue",
+        "zipcode": "10040",
+        "buildingName": "The Corner Stone Center",
+        "meetingName": "What We Are Like Now",
+        "wheelchairacc": false,
+        "zone": "10",
+        "descr1": "2nd Floor",
+        "descr2": "@ 189th Street",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "178 Bennett Avenue",
+        "zipcode": "10040",
+        "buildingName": "Cornerstone Center",
+        "meetingName": "Women's Nite",
+        "wheelchairacc": false,
+        "zone": "10",
+        "descr1": "Kitchen",
+        "descr2": "@ 189th Street",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Mondays",
+                "timestart": "7:30 PM",
+                "timeend": "8:30 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            }
+        }
+    }
+]

@@ -1,0 +1,63 @@
+Mondays From  3:00 PM to 4:00 PM Meeting Type C = Closed Discussion meeting Special Interest As Bill Sees It,Wednesdays From  3:00 PM to 4:00 PM Meeting Type C = Closed Discussion meeting Special Interest Living Sober
+Fridays From  7:45 PM to 8:45 PM Meeting Type OD = Open Discussion meeting,Fridays From  9:00 PM to 10:00 PM Meeting Type BB = Big Book meeting
+Tuesdays From  6:30 PM to 7:45 PM Meeting Type C = Closed Discussion meeting
+Thursdays From  6:30 PM to 7:30 PM Meeting Type C = Closed Discussion meeting Special Interest AA Literature
+Fridays From  9:30 PM to 10:30 PM Meeting Type OD = Open Discussion meeting
+Saturdays From  1:00 PM to 2:30 PM Meeting Type B = Beginners meeting,Saturdays From  2:30 PM to 4:00 PM Meeting Type O = Open meeting,Mondays From  4:00 PM to 5:30 PM Meeting Type BB = Big Book meeting,Tuesdays From  4:00 PM to 5:30 PM Meeting Type OD = Open Discussion meeting,Wednesdays From  4:00 PM to 5:30 PM Meeting Type O = Open meeting Special Interest Living Sober,Fridays From  4:00 PM to 5:30 PM Meeting Type S = Step meeting
+Mondays From  7:00 PM to 8:00 PM Meeting Type C = Closed Discussion meeting
+Fridays From  7:00 PM to 8:00 PM Meeting Type S = Step meeting
+Tuesdays From  6:15 PM to 7:15 PM Meeting Type S = Step meeting,Tuesdays From  7:30 PM to 8:30 PM Meeting Type B = Beginners meeting
+Mondays From  7:30 PM to 8:30 PM Meeting Type BB = Big Book meeting,Fridays From  7:30 PM to 8:30 PM Meeting Type O = Open meeting
+Thursdays From  7:00 PM to 8:00 PM Meeting Type OD = Open Discussion meeting Special Interest Men
+Tuesdays From  12:30 PM to 1:30 PM Meeting Type C = Closed Discussion meeting,Thursdays From  12:30 PM to 1:30 PM Meeting Type C = Closed Discussion meeting
+Tuesdays From  8:15 PM to 9:30 PM Meeting Type C = Closed Discussion meeting
+Mondays From  7:30 PM to 8:45 PM Meeting Type O = Open meeting,Mondays From  9:00 PM to 10:00 PM Meeting Type B = Beginners meeting,Mondays From  10:15 PM to 11:15 PM Meeting Type C = Closed Discussion meeting Special Interest Topic
+Fridays From  6:30 PM to 7:30 PM Meeting Type C = Closed Discussion meeting
+Sundays From  6:00 PM to 7:00 PM Meeting Type B = Beginners meeting
+Sundays From  6:15 PM to 7:45 PM Meeting Type S = Step meeting Special Interest Twelve Steps
+Saturdays From  5:00 PM to 6:00 PM Meeting Type C = Closed Discussion meeting Special Interest Children Welcome,Sundays From  5:00 PM to 6:00 PM Meeting Type C = Closed Discussion meeting Special Interest Children Welcome,Fridays From  7:00 PM to 8:00 PM Meeting Type C = Closed Discussion meeting Special Interest Topic
+Fridays From  7:30 PM to 8:45 PM Meeting Type C = Closed Discussion meeting
+Fridays From  7:00 AM to 8:00 AM Meeting Type C = Closed Discussion meeting,Mondays From  7:00 AM to 8:00 AM Meeting Type C = Closed Discussion meeting,Tuesdays From  7:00 AM to 8:00 AM Meeting Type C = Closed Discussion meeting,Wednesdays From  7:00 AM to 8:00 AM Meeting Type C = Closed Discussion meeting,Thursdays From  7:00 AM to 8:00 AM Meeting Type S = Step meeting,Fridays From  8:15 AM to 9:15 AM Meeting Type C = Closed Discussion meeting,Mondays From  8:15 AM to 9:15 AM Meeting Type C = Closed Discussion meeting,Tuesdays From  8:15 AM to 9:15 AM Meeting Type C = Closed Discussion meeting,Wednesdays From  8:15 AM to 9:15 AM Meeting Type C = Closed Discussion meeting,Thursdays From  8:15 AM to 9:15 AM Meeting Type C = Closed Discussion meeting
+Sundays From  8:00 AM to 9:00 AM Meeting Type C = Closed Discussion meeting,Saturdays From  8:00 AM to 9:00 AM Meeting Type C = Closed Discussion meeting
+Saturdays From  10:30 AM to 11:30 AM Meeting Type S = Step meeting Special Interest First Step Workshop,Sundays From  12:30 PM to 1:30 PM Meeting Type B = Beginners meeting,Saturdays From  12:30 PM to 1:30 PM Meeting Type S = Step meeting
+Mondays From  6:00 AM to 7:00 AM Meeting Type OD = Open Discussion meeting Special Interest As Bill Sees It,Wednesdays From  6:00 AM to 7:00 AM Meeting Type OD = Open Discussion meeting,Saturdays From  6:00 AM to 7:00 AM Meeting Type OD = Open Discussion meeting Special Interest As Bill Sees It,Thursdays From  6:00 AM to 7:00 AM Meeting Type S = Step meeting Special Interest As Bill Sees It,Sundays From  6:00 AM to 7:00 AM Meeting Type OD = Open Discussion meeting Special Interest As Bill Sees It,Tuesdays From  6:00 AM to 7:00 AM Meeting Type OD = Open Discussion meeting Special Interest As Bill Sees It,Fridays From  6:00 AM to 7:00 AM Meeting Type BB = Big Book meeting,Fridays From  7:15 AM to 8:15 AM Meeting Type C = Closed Discussion meeting,Wednesdays From  7:15 AM to 8:15 AM Meeting Type C = Closed Discussion meeting,Saturdays From  7:15 AM to 8:15 AM Meeting Type S = Step meeting,Mondays From  7:15 AM to 8:15 AM Meeting Type C = Closed Discussion meeting,Thursdays From  7:15 AM to 8:15 AM Meeting Type C = Closed Discussion meeting,Sundays From  7:15 AM to 8:15 AM Meeting Type C = Closed Discussion meeting,Tuesdays From  7:15 AM to 8:15 AM Meeting Type C = Closed Discussion meeting,Fridays From  8:45 AM to 9:45 AM Meeting Type B = Beginners meeting,Wednesdays From  8:45 AM to 9:45 AM Meeting Type B = Beginners meeting,Saturdays From  8:45 AM to 9:45 AM Meeting Type B = Beginners meeting,Mondays From  8:45 AM to 9:45 AM Meeting Type B = Beginners meeting,Thursdays From  8:45 AM to 9:45 AM Meeting Type B = Beginners meeting,Sundays From  8:45 AM to 9:45 AM Meeting Type B = Beginners meeting,Tuesdays From  8:45 AM to 9:45 AM Meeting Type B = Beginners meeting,Tuesdays From  10:15 AM to 11:15 AM Meeting Type C = Closed Discussion meeting Special Interest Living Sober,Fridays From  10:15 AM to 11:15 AM Meeting Type BB = Big Book meeting,Wednesdays From  10:15 AM to 11:15 AM Meeting Type S = Step meeting,Saturdays From  10:15 AM to 11:15 AM Meeting Type S = Step meeting,Mondays From  10:15 AM to 11:15 AM Meeting Type C = Closed Discussion meeting Special Interest Promises,Thursdays From  10:15 AM to 11:15 AM Meeting Type OD = Open Discussion meeting,Sundays From  10:15 AM to 11:15 AM Meeting Type T = Tradition meeting
+Fridays From  6:30 PM to 7:45 PM Meeting Type S = Step meeting
+Sundays From  4:30 PM to 5:30 PM Meeting Type OD = Open Discussion meeting,Thursdays From  7:00 PM to 8:00 PM Meeting Type C = Closed Discussion meeting
+Mondays From  7:30 PM to 8:30 PM Meeting Type OD = Open Discussion meeting,Wednesdays From  7:30 PM to 8:30 PM Meeting Type C = Closed Discussion meeting,Fridays From  7:30 PM to 8:30 PM Meeting Type OD = Open Discussion meeting,Sundays From  7:30 PM to 8:30 PM Meeting Type O = Open meeting
+Tuesdays From  7:30 PM to 8:30 PM Meeting Type O = Open meeting
+Thursdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting,Fridays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting,Thursdays From  8:15 PM to 9:15 PM Meeting Type C = Closed Discussion meeting
+Saturdays From  6:00 PM to 7:00 PM Meeting Type S = Step meeting Special Interest Gay, Lesbian and Bisexual,Wednesdays From  6:00 PM to 7:00 PM Meeting Type OD = Open Discussion meeting Special Interest Interpreted for the Deaf,Wednesdays From  7:15 PM to 8:15 PM Meeting Type B = Beginners meeting Special Interest Gay, Lesbian and Bisexual,Wednesdays From  8:30 PM to 9:30 PM Meeting Type C = Closed Discussion meeting Special Interest Gay, Lesbian and Bisexual
+Wednesdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting
+Sundays From  5:45 PM to 7:00 PM Meeting Type C = Closed Discussion meeting
+Fridays From  1:00 PM to 2:00 PM Meeting Type S = Step meeting,Mondays From  1:00 PM to 2:15 PM Meeting Type S = Step meeting Special Interest Meditation,Tuesdays From  1:00 PM to 2:15 PM Meeting Type BB = Big Book meeting,Wednesdays From  1:00 PM to 2:15 PM Meeting Type OD = Open Discussion meeting,Thursdays From  1:00 PM to 2:15 PM Meeting Type C = Closed Discussion meeting Special Interest Women
+Saturdays From  6:30 PM to 7:30 PM Meeting Type B = Beginners meeting,Saturdays From  8:00 PM to 9:00 PM Meeting Type OD = Open Discussion meeting,Saturdays From  8:00 PM to 9:00 PM Meeting Type S = Step meeting,Saturdays From  9:15 PM to 10:15 PM Meeting Type OD = Open Discussion meeting
+Wednesdays From  6:30 PM to 7:30 PM Meeting Type B = Beginners meeting,Fridays From  6:30 PM to 7:30 PM Meeting Type B = Beginners meeting
+Tuesdays From  7:30 PM to 8:30 PM Meeting Type C = Closed Discussion meeting
+Mondays From  6:30 PM to 7:30 PM Meeting Type S = Step meeting
+Thursdays From  6:00 PM to 7:00 PM Meeting Type B = Beginners meeting
+Sundays From  10:00 PM to 11:00 PM Meeting Type T = Tradition meeting,Mondays From  10:00 PM to 11:00 PM Meeting Type BB = Big Book meeting,Tuesdays From  10:00 PM to 11:00 PM Meeting Type S = Step meeting,Wednesdays From  10:00 PM to 11:00 PM Meeting Type BB = Big Book meeting,Thursdays From  10:00 PM to 11:00 PM Meeting Type B = Beginners meeting,Saturdays From  10:00 PM to 11:00 PM Meeting Type C = Closed Discussion meeting Special Interest As Bill Sees It,Fridays From  11:00 PM to 12:00 AM Meeting Type C = Closed Discussion meeting Special Interest Promises
+s From  12:00 AM to 12:00 AM,Mondays From  7:30 PM to 8:30 PM Meeting Type C = Closed Discussion meeting Special Interest Interpreted for the Deaf,Wednesdays From  7:30 PM to 8:30 PM Meeting Type O = Open meeting Special Interest Interpreted for the Deaf,Thursdays From  7:30 PM to 8:30 PM Meeting Type BB = Big Book meeting
+Saturdays From  6:30 PM to 7:30 PM Meeting Type C = Closed Discussion meeting
+Sundays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting
+Saturdays From  6:00 PM to 7:00 PM Meeting Type B = Beginners meeting,Tuesdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting
+Wednesdays From  8:30 PM to 9:30 PM Meeting Type C = Closed Discussion meeting Special Interest Living Sober
+Wednesdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting,Wednesdays From  8:15 PM to 9:15 PM Meeting Type S = Step meeting
+Saturdays From  6:30 PM to 7:30 PM Meeting Type S = Step meeting Special Interest Promises
+Sundays From  10:30 AM to 11:30 AM Meeting Type C = Closed Discussion meeting Special Interest Men
+Sundays From  12:00 PM to 1:00 PM Meeting Type C = Closed Discussion meeting
+Thursdays From  3:30 PM to 4:30 PM Meeting Type B = Beginners meeting,Tuesdays From  3:30 PM to 4:30 PM Meeting Type B = Beginners meeting,Tuesdays From  4:30 PM to 5:30 PM Meeting Type C = Closed Discussion meeting,Thursdays From  4:30 PM to 5:30 PM Meeting Type C = Closed Discussion meeting,Fridays From  4:30 PM to 5:30 PM Meeting Type S = Step meeting
+Saturdays From  10:00 AM to 11:00 AM Meeting Type C = Closed Discussion meeting Special Interest As Bill Sees It,Saturdays From  11:15 AM to 12:15 PM Meeting Type C = Closed Discussion meeting
+Thursdays From  6:15 PM to 7:15 PM Meeting Type C = Closed Discussion meeting Special Interest Agnostic
+Wednesdays From  4:45 PM to 5:45 PM Meeting Type OD = Open Discussion meeting Special Interest Medication
+Thursdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting,Thursdays From  7:00 PM to 8:00 PM Meeting Type S = Step meeting,Tuesdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting,Tuesdays From  7:00 PM to 8:00 PM Meeting Type BB = Big Book meeting
+Wednesdays From  7:00 PM to 8:00 PM Meeting Type C = Closed Discussion meeting
+Fridays From  7:00 PM to 8:00 PM Meeting Type S = Step meeting
+Saturdays From  7:00 PM to 8:00 PM Meeting Type B = Beginners meeting Special Interest Young People
+Saturdays From  5:00 PM to 6:00 PM Meeting Type OD = Open Discussion meeting Special Interest Agnostic
+Wednesdays From  9:00 AM to 10:00 AM Meeting Type C = Closed Discussion meeting Special Interest Women,Saturdays From  9:00 AM to 10:00 AM Meeting Type C = Closed Discussion meeting Special Interest Women
+Fridays From  7:00 PM to 8:00 PM Meeting Type C = Closed Discussion meeting Special Interest Women
+Thursdays From  12:00 PM to 1:00 PM Meeting Type C = Closed Discussion meeting Special Interest Women,Mondays From  12:00 PM to 1:15 PM Meeting Type C = Closed Discussion meeting Special Interest Women,Wednesdays From  12:30 PM to 1:30 PM Meeting Type B = Beginners meeting Special Interest Women
+Mondays From  12:00 PM to 1:00 PM Meeting Type OD = Open Discussion meeting Special Interest Women
+Mondays From  12:00 PM to 1:15 PM Meeting Type C = Closed Discussion meeting Special Interest Women
+Tuesdays From  6:30 PM to 7:30 PM Meeting Type C = Closed Discussion meeting Special Interest Women
+Wednesdays From  6:00 PM to 7:00 PM Meeting Type C = Closed Discussion meeting Special Interest Special Purpose Groups

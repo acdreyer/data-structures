@@ -1,0 +1,129 @@
+[
+    null,
+    {},
+    {
+        "streetAddress": "35 East 125 Street",
+        "zipcode": "10035",
+        "buildingName": "Harlem Children's Zone Admin. Offices",
+        "meetingName": "125",
+        "wheelchairacc": true,
+        "zone": "9",
+        "descr1": "1st Floor Conference Room",
+        "descr2": "@ Madison Avenue",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Saturdays",
+                "timestart": "4:15 PM",
+                "timeend": "5:30 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "223 East 117th Street",
+        "zipcode": "10035",
+        "buildingName": "Peter Jay Sharpe Building",
+        "meetingName": "East Harlem",
+        "wheelchairacc": true,
+        "zone": "9",
+        "descr1": "1st Floor Dining Room",
+        "descr2": "Betw. 2nd &amp; 3rd Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "6:30 PM",
+                "timeend": "7:30 PM",
+                "meettype": "B",
+                "meetspecial": "Living Sober"
+            }
+        }
+    },
+    {
+        "streetAddress": "2126 2nd Avenue",
+        "zipcode": "10029",
+        "buildingName": "",
+        "meetingName": "Grupo Nueva Vida",
+        "wheelchairacc": true,
+        "zone": "9",
+        "descr1": "1st Floor",
+        "descr2": "Betw. 109th &amp; 110th Streets",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "5:00 PM",
+                "timeend": "6:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Mondays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Tuesdays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Wednesdays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "4": {
+                "datemeet": "Thursdays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "5": {
+                "datemeet": "Fridays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "6": {
+                "datemeet": "Saturdays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "22 East 119th Street",
+        "zipcode": "10035",
+        "buildingName": "Veterans Residence",
+        "meetingName": "Harlem 1 Pm Recovery",
+        "wheelchairacc": true,
+        "zone": "9",
+        "descr1": "1st Floor Cafeteria",
+        "descr2": "Betw. Madison &amp; 5th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "1:00 PM",
+                "timeend": "2:00 PM",
+                "meettype": "T",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Mondays",
+                "timestart": "1:00 PM",
+                "timeend": "2:00 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            }
+        }
+    }
+]

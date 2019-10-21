@@ -1,0 +1,838 @@
+[
+	{
+		"version": "4.10",
+		"TransactionId": "03d47bb7-0aa2-451d-9c36-af23180b9779",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1093697",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "20 CARDINAL HAYES PL New York NY 10007",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10007"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7132514",
+					"Longitude": "-74.002398",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "6696b001-4528-4f75-843e-57c5d3c76355",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781312",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "20 CARDINAL HAYES PL New York NY 10007",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10007"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7132514",
+					"Longitude": "-74.002398",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "99165165-205f-4799-b696-3adcc7ef50a0",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1249992",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "29 MOTT ST New York NY 10013",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10013"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7147965",
+					"Longitude": "-73.9990363",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "7229da7a-9c2a-46a2-8cd9-06b68ba82f9a",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1093743",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "49 FULTON ST New York NY 10038",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10038"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7080393",
+					"Longitude": "-74.0042361",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "26fab41e-ff9c-4d1d-a341-3b5d292f4245",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.09378",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "44 JOHN ST New York NY 10038",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10038"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7091732",
+					"Longitude": "-74.0080677",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "16dfcf5e-76b3-4679-bf7d-997ec7aad67c",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781113",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "49 FULTON ST New York NY 10038",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10038"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7080393",
+					"Longitude": "-74.0042361",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "d901908b-2b67-4067-819a-dc4568a22e49",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781939",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "20 CARDINAL HAYES PL New York NY 10007",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10007"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7132514",
+					"Longitude": "-74.002398",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "6526754d-fe94-4d57-b812-80c9ff87bc76",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937588",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "22 BARCLAY ST New York NY 10007",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10007"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7125016",
+					"Longitude": "-74.0094639",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "f681f54b-4bb7-4898-bd0b-f81ec3a6db94",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937501",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "20 CARDINAL HAYES PL New York NY 10007",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10007"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7132514",
+					"Longitude": "-74.002398",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "3708ed7f-513b-4bed-87e1-9a7745d53388",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937487",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "22 BARCLAY ST New York NY 10007",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10007"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7125016",
+					"Longitude": "-74.0094639",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "084c6c32-d66b-4a6e-9b98-2d6cfa455510",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1250733",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "283 W BROADWAY New York NY 10013",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10013"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7144166",
+					"Longitude": "-73.9843646",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "94.792899408284",
+					"MatchType": "Relaxed",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "95905722-2b71-45dc-b754-a0d8ec26d178",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1406752",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "125 BARCLAY ST New York NY 10007",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10007"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7143477",
+					"Longitude": "-74.0130151",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "d869495f-4d6b-4d51-95e2-a4f4f442e1b1",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781167",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "49 FULTON ST New York NY 10038",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10038"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7080393",
+					"Longitude": "-74.0042361",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "f1889b4d-a048-4a6a-a42d-a6b2cc61fa6e",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781196",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "49 FULTON ST New York NY 10038",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10038"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7080393",
+					"Longitude": "-74.0042361",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "b17c9bda-5efc-4622-88e0-0193ee653683",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781673",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "20 CARDINAL HAYES PL New York NY 10007",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10007"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7132514",
+					"Longitude": "-74.002398",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "ff3b7b4e-f261-4c34-aa7e-13f10fc8f9af",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937451",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "283 W BROADWAY New York NY 10013",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10013"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7144166",
+					"Longitude": "-73.9843646",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "94.792899408284",
+					"MatchType": "Relaxed",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "e973330b-6842-4735-b114-5196db745365",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781223",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "49 FULTON ST New York NY 10038",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10038"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7080393",
+					"Longitude": "-74.0042361",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "d2fe1e60-7300-4c60-b86c-e3446f2909d6",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0780163",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "22 BARCLAY ST New York NY 10006",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10006"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7125016",
+					"Longitude": "-74.0094639",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "99.4674556213018",
+					"MatchType": "Relaxed",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "fe55b25d-2cb1-4106-a46e-1db278423d57",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781311",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "20 CARDINAL HAYES PL New York NY 10007",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10007"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7132514",
+					"Longitude": "-74.002398",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "9a48f136-c2a5-47e7-b64f-f7d6d5dd1e73",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937547",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "283 W BROADWAY New York NY 10013",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10013"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7144166",
+					"Longitude": "-73.9843646",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "94.792899408284",
+					"MatchType": "Relaxed",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "4531647f-5fc4-40b9-a500-ad6d65ffeadc",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0780627",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "283 W BROADWAY New York NY 10013",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10013"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7144166",
+					"Longitude": "-73.9843646",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "94.792899408284",
+					"MatchType": "Relaxed",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "1bc038b6-f406-40f3-9703-19be98c98e5a",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781192",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "283 W BROADWAY New York NY 10013",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10013"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7144166",
+					"Longitude": "-73.9843646",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "94.792899408284",
+					"MatchType": "Relaxed",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	}
+]

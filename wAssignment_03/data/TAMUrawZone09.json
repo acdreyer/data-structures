@@ -1,0 +1,154 @@
+[
+	{
+		"version": "4.10",
+		"TransactionId": "91d1b5ac-f966-45a4-ab4e-63195ff46ee4",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.218762",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "35 E 125 ST New York NY 10035",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10035"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.805958",
+					"Longitude": "-73.940763",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "9c8fccf4-c022-40ce-be3d-305c9e6acc62",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.2030741",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "223 E 117TH ST New York NY 10035",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10035"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7982106",
+					"Longitude": "-73.9382769",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "0f4a9f77-e7d1-4e80-8fd2-b251e298991a",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1406224",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "2126 2ND AVE New York NY 10029",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10029"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7927121",
+					"Longitude": "-73.94069",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "16a9cc06-70aa-4ba5-975a-edc89e464886",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.2187454",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "22 E 119TH ST New York NY 10035",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10035"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8021458",
+					"Longitude": "-73.9442327",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	}
+]

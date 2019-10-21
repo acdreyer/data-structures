@@ -1,0 +1,1657 @@
+[
+	{
+		"streetAddress": "273 Bowery",
+		"zipcode": "10002",
+		"buildingName": "University Settlement",
+		"meetingName": "A.A. On The Bowery",
+		"wheelchairacc": true,
+		"zone": "2",
+		"descr1": "Downstairs",
+		"descr2": "@ Houston Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7236736",
+			"long": "-73.9924832",
+			"TAMUaddress": "273 BOWERY New York NY 10002",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "232 West 11th Street",
+		"zipcode": "10014",
+		"buildingName": "Manhattan Seventh-Day Adventist Church",
+		"meetingName": "After Five",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "Off 7th Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.736193",
+			"long": "-74.0028632",
+			"TAMUaddress": "232 W 11TH ST New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "283 West Broadway",
+		"zipcode": "10013",
+		"buildingName": "Hazelden Center",
+		"meetingName": "Afternoon Delight",
+		"wheelchairacc": true,
+		"zone": "2",
+		"descr1": "@ Canal Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "12:00 PM",
+				"timeend": "1:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7144166",
+			"long": "-73.9843646",
+			"TAMUaddress": "283 W BROADWAY New York NY 10013",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "94.792899408284"
+		}
+	},
+	{
+		"streetAddress": "232 West 11th Street",
+		"zipcode": "10014",
+		"buildingName": "Seventh Day Adventist Church",
+		"meetingName": "Artists In Recovery (A.R.T.)",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "between Waverly and West 4th Streets",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "6:30 PM",
+				"timeend": "7:45 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.736193",
+			"long": "-74.0028632",
+			"TAMUaddress": "232 W 11TH ST New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "220 West Houston Street",
+		"zipcode": "10014",
+		"buildingName": "",
+		"meetingName": "Bagels And Big Book",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "2nd Floor",
+		"descr2": "Betw. 6th Avenue &amp; Varick Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "10:30 AM",
+				"timeend": "12:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7286385",
+			"long": "-74.0045871",
+			"TAMUaddress": "220 W HOUSTON ST New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "253 Center Street",
+		"zipcode": "10013",
+		"buildingName": "Golden Bridge Yoga Center",
+		"meetingName": "Center Meeting",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "3rd Floor",
+		"descr2": "@ Broome Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "5:15 PM",
+				"timeend": "6:15 PM",
+				"meettype": "OD",
+				"meetspecial": "Meditation at Meeting"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7206323",
+			"long": "-73.9979756",
+			"TAMUaddress": "253 CENTER ST New York NY 10013",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "273 Bowery",
+		"zipcode": "10002",
+		"buildingName": "University Settlement (The Chinatown YMCA)",
+		"meetingName": "East Village Sober Agnostics",
+		"wheelchairacc": true,
+		"zone": "2",
+		"descr1": "@ Houston Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "6:45 PM",
+				"timeend": "8:00 PM",
+				"meettype": "OD",
+				"meetspecial": "Agnostic"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7236736",
+			"long": "-73.9924832",
+			"TAMUaddress": "273 BOWERY New York NY 10002",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "487 Hudson Street",
+		"zipcode": "10014",
+		"buildingName": "St. Luke's Episcopal School",
+		"meetingName": "Greenwich Village",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "Basement",
+		"descr2": "South of Christopher Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:15 PM",
+				"timeend": "8:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:15 PM",
+				"timeend": "8:15 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:15 PM",
+				"timeend": "8:15 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Fridays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Mondays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "S",
+				"meetspecial": "Steps 1-2-3"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7326",
+			"long": "-74.0067",
+			"TAMUaddress": "487 HUDSON ST New York NY 10014",
+			"MatchType": "BrokenTie",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "292 Henry Street",
+		"zipcode": "10002",
+		"buildingName": "St. Augustine's Church",
+		"meetingName": "Grupo Central",
+		"wheelchairacc": true,
+		"zone": "2",
+		"descr1": "Basement",
+		"descr2": "A la isquierda de la iglesia",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "3:00 PM",
+				"timeend": "4:00 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Fridays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7137143",
+			"long": "-73.983033",
+			"TAMUaddress": "292 HENRY ST New York NY 10002",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "232 West 11th Street",
+		"zipcode": "10014",
+		"buildingName": "Manhattan Church of The Seventh-day Adventist",
+		"meetingName": "Happy, Joyous And Free",
+		"wheelchairacc": true,
+		"zone": "2",
+		"descr1": "Between Waverly Place and West 4th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "s",
+				"timestart": "12:00 AM",
+				"timeend": "12:00 AM",
+				"meettype": "null",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Mondays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "C",
+				"meetspecial": "Gay Men"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.736193",
+			"long": "-74.0028632",
+			"TAMUaddress": "232 W 11TH ST New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "141 Henry Street",
+		"zipcode": "10002",
+		"buildingName": "Church of Saint Theresa Rectory",
+		"meetingName": "Lower East Side",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "1st Floor",
+		"descr2": "Betw Henry &amp; Rutgers Streets",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7134487",
+			"long": "-73.9906625",
+			"TAMUaddress": "141 HENRY ST New York NY 10002",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "220 West Houston Street",
+		"zipcode": "10014",
+		"buildingName": "",
+		"meetingName": "Midnite",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "2nd Floor",
+		"descr2": "Betw 6th Avenue &amp; Varick Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "12:00 AM",
+				"timeend": "1:15 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Sundays",
+				"timestart": "12:00 AM",
+				"timeend": "1:15 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:00 AM",
+				"timeend": "1:15 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Saturdays",
+				"timestart": "12:00 AM",
+				"timeend": "1:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Tuesdays",
+				"timestart": "12:00 AM",
+				"timeend": "1:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"5": {
+				"datemeet": "Fridays",
+				"timestart": "12:00 AM",
+				"timeend": "1:15 AM",
+				"meettype": "C",
+				"meetspecial": "Promises"
+			},
+			"6": {
+				"datemeet": "Thursdays",
+				"timestart": "12:00 AM",
+				"timeend": "1:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"7": {
+				"datemeet": "Saturdays",
+				"timestart": "2:00 AM",
+				"timeend": "3:15 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"8": {
+				"datemeet": "Tuesdays",
+				"timestart": "2:00 AM",
+				"timeend": "3:15 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"9": {
+				"datemeet": "Fridays",
+				"timestart": "2:00 AM",
+				"timeend": "3:15 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"10": {
+				"datemeet": "Mondays",
+				"timestart": "2:00 AM",
+				"timeend": "3:15 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"11": {
+				"datemeet": "Thursdays",
+				"timestart": "2:00 AM",
+				"timeend": "3:15 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"12": {
+				"datemeet": "Sundays",
+				"timestart": "2:00 AM",
+				"timeend": "3:15 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"13": {
+				"datemeet": "Wednesdays",
+				"timestart": "2:00 AM",
+				"timeend": "3:15 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"14": {
+				"datemeet": "Saturdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"15": {
+				"datemeet": "Tuesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"16": {
+				"datemeet": "Mondays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"17": {
+				"datemeet": "Thursdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"18": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"19": {
+				"datemeet": "Fridays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "Topic"
+			},
+			"20": {
+				"datemeet": "Sundays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "Meditation"
+			},
+			"21": {
+				"datemeet": "Tuesdays",
+				"timestart": "5:15 PM",
+				"timeend": "6:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"22": {
+				"datemeet": "Fridays",
+				"timestart": "5:15 PM",
+				"timeend": "6:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"23": {
+				"datemeet": "Thursdays",
+				"timestart": "5:15 PM",
+				"timeend": "6:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"24": {
+				"datemeet": "Sundays",
+				"timestart": "5:15 PM",
+				"timeend": "6:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"25": {
+				"datemeet": "Wednesdays",
+				"timestart": "5:15 PM",
+				"timeend": "6:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"26": {
+				"datemeet": "Mondays",
+				"timestart": "5:15 PM",
+				"timeend": "6:15 PM",
+				"meettype": "C",
+				"meetspecial": "Living Sober"
+			},
+			"27": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"28": {
+				"datemeet": "Saturdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"29": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"30": {
+				"datemeet": "Fridays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"31": {
+				"datemeet": "Mondays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"32": {
+				"datemeet": "Thursdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"33": {
+				"datemeet": "Sundays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"34": {
+				"datemeet": "Sundays",
+				"timestart": "8:00 PM",
+				"timeend": "9:15 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"35": {
+				"datemeet": "Wednesdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:15 PM",
+				"meettype": "C",
+				"meetspecial": "Men"
+			},
+			"36": {
+				"datemeet": "Saturdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:15 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			},
+			"37": {
+				"datemeet": "Tuesdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:15 PM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			},
+			"38": {
+				"datemeet": "Mondays",
+				"timestart": "8:00 PM",
+				"timeend": "9:15 PM",
+				"meettype": "C",
+				"meetspecial": "Topic"
+			},
+			"39": {
+				"datemeet": "Fridays",
+				"timestart": "8:00 PM",
+				"timeend": "9:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"40": {
+				"datemeet": "Thursdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:15 PM",
+				"meettype": "B",
+				"meetspecial": "Under Six Months Sober"
+			},
+			"41": {
+				"datemeet": "Sundays",
+				"timestart": "10:00 PM",
+				"timeend": "11:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"42": {
+				"datemeet": "Wednesdays",
+				"timestart": "10:00 PM",
+				"timeend": "11:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"43": {
+				"datemeet": "Saturdays",
+				"timestart": "10:00 PM",
+				"timeend": "11:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"44": {
+				"datemeet": "Tuesdays",
+				"timestart": "10:00 PM",
+				"timeend": "11:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"45": {
+				"datemeet": "Mondays",
+				"timestart": "10:00 PM",
+				"timeend": "11:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"46": {
+				"datemeet": "Fridays",
+				"timestart": "10:00 PM",
+				"timeend": "11:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"47": {
+				"datemeet": "Thursdays",
+				"timestart": "10:00 PM",
+				"timeend": "11:15 PM",
+				"meettype": "C",
+				"meetspecial": "Topic"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7286385",
+			"long": "-74.0045871",
+			"TAMUaddress": "220 W HOUSTON ST New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "83 Christopher Street",
+		"zipcode": "10014",
+		"buildingName": "St. John's Lutheran Church",
+		"meetingName": "New Group",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "Red Door Left of Church",
+		"descr2": "West of 7th Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "O",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			},
+			"1": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "B",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			},
+			"2": {
+				"datemeet": "Fridays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "B",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7335702",
+			"long": "-74.0037456",
+			"TAMUaddress": "83 CHRISTOPHER ST New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "50 Perry Street",
+		"zipcode": "10014",
+		"buildingName": "",
+		"meetingName": "Perry Street Workshop",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "Ground Floor",
+		"descr2": "Betw. 7th Avenue South &amp; West 4th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Mondays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Sundays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Saturdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"5": {
+				"datemeet": "Fridays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"6": {
+				"datemeet": "Thursdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"7": {
+				"datemeet": "Thursdays",
+				"timestart": "9:00 AM",
+				"timeend": "10:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"8": {
+				"datemeet": "Wednesdays",
+				"timestart": "9:00 AM",
+				"timeend": "10:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"9": {
+				"datemeet": "Tuesdays",
+				"timestart": "9:00 AM",
+				"timeend": "10:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"10": {
+				"datemeet": "Mondays",
+				"timestart": "9:00 AM",
+				"timeend": "10:00 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"11": {
+				"datemeet": "Sundays",
+				"timestart": "9:00 AM",
+				"timeend": "10:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"12": {
+				"datemeet": "Fridays",
+				"timestart": "9:00 AM",
+				"timeend": "10:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"13": {
+				"datemeet": "Saturdays",
+				"timestart": "9:30 AM",
+				"timeend": "10:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"14": {
+				"datemeet": "Fridays",
+				"timestart": "10:30 AM",
+				"timeend": "11:30 AM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			},
+			"15": {
+				"datemeet": "Sundays",
+				"timestart": "11:00 AM",
+				"timeend": "12:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"16": {
+				"datemeet": "Saturdays",
+				"timestart": "12:00 PM",
+				"timeend": "1:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"17": {
+				"datemeet": "Fridays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"18": {
+				"datemeet": "Thursdays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"19": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"20": {
+				"datemeet": "Tuesdays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"21": {
+				"datemeet": "Mondays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"22": {
+				"datemeet": "Sundays",
+				"timestart": "1:00 PM",
+				"timeend": "2:00 PM",
+				"meettype": "C",
+				"meetspecial": "Children Welcome"
+			},
+			"23": {
+				"datemeet": "Saturdays",
+				"timestart": "2:30 PM",
+				"timeend": "3:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"24": {
+				"datemeet": "Fridays",
+				"timestart": "2:30 PM",
+				"timeend": "3:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"25": {
+				"datemeet": "Thursdays",
+				"timestart": "2:30 PM",
+				"timeend": "3:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"26": {
+				"datemeet": "Tuesdays",
+				"timestart": "2:30 PM",
+				"timeend": "3:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"27": {
+				"datemeet": "Mondays",
+				"timestart": "2:30 PM",
+				"timeend": "3:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"28": {
+				"datemeet": "Wednesdays",
+				"timestart": "2:30 PM",
+				"timeend": "3:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"29": {
+				"datemeet": "Sundays",
+				"timestart": "3:00 PM",
+				"timeend": "4:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"30": {
+				"datemeet": "Mondays",
+				"timestart": "4:00 PM",
+				"timeend": "5:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"31": {
+				"datemeet": "Saturdays",
+				"timestart": "4:00 PM",
+				"timeend": "5:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"32": {
+				"datemeet": "Thursdays",
+				"timestart": "4:00 PM",
+				"timeend": "5:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"33": {
+				"datemeet": "Wednesdays",
+				"timestart": "4:00 PM",
+				"timeend": "5:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"34": {
+				"datemeet": "Tuesdays",
+				"timestart": "4:00 PM",
+				"timeend": "5:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"35": {
+				"datemeet": "Fridays",
+				"timestart": "4:00 PM",
+				"timeend": "6:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"36": {
+				"datemeet": "Thursdays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"37": {
+				"datemeet": "Mondays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"38": {
+				"datemeet": "Saturdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"39": {
+				"datemeet": "Sundays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"40": {
+				"datemeet": "Fridays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"41": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"42": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"43": {
+				"datemeet": "Thursdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"44": {
+				"datemeet": "Tuesdays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"45": {
+				"datemeet": "Mondays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"46": {
+				"datemeet": "Saturdays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"47": {
+				"datemeet": "Sundays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"48": {
+				"datemeet": "Thursdays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"49": {
+				"datemeet": "Fridays",
+				"timestart": "8:30 PM",
+				"timeend": "10:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"50": {
+				"datemeet": "Wednesdays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"51": {
+				"datemeet": "Tuesdays",
+				"timestart": "10:15 PM",
+				"timeend": "11:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"52": {
+				"datemeet": "Mondays",
+				"timestart": "10:15 PM",
+				"timeend": "11:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"53": {
+				"datemeet": "Thursdays",
+				"timestart": "10:15 PM",
+				"timeend": "11:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"54": {
+				"datemeet": "Wednesdays",
+				"timestart": "10:15 PM",
+				"timeend": "11:15 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"55": {
+				"datemeet": "Sundays",
+				"timestart": "10:30 PM",
+				"timeend": "11:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"56": {
+				"datemeet": "Saturdays",
+				"timestart": "11:00 PM",
+				"timeend": "12:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"57": {
+				"datemeet": "Fridays",
+				"timestart": "11:00 PM",
+				"timeend": "12:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7354854",
+			"long": "-74.0031569",
+			"TAMUaddress": "50 PERRY ST New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "232 West 11th Street",
+		"zipcode": "10014",
+		"buildingName": "Seventh Day Adventist Church",
+		"meetingName": "Primetime Nyc (I)",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "off 7th Ave",
+		"descr2": "downstairs in Junior Room",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:45 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:45 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.736193",
+			"long": "-74.0028632",
+			"TAMUaddress": "232 W 11TH ST New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "224 Waverly Place",
+		"zipcode": "10014",
+		"buildingName": "St. John's Episcopal Church",
+		"meetingName": "Red Door",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "1st floor event room.",
+		"descr2": "@ 11th Street &amp; 7th Avenue South",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "S",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			},
+			"1": {
+				"datemeet": "Thursdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			},
+			"2": {
+				"datemeet": "Fridays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "OD",
+				"meetspecial": "Promises"
+			},
+			"3": {
+				"datemeet": "Sundays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "OD",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			},
+			"4": {
+				"datemeet": "Fridays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "OD",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7360657",
+			"long": "-74.0019452",
+			"TAMUaddress": "224 WAVERLY PL New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "154 Sullivan Street",
+		"zipcode": "10012",
+		"buildingName": "St. Anthony's of Padua",
+		"meetingName": "Room For Improvement (I)",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "Enter on Sullivan Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Thursdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "Promises"
+			},
+			"4": {
+				"datemeet": "Fridays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7273786",
+			"long": "-74.0017414",
+			"TAMUaddress": "154 SULLIVAN ST New York NY 10012",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "273 Bowery Street",
+		"zipcode": "10012",
+		"buildingName": "Chinatown YMCA",
+		"meetingName": "Room For Improvement (II)",
+		"wheelchairacc": true,
+		"zone": "2",
+		"descr1": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "null",
+				"meetspecial": "Topic"
+			},
+			"1": {
+				"datemeet": "Saturdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "null",
+				"meetspecial": "Topic"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7236736",
+			"long": "-73.9924832",
+			"TAMUaddress": "273 BOWERY ST New York NY 10012",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "93.0177514792899"
+		}
+	},
+	{
+		"streetAddress": "371 6th Avenue",
+		"zipcode": "10014",
+		"buildingName": "St. Joseph's Church",
+		"meetingName": "Sheridan Square Follies",
+		"wheelchairacc": true,
+		"zone": "2",
+		"descr1": "Basement",
+		"descr2": "@ Corner of 6th Avenue &amp; Washington Place",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "B",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.6701581",
+			"long": "-73.9819879",
+			"TAMUaddress": "371 6TH AVE New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "97.8698224852071"
+		}
+	},
+	{
+		"streetAddress": "155 Sullivan Street",
+		"zipcode": "10012",
+		"buildingName": "St. Anthony of Padua Church",
+		"meetingName": "Soho (I)",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "Basement",
+		"descr2": "@ Houston Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "B",
+				"meetspecial": "Interpreted for the Deaf"
+			},
+			"1": {
+				"datemeet": "Mondays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Fridays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Mondays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7272525",
+			"long": "-74.0015782",
+			"TAMUaddress": "155 SULLIVAN ST New York NY 10012",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "7 East 10th Street",
+		"zipcode": "10003",
+		"buildingName": "The Bronfman Center @ NYU",
+		"meetingName": "Spiritual Workshop",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "@ Houston Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "11:00 AM",
+				"timeend": "12:15 PM",
+				"meettype": "C",
+				"meetspecial": "Eleventh Step"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7332068",
+			"long": "-73.9946888",
+			"TAMUaddress": "7 E 10TH ST New York NY 10003",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "232 West 11th Street",
+		"zipcode": 10014,
+		"buildingName": "Seventh Adventist Church",
+		"meetingName": "T&A",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "Basement",
+		"descr2": "Waverly Place @ 7th Avenue South",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "null",
+				"meetspecial": "Women"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.736193",
+			"long": "-74.0028632",
+			"TAMUaddress": "232 W 11TH ST New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "81 Christopher Street",
+		"zipcode": "10014",
+		"buildingName": "St. John's Lutheran Church",
+		"meetingName": "Ten Plus",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "enter at 83",
+		"descr2": "basement",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7335983",
+			"long": "-74.0035744",
+			"TAMUaddress": "81 CHRISTOPHER ST New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "273 Bowery",
+		"zipcode": "10002",
+		"buildingName": "University Settlement (The Chinatown YMCA)",
+		"meetingName": "The Captain's Table",
+		"wheelchairacc": true,
+		"zone": "2",
+		"descr1": "Downstairs",
+		"descr2": "@ Houston Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "BB",
+				"meetspecial": "Men"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7236736",
+			"long": "-73.9924832",
+			"TAMUaddress": "273 BOWERY New York NY 10002",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "232 West 11th Street",
+		"zipcode": "10014",
+		"buildingName": "Manhattan Seventh-Day Adventist Church",
+		"meetingName": "Together We Can",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "Just off of 7th avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:45 PM",
+				"timeend": "8:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.736193",
+			"long": "-74.0028632",
+			"TAMUaddress": "232 W 11TH ST New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "232 West 11th Street",
+		"zipcode": "10014",
+		"buildingName": "Manhattan Church of The Seventh-day Adventist",
+		"meetingName": "Wednesday Focus",
+		"wheelchairacc": true,
+		"zone": "2",
+		"descr1": "Btwneen 7th Avenue and West 4th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.736193",
+			"long": "-74.0028632",
+			"TAMUaddress": "232 W 11TH ST New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "83 Christopher Street",
+		"zipcode": "10014",
+		"buildingName": "St. John's Lutheran Church",
+		"meetingName": "West Village Women",
+		"wheelchairacc": true,
+		"zone": "2",
+		"descr1": "Basement",
+		"descr2": "Betw. Bleeker &amp; 7th Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:45 PM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7335702",
+			"long": "-74.0037456",
+			"TAMUaddress": "83 CHRISTOPHER ST New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "220 West Houston Street",
+		"zipcode": "10014",
+		"buildingName": "",
+		"meetingName": "Women Into Action",
+		"wheelchairacc": false,
+		"zone": "2",
+		"descr1": "2nd Floor",
+		"descr2": "Betw. 6th Avenue &amp; Varick Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "4:45 PM",
+				"timeend": "5:45 PM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7286385",
+			"long": "-74.0045871",
+			"TAMUaddress": "220 W HOUSTON ST New York NY 10014",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "273 Bowery",
+		"zipcode": "10002",
+		"buildingName": "University Settlement @ Houston Street Center",
+		"meetingName": "Women Together (II)",
+		"wheelchairacc": true,
+		"zone": "2",
+		"descr1": "Classroom Floor",
+		"descr2": "@ The corner of Houston Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "6:15 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "Lesbian"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7236736",
+			"long": "-73.9924832",
+			"TAMUaddress": "273 BOWERY New York NY 10002",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	}
+]

@@ -1,0 +1,2396 @@
+[
+	{
+		"version": "4.10",
+		"TransactionId": "1f8fff96-ad16-4c3c-9244-6881b4f113e1",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1406343",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "207 W 96TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7945161",
+					"Longitude": "-73.9710419",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "f4a908fb-0fe3-4c53-9379-d0af08f61589",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1562485",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "120 W 69TH ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7756982",
+					"Longitude": "-73.9810333",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "73193934-3b2b-4ed6-8b1d-6138439c54a0",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781291",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "422 W 57TH ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7682311",
+					"Longitude": "-73.9868768",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "98.9349112426035",
+					"MatchType": "Relaxed;Soundex",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "96cb301c-6440-42ca-9781-85589c4d8a3f",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1406259",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "164 W 74TH ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7796117",
+					"Longitude": "-73.9801807",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "81625b25-94c8-47f2-bdbb-3b49c00e8664",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937589",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "207 W 96TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7945161",
+					"Longitude": "-73.9710419",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "c09690c0-9c15-4296-832e-4ffd3cb8465b",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937535",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "144 W 90TH ST New York NY 10024",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10024"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7898068",
+					"Longitude": "-73.9723737",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "0dfec290-dc41-487c-a164-04b7806cb1d1",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1562491",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "141 W 73RD ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7789036",
+					"Longitude": "-73.9799533",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "77ee0daf-8686-4417-9c9d-e8c0cd843e55",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1406281",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "4 W 76TH ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7788736",
+					"Longitude": "-73.9745891",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "b72f1f46-fafc-4edc-abfc-5f94cdfbb5b0",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.2655859",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "221 W 107TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8017795",
+					"Longitude": "-73.9665393",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "dbc4ed3c-a676-4fbe-9cd4-a90ad1aadedb",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1249996",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "207 W 96TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7945161",
+					"Longitude": "-73.9710419",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "b7e94884-a361-4643-abec-671dee163217",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1249431",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "215 W 82ND ST New York NY 10024",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10024"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7852818734432",
+					"Longitude": "-73.9771060064311",
+					"NAACCRGISCoordinateQualityCode": "03",
+					"NAACCRGISCoordinateQualityType": "StreetSegmentInterpolation",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "StreetSegment",
+					"RegionSize": "3465.39621999138",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "759c8b26-d8dc-41da-a155-436d6ac6b492",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1874973",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "601 W 114TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8069051",
+					"Longitude": "-73.965058",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "7f04ec7b-436f-420b-a01b-64e340bb2659",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1249963",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "160 CENTRAL PARK W New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7787712",
+					"Longitude": "-73.9743066",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "42e2d127-f39b-449b-af7a-f7b24ffd7daf",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.2811864",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "5 W 63RD ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7708644",
+					"Longitude": "-73.9806413",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "8699a46a-b74e-4de1-8ee3-6764036e0954",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1093743",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "4 W 76TH ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7788736",
+					"Longitude": "-73.9745891",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "5b2510e7-b8c2-46f6-8ed7-fc80508f78a6",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781368",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "160 CENTRAL PARK W New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7787712",
+					"Longitude": "-73.9743066",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "a6122f1a-9955-40ae-be38-c329b5f62ba0",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1406443",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "152 W 66TH ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7744405",
+					"Longitude": "-73.9838262",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "84b9295d-3d40-4d69-871f-750678f8237d",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1406235",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "3 W 95TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7912379",
+					"Longitude": "-73.9655109",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "8929bf8a-4cb1-4f08-be39-83804f92090d",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1405873",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "251 W 80TH ST New York NY 10024",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10024"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7848713",
+					"Longitude": "-73.9800524",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "57e525bc-f043-4a79-9666-08739394a176",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1562097",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "111 W 71ST ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7769996",
+					"Longitude": "-73.9796679",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "4c772a14-5f47-4539-b11a-24b3a30ccce7",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937561",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "5 W 63RD ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7708644",
+					"Longitude": "-73.9806413",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "22a086fd-e0c3-4684-819d-82f4999551b8",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1093825",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "5 W 63RD ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7708644",
+					"Longitude": "-73.9806413",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "74902781-2610-49d8-8042-b2764bf79509",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1093723",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "207 W 96TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7945161",
+					"Longitude": "-73.9710419",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "e46cfae2-e18d-460b-acd4-02dbbdb7d761",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1562501",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "26 W 84TH ST New York NY 10024",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10024"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7844228",
+					"Longitude": "-73.9716168",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "561932fd-d468-49a6-a04a-5db6931f656b",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937473",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "200 W 97TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7946604892952",
+					"Longitude": "-73.9699229082063",
+					"NAACCRGISCoordinateQualityCode": "03",
+					"NAACCRGISCoordinateQualityType": "StreetSegmentInterpolation",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "StreetSegment",
+					"RegionSize": "3058.67791947513",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "18d66a17-8c9e-4673-bb54-4a72eea55132",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.2812625",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "218 W 108TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8021037",
+					"Longitude": "-73.9658778",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "8802e305-6ec6-43d7-b5ab-c46a504301f2",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1718779",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "125 W 104TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7985878",
+					"Longitude": "-73.9649967",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "43b35bd3-477e-44e2-8336-2d6ee17f94e1",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.12501",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "141 W 73RD ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7789036",
+					"Longitude": "-73.9799533",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "0c162691-e21f-47e8-b64f-685d6f4cffbb",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1249873",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "236 W 73RD ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7796494",
+					"Longitude": "-73.982239",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "4df644c6-3783-4d09-a97b-89b4d8adad2f",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.234381",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "165 W 105TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7996866",
+					"Longitude": "-73.9657282",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "13ae5a90-e558-4ba3-829c-bd5ad8796d05",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937989",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "207 W 96TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7945161",
+					"Longitude": "-73.9710419",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "287f5794-988d-416c-9600-a42cda0bcb8d",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937134",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "207 W 96TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7945161",
+					"Longitude": "-73.9710419",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "0c5ec96a-3a83-4653-a9c1-2e90e590884b",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781144",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "2504 BROADWAY New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7927534",
+					"Longitude": "-73.972842",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "7684f312-14e0-4caa-b3e3-d8460e37f9c3",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.2031212",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "405 W 114TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7946083",
+					"Longitude": "-73.9358608",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "95.3254437869822",
+					"MatchType": "Relaxed;Soundex",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "34f1984e-11fe-45aa-b655-fdd515c2b7b4",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781177",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "368 W END AVE New York NY 10024",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10024"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.783225",
+					"Longitude": "-73.9817572",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "1303ec31-1ebe-4fbe-bf1a-6192616eb770",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1406942",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "225 W 99TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7964452",
+					"Longitude": "-73.9694226",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "dd19bc37-dc3b-41a3-ad07-a09171ffead9",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.296873",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "251 W 100TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7977791",
+					"Longitude": "-73.9709911",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "4ea1d989-8463-4183-9319-145e7500ef56",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937562",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "207 W 96TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7945161",
+					"Longitude": "-73.9710419",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "a7a9bae6-7557-44b2-9547-4754a751aed3",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1093752",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "26 W 84TH ST New York NY 10024",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10024"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7844228",
+					"Longitude": "-73.9716168",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "ea390bc2-78af-40e0-b0e3-a91a4dcb5c67",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.093792",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "5 W 63RD ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7708644",
+					"Longitude": "-73.9806413",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "48d47dcb-5551-4fb0-9f03-03adb807325d",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0624712",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "552 W END AVE New York NY 10024",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10024"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.78931",
+					"Longitude": "-73.9773114",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "677e5bdb-945f-4ad0-b852-4db575f3a02a",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1250533",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "164 W 74 ST New York NY 10024",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10024"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7796117",
+					"Longitude": "-73.9801807",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "99.4674556213018",
+					"MatchType": "Relaxed",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "3d276bdc-52be-41be-94c5-7b6478915a5f",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1562497",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "340 W 85TH ST New York NY 10024",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10024"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7887343",
+					"Longitude": "-73.9798639",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "ffc4172a-c1f7-4ae4-b229-8d219a968623",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0625108",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "368 W END AVE New York NY 10024",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10024"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.783225",
+					"Longitude": "-73.9817572",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "ae4ca6be-ece8-4675-91f1-c535bbe2e177",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1250011",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "152 W 71ST ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7774259",
+					"Longitude": "-73.9812051",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "d8695a4f-c309-455a-8b67-ac055023c95a",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937551",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "5 W 63RD ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7708644",
+					"Longitude": "-73.9806413",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "67170f19-132f-4ccd-8859-3f4d4720418e",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1561742",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "131 W 72ND ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7780247",
+					"Longitude": "-73.9798344",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "043b54d3-1431-4fff-8ddf-ce77f53591da",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1093761",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "207 W 96TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7945161",
+					"Longitude": "-73.9710419",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "3ef61b04-1fb1-426a-ac81-afa8e073bf8c",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1406311",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "152 W 71ST ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7774259",
+					"Longitude": "-73.9812051",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "767b4e7f-bf3c-4105-8d46-47bbbbcd432b",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1406346",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "30 W 68TH ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7740859",
+					"Longitude": "-73.979107",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "7c01006a-6af9-4b97-9e12-b7862c5755c3",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1249369",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "207 W 96TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7945161",
+					"Longitude": "-73.9710419",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "a49f263d-67e7-4682-9eb0-f03ecc292358",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1874683",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "263 W 86TH ST New York NY 10024",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10024"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7887918",
+					"Longitude": "-73.9772649",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "3346aba8-077a-40bc-a3a3-8f35f5f55468",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.2500007",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "306 W 102ND ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7992334",
+					"Longitude": "-73.9710638",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "b93a1a00-2cd8-467e-b0a4-2337d463cc7d",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1093648",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "152 W 71ST ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7774259",
+					"Longitude": "-73.9812051",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "44806f30-9918-4968-af7f-3dda192b75be",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937557",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "26 W 84TH ST New York NY 10024",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10024"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7844228",
+					"Longitude": "-73.9716168",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "22d3efe9-a63d-47a0-b84e-36462eebbeb9",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1094188",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "595 COLUMBUS AVE New York NY 10024",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10024"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7879892",
+					"Longitude": "-73.9707609",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "05360bf3-e810-4775-b55b-fa009bc64c5e",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.2186868",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "306 W 102ND ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7992334",
+					"Longitude": "-73.9710638",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "a3c64a56-a7f6-4835-be1b-efa67f4038be",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1093738",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "213 W 82ND ST New York NY 10024",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10024"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7760114",
+					"Longitude": "-73.9550312",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "95.3254437869822",
+					"MatchType": "Relaxed;Soundex",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "5a39adc6-f1d5-414f-9fdb-3511ab9f04ae",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.109372",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "152 W 71ST ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7774259",
+					"Longitude": "-73.9812051",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "b22fec0a-285a-4150-a888-01c11df1dd7d",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781229",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "152 W 71ST ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7774259",
+					"Longitude": "-73.9812051",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "405d53f0-c879-4b2d-b995-b4b0f8a962f2",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1094333",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "152 W 71ST ST New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7774259",
+					"Longitude": "-73.9812051",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "a01f4f96-288c-48a4-91b7-16f524c78d14",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781294",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "160 CENTRAL PARK W New York NY 10023",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10023"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7787712",
+					"Longitude": "-73.9743066",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "1e86f679-0153-4a00-94a5-0df8f54f3b73",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.093748",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "207 W 96TH ST New York NY 10025",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10025"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7945161",
+					"Longitude": "-73.9710419",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	}
+]

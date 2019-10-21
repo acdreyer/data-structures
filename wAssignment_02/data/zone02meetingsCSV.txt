@@ -1,0 +1,30 @@
+Address,City/State,Zipcode 
+273 Bowery,NY,10002
+232 West 11th Street,NY,10014
+283 West Broadway,NY,10013
+232 West 11th Street,NY,10014
+220 West Houston Street,NY,10014
+253 Center Street,NY,10013
+273 Bowery,NY,10002
+487 Hudson Street,NY,10014
+292 Henry Street,NY,10002
+232 West 11th Street,NY,10014
+141 Henry Street,NY,10002
+220 West Houston Street,NY,10014
+83 Christopher Street,NY,10014
+50 Perry Street,NY,10014
+232 West 11th Street,NY,10014
+224 Waverly Place,NY,10014
+154 Sullivan Street,NY,10012
+273 Bowery Street,NY,10012
+371 6th Avenue,NY,10014
+155 Sullivan Street,NY,10012
+7 East 10th Street,NY,10003
+232 West 11th Street,NY,10014
+81 Christopher Street,NY,10014
+273 Bowery,NY,10002
+232 West 11th Street,NY,10014
+232 West 11th Street,NY,10014
+83 Christopher Street,NY,10014
+220 West Houston Street,NY,10014
+273 Bowery,NY,10002

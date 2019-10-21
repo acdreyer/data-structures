@@ -1,0 +1,1104 @@
+[
+	{
+		"version": "4.10",
+		"TransactionId": "67f01adc-a5a3-475d-954a-381ae5251be2",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1098158",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "273 BOWERY New York NY 10002",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10002"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7236736",
+					"Longitude": "-73.9924832",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "b6ee7409-63d2-4815-88c9-224f14cfedfb",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.2812572",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "232 W 11TH ST New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.736193",
+					"Longitude": "-74.0028632",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "2fecdea4-ae4c-494c-9ba9-9b5b97d9dbe4",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781115",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "283 W BROADWAY New York NY 10013",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10013"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7144166",
+					"Longitude": "-73.9843646",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "94.792899408284",
+					"MatchType": "Relaxed",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "924687b6-c1a3-4f89-b038-6ca31537665c",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1718744",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "232 W 11TH ST New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.736193",
+					"Longitude": "-74.0028632",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "615a8185-8198-4a03-95bd-b5038b13bd21",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937646",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "220 W HOUSTON ST New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7286385",
+					"Longitude": "-74.0045871",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "a0db6206-63e7-4b1b-9427-c46d8c7a58af",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1093768",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "253 CENTER ST New York NY 10013",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10013"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7206323",
+					"Longitude": "-73.9979756",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "2313280e-fb59-47c2-867f-46ecbe188375",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781262",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "273 BOWERY New York NY 10002",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10002"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7236736",
+					"Longitude": "-73.9924832",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "791d6b04-35c8-4b31-aac7-de1632f079f6",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "BrokenTie",
+		"FeatureMatchingResultCount": "2",
+		"TimeTaken": "0.1249959",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "487 HUDSON ST New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7326",
+					"Longitude": "-74.0067",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "BrokenTie",
+					"FeatureMatchingResultCount": "2",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "16ae1de2-a6bd-4b6c-8010-c49b24cffd8a",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937982",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "292 HENRY ST New York NY 10002",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10002"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7137143",
+					"Longitude": "-73.983033",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "5fb75ccd-1bf0-4c95-ac0f-1e5507283859",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1406209",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "232 W 11TH ST New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.736193",
+					"Longitude": "-74.0028632",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "0e57a83b-7fcc-43fe-8983-7e4a404127ab",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0625052",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "141 HENRY ST New York NY 10002",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10002"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7134487",
+					"Longitude": "-73.9906625",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "b88032a1-84d5-4ec9-ab15-ec37b9f011bb",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0625001",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "220 W HOUSTON ST New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7286385",
+					"Longitude": "-74.0045871",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "5170b103-ca07-4440-a1e7-452395546ddb",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1249967",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "83 CHRISTOPHER ST New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7335702",
+					"Longitude": "-74.0037456",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "5e633232-f357-4eba-98e1-cccda95f2ab6",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937475",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "50 PERRY ST New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7354854",
+					"Longitude": "-74.0031569",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "43b734af-becc-4eed-9d35-2a315f063022",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.2031332",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "232 W 11TH ST New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.736193",
+					"Longitude": "-74.0028632",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "ef28a395-2e05-4fb7-936f-133ab955324d",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781299",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "224 WAVERLY PL New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7360657",
+					"Longitude": "-74.0019452",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "19b82903-7b82-4e9a-a93d-1c0804a6befd",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0937528",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "154 SULLIVAN ST New York NY 10012",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10012"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7273786",
+					"Longitude": "-74.0017414",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "d957a0c9-5bf5-4813-b548-0c2df07e1919",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781339",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "273 BOWERY ST New York NY 10012",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10012"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7236736",
+					"Longitude": "-73.9924832",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "93.0177514792899",
+					"MatchType": "Relaxed",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "7dbec857-3833-48df-9fc3-b0e54aee1dec",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.093751",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "371 6TH AVE New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.6701581",
+					"Longitude": "-73.9819879",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "97.8698224852071",
+					"MatchType": "Relaxed;Soundex",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "15d2acf0-dd13-4029-9678-3fb01b63bf52",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781295",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "155 SULLIVAN ST New York NY 10012",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10012"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7272525",
+					"Longitude": "-74.0015782",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "b61c4a5b-ecc7-45c8-a548-1f2f65b3ec25",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.3593748",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "7 E 10TH ST New York NY 10003",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10003"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7332068",
+					"Longitude": "-73.9946888",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "9356ff80-1bf3-431f-b4df-ce58a27c46aa",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1406754",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "232 W 11TH ST New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.736193",
+					"Longitude": "-74.0028632",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "ba60febc-bcf4-403e-8ecc-f713f7f5075d",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.093744",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "81 CHRISTOPHER ST New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7335983",
+					"Longitude": "-74.0035744",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "196bdf67-2fec-42b2-8390-99f7edf3d098",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.2656237",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "273 BOWERY New York NY 10002",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10002"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7236736",
+					"Longitude": "-73.9924832",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "a79c3a1c-a1da-4f3f-9892-3881b6ef4b3e",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.203132",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "232 W 11TH ST New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.736193",
+					"Longitude": "-74.0028632",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "77ae6008-c3d0-4f70-b888-afbd92178050",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.2031219",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "232 W 11TH ST New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.736193",
+					"Longitude": "-74.0028632",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "70a8f36f-960f-4c2a-8ab2-99e68f4b1cb4",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781247",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "83 CHRISTOPHER ST New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7335702",
+					"Longitude": "-74.0037456",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "a2c9d7b1-86a7-4435-844a-a6d009ebe106",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0780991",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "220 W HOUSTON ST New York NY 10014",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10014"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7286385",
+					"Longitude": "-74.0045871",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "de0168fe-2d35-47b4-ab2a-8adeb6ba591e",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1874977",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "273 BOWERY New York NY 10002",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10002"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.7236736",
+					"Longitude": "-73.9924832",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	}
+]

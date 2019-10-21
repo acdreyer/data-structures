@@ -1,0 +1,838 @@
+[
+	{
+		"version": "4.10",
+		"TransactionId": "9c2711f1-02c8-4475-a64b-e79e66f79204",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.171931",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "701 W 168TH ST New York NY 10032",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10032"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8424566",
+					"Longitude": "-73.9424508",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "f0e4bab2-b40c-403c-9dbc-6ada5f8d946e",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.2343836",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "715 W 179TH ST New York NY 10033",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10033"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8492702",
+					"Longitude": "-73.9382266",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "6cbded5e-63ca-425f-918d-2744f7c65c7b",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1875007",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "715 W 179TH ST New York NY 10040",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10040"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8492702",
+					"Longitude": "-73.9382266",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "98.9349112426035",
+					"MatchType": "Relaxed;Soundex",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "af0ff8c8-2bc1-41b0-890d-3b314ac3c8f9",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.2188361",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "431 W 204TH ST New York NY 10034",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10034"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8620966104922",
+					"Longitude": "-73.9190004613749",
+					"NAACCRGISCoordinateQualityCode": "03",
+					"NAACCRGISCoordinateQualityType": "StreetSegmentInterpolation",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "StreetSegment",
+					"RegionSize": "4465.39591778349",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "bbdc2a48-1fa9-4a8a-a1d0-3c939e467a16",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1718861",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "550 W 155TH ST New York NY 10032",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10032"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8321897",
+					"Longitude": "-73.945059",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "4494973a-100d-4fd0-9ba1-70197462dd63",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1406283",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "557 W 156TH ST New York NY 10032",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10032"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8333254",
+					"Longitude": "-73.9446563",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "ace8e717-9383-47f8-8905-83264901881c",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0776874",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "35 THAYER ST New York NY 10040",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10040"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8626147",
+					"Longitude": "-73.9263819",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "38d822cb-7abb-4c52-b0bf-ed510ece1505",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1249992",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "715 W 179TH ST New York NY 10033",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10033"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8492702",
+					"Longitude": "-73.9382266",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "0447be0d-9fc5-4045-9859-94d395d87a9d",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1718657",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "502 W 165TH ST New York NY 10032",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10032"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8378476619065",
+					"Longitude": "-73.9384773058967",
+					"NAACCRGISCoordinateQualityCode": "03",
+					"NAACCRGISCoordinateQualityType": "StreetSegmentInterpolation",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "StreetSegment",
+					"RegionSize": "3395.19254364818",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "b9f42550-9666-4799-8ee3-961d4e8f3cb6",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1093674",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "91 ARDEN ST New York NY 10034",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10034"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8639073",
+					"Longitude": "-73.9282532",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "98.9349112426035",
+					"MatchType": "Relaxed",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "f15a81c8-2058-4060-bd0d-72eb72a7a0dc",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1093729",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "20 CUMMING ST New York NY 10034",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10034"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8664723",
+					"Longitude": "-73.9264521",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "972b875d-23fb-4c91-b825-0ac8103eba6d",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.093748",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "84 VERMILYEA AVE New York NY 10034",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10034"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.86596",
+					"Longitude": "-73.9231447",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "13734beb-9863-4577-8efa-ef57856428c7",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1093741",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "620 ISHAM ST New York NY 10034",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10034"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8692449",
+					"Longitude": "-73.9206611",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "bb6b7760-96e9-48c9-88ee-8a7ef4a25218",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.078122",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "2005 AMSTERDAM AVE New York NY 10032",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10032"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8342553",
+					"Longitude": "-73.9407968",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "5a639654-b089-419f-bc0a-4411c069e50e",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1093821",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "178 BENNETT AVE New York NY 10040",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10040"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8560069",
+					"Longitude": "-73.9342762",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "54333a51-90c4-4087-8915-1336832a9d2d",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.062495",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "178 BENNETT AVE New York NY 10040",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10040"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8560069",
+					"Longitude": "-73.9342762",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "4fcc7d29-5c5d-4073-a600-e1f3434f2dd3",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.062502",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "91 ARDEN ST New York NY 10034",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10034"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8639073",
+					"Longitude": "-73.9282532",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "98.9349112426035",
+					"MatchType": "Relaxed",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "8e730c5a-d1af-4143-95dd-cdf4f6c43f4d",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.1093706",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "20 CUMMINGS ST New York NY 10034",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10034"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8664723",
+					"Longitude": "-73.9264521",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "96.6715976331361",
+					"MatchType": "Relaxed;Soundex",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "878e3dfb-d674-4f06-972d-663a4527bbe4",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.2031249",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "715 W 179TH ST New York NY 10033",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10033"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8492702",
+					"Longitude": "-73.9382266",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "b9f2ecae-f088-45bc-8549-1135089da80d",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0781249",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "178 BENNETT AVE New York NY 10040",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10040"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8560069",
+					"Longitude": "-73.9342762",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "35677f4d-ee24-40db-aab0-7ec7ce76ca4c",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.0780638",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "178 BENNETT AVE New York NY 10040",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10040"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8560069",
+					"Longitude": "-73.9342762",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	},
+	{
+		"version": "4.10",
+		"TransactionId": "547a8e2a-4c10-4cec-add1-830d5d9dc095",
+		"Version": "4.1",
+		"QueryStatusCodeValue": "200",
+		"FeatureMatchingResultType": "Success",
+		"FeatureMatchingResultCount": "1",
+		"TimeTaken": "0.062494",
+		"ExceptionOccured": "False",
+		"Exception": "",
+		"InputAddress": {
+			"StreetAddress": "178 BENNETT AVE New York NY 10040",
+			"City": "New York",
+			"State": "NY",
+			"Zip": "10040"
+		},
+		"OutputGeocodes": [
+			{
+				"OutputGeocode": {
+					"Latitude": "40.8560069",
+					"Longitude": "-73.9342762",
+					"NAACCRGISCoordinateQualityCode": "00",
+					"NAACCRGISCoordinateQualityType": "AddressPoint",
+					"MatchScore": "100",
+					"MatchType": "Exact",
+					"FeatureMatchingResultType": "Success",
+					"FeatureMatchingResultCount": "1",
+					"FeatureMatchingGeographyType": "Parcel",
+					"RegionSize": "0",
+					"RegionSizeUnits": "Meters",
+					"MatchedLocationType": "LOCATION_TYPE_STREET_ADDRESS",
+					"ExceptionOccured": "False",
+					"Exception": "",
+					"ErrorMessage": ""
+				}
+			}
+		]
+	}
+]

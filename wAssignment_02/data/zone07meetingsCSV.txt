@@ -1,0 +1,54 @@
+Address,City/State,Zipcode 
+351 East 74th Street,NY,10021
+48 East 80th Street,NY,10021
+184 East 76th Street,NY,10021
+351 East 74th Street,NY,10021
+1393 York Avenue,NY,10021
+520 Park Avenue,NY,10021
+337 East 74th Street,NY,10021
+1157 Lexington Avenue,NY,10075
+420 East 76th Street,NY,10021
+230 East 90th Street,NY,10128
+65 East 89th Street,NY,10128
+865 Madison Avenue,NY,10021
+1296 Lexington Avenue,NY,10128
+351 East 74th Street,NY,10021
+1157 Lexington Avenue,NY,10028
+351 East 74th Street,NY,10021
+351 East 74th Street,NY,10021
+65 East 89th Street,NY,10128
+65 East 89th Street,NY,10128
+351 East 74th Street,NY,10021
+135 East 96th Street,NY,10128
+351 East 74th Street,NY,10021
+2 East 90th Street,NY,10128
+1157 Lexington Avenue,NY,10028
+420 East 76th Street,NY,10021
+351 East 74th Street,NY,10021
+351 East 74th Street,NY,10021
+1285 Madison Avenue,NY,10128
+48 East 84th Street,NY,10028
+408 East 82nd Street,NY,10028
+351 East 74th Street,NY,10021
+351 East 74th Street,NY,10021
+125 East 85th Street,NY,10028
+351 East 74th Street,NY,10021
+351 East 74th Street,NY,10021
+865 Madison Avenue,NY,10021
+62 East 92nd Street,NY,10128
+351 East 74th Street,NY,10021
+420 East 87th Street,NY,10128
+593 Park Avenue,NY,10128
+65 East 89th Street,NY,10128
+865 Madison Avenue,NY,10021
+543 Main Street,NY,10044
+413 East 79th Street,NY,10021
+351 East 74th Street,NY,10021
+310 East 67th Street,NY,10065
+331 East 70th Street,NY,10021
+411 East 68th Street,NY,10021
+2 East 90th Street,NY,10128
+341 East 87th Street,NY,10128
+351 East 74th Street,NY,10021
+351 East 74th Street,NY,10021
+351 East 74th Street,NY,10021

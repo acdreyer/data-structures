@@ -1,9 +1,9 @@
-/* MSDV PGDV5110 Weekly Assignment 01
+/* MSDV PGDV5110 Weekly Assignment 03
 
 Created by A.C. Dreyer;  09/14/2019 */
+// Updated 10/21/2019
 
 // Note: much of the TAMU API interface code comes from supplied sample code.
-
 
 // Dependencies
 var request = require('request'); // npm install request
@@ -21,9 +21,27 @@ var TAMUnew = {};
 var TAMUraw = [];
 var count = 0;
 var TAMUcontent = [];
+var APIdebug = '';
+
+
+
+// --------------------------------------------------------------------
+// --------------------------------------------------------------------
+var zoneNo = '10';  //change this value for each zone...
+
+// --------------------------------------------------------------------
+// --------------------------------------------------------------------
+if (zoneNo == 10){ 
+    var zoneStr = '10';
+} else {
+    var zoneStr = '0' + zoneNo.toString(10);
+};
+// --------------------------------------------------------------------
+
+
 
 // extract addresses from JSON file
-var zoneFileName = './data/zone7AAmeetings'; //list of meetings (zone file)
+var zoneFileName = '../wAssignment_02/data/zone' + zoneStr + 'AAmeetings'; //list of meetings (zone file)
 var meetingContent = JSON.parse(fs.readFileSync(zoneFileName + ".json")); //Load meeting data
 meetingContent = meetingContent.filter(function(x) { return x }); //Remove null entries
 meetingContent = meetingContent.filter(value => Object.keys(value).length !== 0); //Remove empty entries
@@ -81,6 +99,13 @@ async.eachSeries(meetingContent, function(value, callback) {
         StatusCode: TAMUcontent.QueryStatusCodeValue,
         MatchScore: TAMUcontent.OutputGeocodes[0].OutputGeocode.MatchScore
     };
+    APIdebug += [TAMUcontent.OutputGeocodes[0].OutputGeocode.Latitude + ',' +
+    TAMUcontent.OutputGeocodes[0].OutputGeocode.Longitude + ',' +
+    TAMUcontent.InputAddress.StreetAddress + ','+
+    TAMUcontent.FeatureMatchingResultType + ',' +
+    TAMUcontent.QueryStatusCodeValue + ',' +
+    TAMUcontent.OutputGeocodes[0].OutputGeocode.MatchScore + '\n'
+    ];
     // console.log(TAMUnew);
     // meetingsData.push(TAMUnew);
     value.GeoInfo = TAMUnew;        //add Geo Info to main dataset
@@ -94,9 +119,10 @@ async.eachSeries(meetingContent, function(value, callback) {
 
 // Write out the files; a raw output and a refined output in meeting data
 }, function() {
-    fs.writeFileSync('./data/TAMUraw.json', JSON.stringify(TAMUraw, null, '\t'));
-    fs.writeFileSync(zoneFileName + 'Geo.json', JSON.stringify(meetingContent, null, '\t'));
+    fs.writeFileSync('./data/TAMUrawZone' + zoneStr + '.json', JSON.stringify(TAMUraw, null, '\t'));
+    fs.writeFileSync('./data/zone' + zoneStr + 'AAmeetingsGeo.json', JSON.stringify(meetingContent, null, '\t'));
+    fs.writeFileSync('./data/zone' + zoneStr + 'TamuCSV.txt', APIdebug);
     console.log('*** *** *** *** ***');
-    console.log('Number of meetings in this zone: ');
+    console.log('Number of locations in this zone: ');
     console.log(meetingContent.length);
 });

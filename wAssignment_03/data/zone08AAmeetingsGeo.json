@@ -1,0 +1,795 @@
+[
+	{
+		"streetAddress": "109 West 129th Street",
+		"zipcode": "10027",
+		"buildingName": "SRO Building",
+		"meetingName": "A Chance To Live Again",
+		"wheelchairacc": true,
+		"zone": "8",
+		"descr1": "Basement",
+		"descr2": "@ Lenox Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Mondays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8106798",
+			"long": "-73.944244",
+			"TAMUaddress": "109 W 129TH ST New York NY 10027",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "240 West 145th Street",
+		"zipcode": "10039",
+		"buildingName": "Union Baptist Church",
+		"meetingName": "Aa It Works Ii",
+		"wheelchairacc": true,
+		"zone": "8",
+		"descr1": "Betw 7th &amp; 8th Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Thursdays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Fridays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Tuesdays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8222189",
+			"long": "-73.9408621",
+			"TAMUaddress": "240 W 145TH ST New York NY 10039",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "99.4674556213018"
+		}
+	},
+	{
+		"streetAddress": "469 West 142nd Street",
+		"zipcode": "10031",
+		"buildingName": "Our Lady of Lourdes Church",
+		"meetingName": "Attitude Adjustment",
+		"wheelchairacc": false,
+		"zone": "8",
+		"descr1": "Basement",
+		"descr2": "Betw Convent &amp; Amsterdam Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8232166",
+			"long": "-73.9484769",
+			"TAMUaddress": "469 W 142ND ST New York NY 10031",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "204 West 134th Street",
+		"zipcode": "10030",
+		"buildingName": "St. Phillip Church",
+		"meetingName": "Convent",
+		"wheelchairacc": false,
+		"zone": "8",
+		"descr1": "1st Floor",
+		"descr2": "Betw 7th &amp; 8th Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "11:30 AM",
+				"timeend": "1:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8147959",
+			"long": "-73.9448542",
+			"TAMUaddress": "204 W 134TH ST New York NY 10030",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "2044 Adam Clayton Powell Blvd.",
+		"zipcode": "10027",
+		"buildingName": "Spiritual Renewal Church",
+		"meetingName": "Fellowship At Noon",
+		"wheelchairacc": false,
+		"zone": "8",
+		"descr1": "@ 122nd Street",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Fridays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8072583",
+			"long": "-73.9499047",
+			"TAMUaddress": "2044 ADAM CLAYTON POWELL BLVD New York NY 10027",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "96.8673860076575"
+		}
+	},
+	{
+		"streetAddress": "469 West 142nd Street",
+		"zipcode": "10031",
+		"buildingName": "",
+		"meetingName": "Grupo Trasmitelo",
+		"wheelchairacc": false,
+		"zone": "8",
+		"descr1": "1st Floor",
+		"descr2": "Betw. Amsterdam &amp; Convent Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8232166",
+			"long": "-73.9484769",
+			"TAMUaddress": "469 W 142ND ST New York NY 10031",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "521 West 126th Street",
+		"zipcode": "10027",
+		"buildingName": "St. Mary's Episcopal",
+		"meetingName": "Harlem Humanists",
+		"wheelchairacc": true,
+		"zone": "8",
+		"descr1": "Amsterdam &amp; Old Broadway",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "12:00 PM",
+				"timeend": "1:00 PM",
+				"meettype": "O",
+				"meetspecial": "Agnostic"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8148408",
+			"long": "-73.9561515",
+			"TAMUaddress": "521 W 126TH ST New York NY 10027",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "109 West 129th Street",
+		"zipcode": "10027",
+		"buildingName": "SRO Building Community Room",
+		"meetingName": "K.i.s.s.",
+		"wheelchairacc": true,
+		"zone": "8",
+		"descr1": "Basement",
+		"descr2": "Betw Lenox Avenue &amp; Adam Clayton Powell Blvd",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Sundays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8106798",
+			"long": "-73.944244",
+			"TAMUaddress": "109 W 129TH ST New York NY 10027",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "469 West 142nd Street",
+		"zipcode": "10031",
+		"buildingName": "Our Lady of Lourdes",
+		"meetingName": "Learning To Live Sober",
+		"wheelchairacc": false,
+		"zone": "8",
+		"descr1": "Basement",
+		"descr2": "Betw Convent &amp; Amsterdam Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8232166",
+			"long": "-73.9484769",
+			"TAMUaddress": "469 W 142ND ST New York NY 10031",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "2044 Seventh Avenue",
+		"zipcode": "10027",
+		"buildingName": "",
+		"meetingName": "Living Clean And Sober On 121st Street",
+		"wheelchairacc": true,
+		"zone": "8",
+		"descr1": "",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "6:00 PM",
+				"timeend": "7:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8071759186691",
+			"long": "-73.9497519327616",
+			"TAMUaddress": "2044 SEVENTH AVE New York NY 10027",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "127 West 127th Street",
+		"zipcode": "10027",
+		"buildingName": "S.A.G.E.",
+		"meetingName": "Meditation Comes To Harlem",
+		"wheelchairacc": true,
+		"zone": "8",
+		"descr1": "Betw. 7th and Lenox",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "4:30 PM",
+				"timeend": "5:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8095378",
+			"long": "-73.9453852",
+			"TAMUaddress": "127 W 127TH ST New York NY 10027",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "310 West 139th Street",
+		"zipcode": "10037",
+		"buildingName": "Grace Congregational Baptist Church",
+		"meetingName": "Mid",
+		"wheelchairacc": false,
+		"zone": "8",
+		"descr1": "Basement",
+		"descr2": "Betw Eighth &amp; Edgecombe Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Fridays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Fridays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8192096",
+			"long": "-73.9453784",
+			"TAMUaddress": "310 W 139TH ST New York NY 10037",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "99.4674556213018"
+		}
+	},
+	{
+		"streetAddress": "409 West 141st Street",
+		"zipcode": "10031",
+		"buildingName": "St. James Church",
+		"meetingName": "Monday Night Challenge",
+		"wheelchairacc": false,
+		"zone": "8",
+		"descr1": "Basement",
+		"descr2": "@ St. Nicholas Avenue",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8215113",
+			"long": "-73.9463991",
+			"TAMUaddress": "409 W 141ST ST New York NY 10031",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "91 Claremont Avenue",
+		"zipcode": "10027",
+		"buildingName": "Riverside Church",
+		"meetingName": "Primary Purpose",
+		"wheelchairacc": true,
+		"zone": "8",
+		"descr1": "4th Floor",
+		"descr2": "Room 414",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "3:00 PM",
+				"timeend": "4:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8119559",
+			"long": "-73.9625116",
+			"TAMUaddress": "91 CLAREMONT AVE New York NY 10027",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "1727 Amsterdam Avenue",
+		"zipcode": "10031",
+		"buildingName": "Upper Manhattan Mental Health Center",
+		"meetingName": "Promises Two For One",
+		"wheelchairacc": true,
+		"zone": "8",
+		"descr1": "1st Floor in the rear.",
+		"descr2": "@ 145th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "9:30 AM",
+				"timeend": "10:30 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Sundays",
+				"timestart": "11:00 AM",
+				"timeend": "12:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8255289",
+			"long": "-73.9471616",
+			"TAMUaddress": "1727 AMSTERDAM AVE New York NY 10031",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "469 West 142nd Street",
+		"zipcode": "10037",
+		"buildingName": "Our Lady of Lourdes Church",
+		"meetingName": "Reality Check",
+		"wheelchairacc": false,
+		"zone": "8",
+		"descr1": "Basement",
+		"descr2": "Betw Convent &amp; Amsterdam Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "5:00 PM",
+				"timeend": "6:00 PM",
+				"meettype": "OD",
+				"meetspecial": "Men"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8232166",
+			"long": "-73.9484769",
+			"TAMUaddress": "469 W 142ND ST New York NY 10037",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "99.4674556213018"
+		}
+	},
+	{
+		"streetAddress": "91 Claremont Avenue",
+		"zipcode": "10027",
+		"buildingName": "Riverside Church",
+		"meetingName": "Riverside",
+		"wheelchairacc": true,
+		"zone": "8",
+		"descr1": "@ The Cloisters Club Room",
+		"descr2": "1 Block West of Broadway &amp; 1/2 Block North of 120th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8119559",
+			"long": "-73.9625116",
+			"TAMUaddress": "91 CLAREMONT AVE New York NY 10027",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "219 West 132nd Street",
+		"zipcode": "10027",
+		"buildingName": "St. Aloysius School",
+		"meetingName": "Riverton",
+		"wheelchairacc": false,
+		"zone": "8",
+		"descr1": "Cafeteria",
+		"descr2": "Betw. Adam Clayton Powell Blvd. &amp; F. Douglass Blvd.",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "3:00 PM",
+				"timeend": "4:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Saturdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Tuesdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "null",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8138548",
+			"long": "-73.9459315",
+			"TAMUaddress": "219 W 132ND ST New York NY 10027",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "211 West 129th Street",
+		"zipcode": "10027",
+		"buildingName": "Salem United Methodist Church Community Center",
+		"meetingName": "Salem",
+		"wheelchairacc": true,
+		"zone": "8",
+		"descr1": "Downstairs in the Gym",
+		"descr2": "@ Adam Clayton Powell Blvd.",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8119105",
+			"long": "-73.9471217",
+			"TAMUaddress": "211 W 129TH ST New York NY 10027",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "425 West 144th Street",
+		"zipcode": "10031",
+		"buildingName": "Convent Baptist Church Education Building",
+		"meetingName": "Sober Adult Men",
+		"wheelchairacc": true,
+		"zone": "8",
+		"descr1": "1st Floor",
+		"descr2": "Betw. Convent Avenue &amp; Hamilton Terrace",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "C",
+				"meetspecial": "Men"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8238524",
+			"long": "-73.9461167",
+			"TAMUaddress": "425 W 144TH ST New York NY 10031",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "204 West 134th Street",
+		"zipcode": "10030",
+		"buildingName": "St. Phillip's Church",
+		"meetingName": "St. Nicholas",
+		"wheelchairacc": true,
+		"zone": "8",
+		"descr1": "Basement",
+		"descr2": "Betw Adam C. Powell &amp; Frederick Douglas Blvds",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "4:00 PM",
+				"timeend": "5:00 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Thursdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8147959",
+			"long": "-73.9448542",
+			"TAMUaddress": "204 W 134TH ST New York NY 10030",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "506 Lenox Avenue",
+		"zipcode": "10037",
+		"buildingName": "Harlem Hospital King Pavilion",
+		"meetingName": "Steps 3 And 11",
+		"wheelchairacc": true,
+		"zone": "8",
+		"descr1": "Room #3101",
+		"descr2": "3rd Floor",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "2:00 PM",
+				"timeend": "3:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8143457",
+			"long": "-73.9403066",
+			"TAMUaddress": "506 LENOX AVE New York NY 10037",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "1727 Amsterdam Avenue",
+		"zipcode": "10031",
+		"buildingName": "Council Center for Problems of Living",
+		"meetingName": "Sugar Hill",
+		"wheelchairacc": true,
+		"zone": "8",
+		"descr1": "1st floor in the rear",
+		"descr2": "@ 145th St.",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8255289",
+			"long": "-73.9471616",
+			"TAMUaddress": "1727 AMSTERDAM AVE New York NY 10031",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "1854 Amsterdam Avenue",
+		"zipcode": "10031",
+		"buildingName": "",
+		"meetingName": "Tuesday Big Book Study",
+		"wheelchairacc": false,
+		"zone": "8",
+		"descr1": "Basment",
+		"descr2": "Corner of 152nd Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8295902",
+			"long": "-73.9446541",
+			"TAMUaddress": "1854 AMSTERDAM AVE New York NY 10031",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "469 West 142nd Street",
+		"zipcode": "10031",
+		"buildingName": "Our Lady of Lourdes Church",
+		"meetingName": "Uptown Big Book Workshop",
+		"wheelchairacc": false,
+		"zone": "8",
+		"descr1": "Basement",
+		"descr2": "Betw. Convent &amp; Amsterdam Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "9:30 AM",
+				"timeend": "11:00 AM",
+				"meettype": "BB",
+				"meetspecial": "Big Book Workshop"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8232166",
+			"long": "-73.9484769",
+			"TAMUaddress": "469 W 142ND ST New York NY 10031",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "58 West 135th Street",
+		"zipcode": "10037",
+		"buildingName": "Metropolitan AME Church",
+		"meetingName": "You May Care After",
+		"wheelchairacc": true,
+		"zone": "8",
+		"descr1": "Betw Malcolm X Boulevard &amp; 5th Avenue",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.8137051",
+			"long": "-73.9403147",
+			"TAMUaddress": "58 W 135TH ST New York NY 10037",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	}
+]

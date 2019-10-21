@@ -1,0 +1,23 @@
+Address,City/State,Zipcode 
+20 Cardinal Hayes Place,NY,10007
+20 Cardinal Hayes Place,NY,10007
+29 Mott Street,NY,10013
+49 Fulton Street,NY,10038
+44 John Street,NY,10038
+49 Fulton Street,NY,10038
+20 Cardinal Hayes Place,NY,10007
+22 Barclay Street,NY,10007
+20 Cardinal Hayes Place,NY,10007
+22 Barclay Street,NY,10007
+283 West Broadway,NY,10013
+125 Barclay Street,NY,10007
+49 Fulton Street,NY,10038
+49 Fulton Street,NY,10038
+20 Cardinal Hayes Place,NY,10007
+283 West Broadway,NY,10013
+49 Fulton Street,NY,10038
+22 Barclay Street,NY,10006
+20 Cardinal Hayes Place,NY,10007
+283 West Broadway,NY,10013
+283 West Broadway,NY,10013
+283 West Broadway,NY,10013

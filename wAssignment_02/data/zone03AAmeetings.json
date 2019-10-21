@@ -1,0 +1,2408 @@
+[
+    null,
+    {},
+    {
+        "streetAddress": "7 East 10th Street",
+        "zipcode": "10003",
+        "buildingName": "N.Y.U Bronfman Center",
+        "meetingName": "12 Concepts Workshop",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "2nd Floor",
+        "descr2": "",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Wednesdays",
+                "timestart": "8:15 PM",
+                "timeend": "9:15 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "155 East 22nd Street",
+        "zipcode": "10010",
+        "buildingName": "Gustavus Adolphus Church",
+        "meetingName": "22 Below",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Basement",
+        "descr2": "Betw Lexington &amp; 3rd Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Thursdays",
+                "timestart": "12:15 PM",
+                "timeend": "1:15 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Fridays",
+                "timestart": "12:15 PM",
+                "timeend": "1:15 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Mondays",
+                "timestart": "12:15 PM",
+                "timeend": "1:15 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Tuesdays",
+                "timestart": "12:15 PM",
+                "timeend": "1:15 PM",
+                "meettype": "B",
+                "meetspecial": "Living Sober"
+            },
+            "4": {
+                "datemeet": "Wednesdays",
+                "timestart": "12:15 PM",
+                "timeend": "1:15 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "61 Fourth Avenue",
+        "zipcode": "10003",
+        "buildingName": "Three Jewels Community Center",
+        "meetingName": "Aa At The Three Jewels",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "3rd Floor",
+        "descr2": "9th &amp; 10th St",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Thursdays",
+                "timestart": "6:00 PM",
+                "timeend": "7:15 PM",
+                "meettype": "null",
+                "meetspecial": "Meditation"
+            },
+            "1": {
+                "datemeet": "Sundays",
+                "timestart": "7:00 PM",
+                "timeend": "8:30 PM",
+                "meettype": "null",
+                "meetspecial": "Meditation"
+            }
+        }
+    },
+    {
+        "streetAddress": "208 West 13th Street",
+        "zipcode": "10011",
+        "buildingName": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+        "meetingName": "Agnostics At Noon",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "3rd Floor",
+        "descr2": "Room #312",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Thursdays",
+                "timestart": "12:00 PM",
+                "timeend": "1:00 PM",
+                "meettype": "C",
+                "meetspecial": "Agnostic"
+            }
+        }
+    },
+    {
+        "streetAddress": "123 East 15th Street",
+        "zipcode": "10003",
+        "buildingName": "Seafarers & Intl House",
+        "meetingName": "Alive Again",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "2nd Floor Conference Room",
+        "descr2": "@ Irving Place",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Saturdays",
+                "timestart": "1:00 PM",
+                "timeend": "2:00 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "61 Gramercy Park North",
+        "zipcode": "10010",
+        "buildingName": "Calvary Church Parish House",
+        "meetingName": "At Bill's Place",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Betw Park &amp; Lexington Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Wednesdays",
+                "timestart": "6:30 PM",
+                "timeend": "7:30 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "155 East 22nd Street",
+        "zipcode": "10010",
+        "buildingName": "Gustavus Adolphus Lutheran Church",
+        "meetingName": "Atlantic By The Book",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Ground Floor",
+        "descr2": "Betw. Lexington &amp; 3rd Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Wednesdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "127 East 22nd Street",
+        "zipcode": "10010",
+        "buildingName": "Mabel Bacon High School of the Future",
+        "meetingName": "Atlantic Downtown",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "2nd Floor Auditorium",
+        "descr2": "Betw. Lexington &amp; Park Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "602 East 9th Street",
+        "zipcode": "10009",
+        "buildingName": "Trinity Lower East Side Lutheran Parish",
+        "meetingName": "Avenue B Clean And Dry",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "@ Avenue B",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Thursdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:15 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "125 West 14th Street",
+        "zipcode": "10011",
+        "buildingName": "McBurney YMCA",
+        "meetingName": "Big Book Magic",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Kuttner Room",
+        "descr2": "Betw. 6th &amp; 7th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Thursdays",
+                "timestart": "7:45 PM",
+                "timeend": "8:45 PM",
+                "meettype": "BB",
+                "meetspecial": "Big Book Topic"
+            }
+        }
+    },
+    {
+        "streetAddress": "346 West 20th Street",
+        "zipcode": "10011",
+        "buildingName": "St. Peters Episcopal Church- Rectory",
+        "meetingName": "Chelsea Mornings",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "between 8th and 9th Avenue",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "8:00 AM",
+                "timeend": "9:00 AM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Mondays",
+                "timestart": "8:00 AM",
+                "timeend": "9:00 AM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Wednesdays",
+                "timestart": "8:00 AM",
+                "timeend": "9:00 AM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Thursdays",
+                "timestart": "8:00 AM",
+                "timeend": "9:00 AM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "4": {
+                "datemeet": "Fridays",
+                "timestart": "8:00 AM",
+                "timeend": "9:00 AM",
+                "meettype": "C",
+                "meetspecial": "Meditation"
+            },
+            "5": {
+                "datemeet": "Saturdays",
+                "timestart": "8:00 AM",
+                "timeend": "9:00 AM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "125 West 14th Street",
+        "zipcode": "10011",
+        "buildingName": "McBurney YMCA",
+        "meetingName": "Chelsea Nooners",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Ground Floor",
+        "descr2": "Betw 6th &amp; 7th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "12:00 PM",
+                "timeend": "1:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Thursdays",
+                "timestart": "12:00 PM",
+                "timeend": "1:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "414 East 14th Street",
+        "zipcode": "10009",
+        "buildingName": "Our Lady of Immaculate Conception",
+        "meetingName": "Complete Abandon",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Auditorium",
+        "descr2": "Betw 1st Avenue &amp; Avenue A",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Wednesdays",
+                "timestart": "8:30 PM",
+                "timeend": "9:30 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "119 Ninth Avenue",
+        "zipcode": "10011",
+        "buildingName": "Fulton Senior Center",
+        "meetingName": "Completely Sober",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Betw. 17th and 18th Streets",
+        "descr2": "Auditorium",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Mondays",
+                "timestart": "6:45 PM",
+                "timeend": "8:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "202 West 24 Street",
+        "zipcode": "10011",
+        "buildingName": "Christopher House",
+        "meetingName": "Crossroads",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Mezzanine",
+        "descr2": "between 7th and 8th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Saturdays",
+                "timestart": "4:00 PM",
+                "timeend": "5:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Sundays",
+                "timestart": "4:00 PM",
+                "timeend": "5:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "28 Gramercy Park South",
+        "zipcode": "10003",
+        "buildingName": "Brotherhood Synagogue",
+        "meetingName": "East Meets West In Sobriety",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "1st Floor",
+        "descr2": "East 20th Street @ Irving Place",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Wednesdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "50 East 7th Street",
+        "zipcode": "10003",
+        "buildingName": "Middle Collegiate Church",
+        "meetingName": "East Village Group",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "3rd and 4th floors",
+        "descr2": "@2nd Avenue",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Saturdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Saturdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Sundays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "4": {
+                "datemeet": "Tuesdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:15 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "5": {
+                "datemeet": "Tuesdays",
+                "timestart": "8:30 PM",
+                "timeend": "9:30 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "6": {
+                "datemeet": "Saturdays",
+                "timestart": "8:30 PM",
+                "timeend": "9:30 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "273 Bowery",
+        "zipcode": "10003",
+        "buildingName": "University Settlement House",
+        "meetingName": "Experience Strength And Hope",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "2nd Floor Classroom",
+        "descr2": "Southeast corner of Houston Street",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Wednesdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "802 Broadway",
+        "zipcode": "10003",
+        "buildingName": "Grace Church Office Building",
+        "meetingName": "Grace On Broadway",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "3rd Floor Conference Room",
+        "descr2": "@ 10th Street",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Mondays",
+                "timestart": "8:15 AM",
+                "timeend": "9:15 AM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Tuesdays",
+                "timestart": "8:15 AM",
+                "timeend": "9:15 AM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Thursdays",
+                "timestart": "8:15 AM",
+                "timeend": "9:15 AM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "28 Grammercy Park South",
+        "zipcode": "10010",
+        "buildingName": "Brothhood Synagogue",
+        "meetingName": "Gramercy",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "2nd floor",
+        "descr2": "East 20th Street between 3rd Ave. &amp; Irving Place",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Mondays",
+                "timestart": "6:30 PM",
+                "timeend": "7:30 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Thursdays",
+                "timestart": "6:30 PM",
+                "timeend": "7:30 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "209 East 16th Street",
+        "zipcode": "10003",
+        "buildingName": "Saint George Episcopal Church",
+        "meetingName": "Grateful Group Of A.A.",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Basement",
+        "descr2": "Betw 3rd Avenue &amp; Rutherford Place",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Mondays",
+                "timestart": "5:00 PM",
+                "timeend": "6:00 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Fridays",
+                "timestart": "5:00 PM",
+                "timeend": "6:00 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Tuesdays",
+                "timestart": "5:00 PM",
+                "timeend": "6:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Thursdays",
+                "timestart": "5:00 PM",
+                "timeend": "6:00 PM",
+                "meettype": "null",
+                "meetspecial": "Meditation"
+            },
+            "4": {
+                "datemeet": "Sundays",
+                "timestart": "5:00 PM",
+                "timeend": "6:00 PM",
+                "meettype": "O",
+                "meetspecial": "Men"
+            },
+            "5": {
+                "datemeet": "Wednesdays",
+                "timestart": "5:00 PM",
+                "timeend": "6:00 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "6": {
+                "datemeet": "Mondays",
+                "timestart": "6:15 PM",
+                "timeend": "7:00 PM",
+                "meettype": "S",
+                "meetspecial": "Fourth Step Workshop"
+            }
+        }
+    },
+    {
+        "streetAddress": "44 2nd Avenue",
+        "zipcode": "10003",
+        "buildingName": "Church of the Nativity",
+        "meetingName": "Grupo El Milagro",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Main Floor",
+        "descr2": "Betw East 2nd &amp; 3rd Streets",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "229 West 14th Street",
+        "zipcode": "10011",
+        "buildingName": "Our Lady of Guadalupe Church",
+        "meetingName": "Grupo Gratitud",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Betw. 7th &amp; 8th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Mondays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Tuesdays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "229 West 14th Street",
+        "zipcode": "10011",
+        "buildingName": "Our Lady of Guadalupe Church",
+        "meetingName": "Grupo Sobriedad",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Betw. 7th &amp; 8th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "1:00 PM",
+                "timeend": "2:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "208 West 13th Street",
+        "zipcode": "10011",
+        "buildingName": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+        "meetingName": "High Noon",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Betw 7th &amp; 8th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "12:00 PM",
+                "timeend": "1:00 PM",
+                "meettype": "O",
+                "meetspecial": "Interpreted for the Deaf"
+            }
+        }
+    },
+    {
+        "streetAddress": "28 Gramercy Park South",
+        "zipcode": "10003",
+        "buildingName": "Brotherhood Synagogue",
+        "meetingName": "Just For Today",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "@ East 20th Street &amp; Irving Place",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "208 West 13th Street",
+        "zipcode": "10001",
+        "buildingName": "Lesbian, Gay, Bisexual, & Transgender Community Center",
+        "meetingName": "Laex",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Room 212",
+        "descr2": "Between 7th Avenue &amp; Greenwich Avenue",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Saturdays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "307 West 26th Street",
+        "zipcode": "10011",
+        "buildingName": "The Upright Citizens Brigade Theatre",
+        "meetingName": "Learning To Live ( 1)",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "at 8th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Thursdays",
+                "timestart": "12:00 PM",
+                "timeend": "1:00 AM",
+                "meettype": "C",
+                "meetspecial": "Promises"
+            },
+            "1": {
+                "datemeet": "Mondays",
+                "timestart": "12:00 PM",
+                "timeend": "1:00 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Tuesdays",
+                "timestart": "12:00 PM",
+                "timeend": "1:00 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Wednesdays",
+                "timestart": "12:00 PM",
+                "timeend": "1:00 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "4": {
+                "datemeet": "Fridays",
+                "timestart": "12:00 PM",
+                "timeend": "1:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "343 West 25th Street",
+        "zipcode": "10001",
+        "buildingName": "St. Columba Church",
+        "meetingName": "Learning To Live ( Ii)",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "downstairs",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Mondays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "80 St. Mark&apos;s Place",
+        "zipcode": "10003",
+        "buildingName": "Theatre 80",
+        "meetingName": "Living Now",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "2nd Floor",
+        "descr2": "Betw. 1st &amp; 2nd Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Saturdays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Sundays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Sundays",
+                "timestart": "10:15 AM",
+                "timeend": "11:15 AM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Thursdays",
+                "timestart": "1:00 PM",
+                "timeend": "2:00 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "4": {
+                "datemeet": "Saturdays",
+                "timestart": "1:00 PM",
+                "timeend": "2:00 PM",
+                "meettype": "OD",
+                "meetspecial": "Women"
+            },
+            "5": {
+                "datemeet": "Mondays",
+                "timestart": "1:00 PM",
+                "timeend": "2:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "6": {
+                "datemeet": "Tuesdays",
+                "timestart": "1:00 PM",
+                "timeend": "2:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "7": {
+                "datemeet": "Wednesdays",
+                "timestart": "1:00 PM",
+                "timeend": "2:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "8": {
+                "datemeet": "Fridays",
+                "timestart": "1:00 PM",
+                "timeend": "2:00 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "9": {
+                "datemeet": "Sundays",
+                "timestart": "2:00 PM",
+                "timeend": "3:00 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "10": {
+                "datemeet": "Saturdays",
+                "timestart": "5:30 PM",
+                "timeend": "6:30 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "11": {
+                "datemeet": "Wednesdays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "B",
+                "meetspecial": "Beginners Workshop"
+            },
+            "12": {
+                "datemeet": "Thursdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "13": {
+                "datemeet": "Tuesdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "S",
+                "meetspecial": "Fourth Step Workshop"
+            }
+        }
+    },
+    {
+        "streetAddress": "208 West 13th Street",
+        "zipcode": "10011",
+        "buildingName": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+        "meetingName": "Living Today",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Betw. 7th &amp; 8th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "6:45 PM",
+                "timeend": "7:45 PM",
+                "meettype": "S",
+                "meetspecial": "Gay Lesbian and Bisexual"
+            },
+            "1": {
+                "datemeet": "Sundays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "O",
+                "meetspecial": "Gay Lesbian and Bisexual"
+            }
+        }
+    },
+    {
+        "streetAddress": "51 East 25th Street",
+        "zipcode": "10010",
+        "buildingName": "Intercare",
+        "meetingName": "Madison Park Beginners",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Lower Level",
+        "descr2": "Betw. Madison &amp; Park Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Wednesdays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Thursdays",
+                "timestart": "5:30 PM",
+                "timeend": "6:30 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "155 East 22nd Street",
+        "zipcode": "10010",
+        "buildingName": "Gustavus Adolphus Church",
+        "meetingName": "Manhattan",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Basement",
+        "descr2": "Btw 3rd &amp; Lex Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Fridays",
+                "timestart": "7:00 PM",
+                "timeend": "8:15 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "7 East 10th Street",
+        "zipcode": "10003",
+        "buildingName": "Bronfman Center",
+        "meetingName": "N.y.u. (Now You Understand)",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "2nd Floor Note: A photo ID is required to enter the building.",
+        "descr2": "Betw 5th Avenue &amp; University Place",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Fridays",
+                "timestart": "12:30 PM",
+                "timeend": "1:30 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Mondays",
+                "timestart": "12:30 PM",
+                "timeend": "1:30 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Tuesdays",
+                "timestart": "12:30 PM",
+                "timeend": "1:30 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Wednesdays",
+                "timestart": "12:30 PM",
+                "timeend": "1:30 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "4": {
+                "datemeet": "Thursdays",
+                "timestart": "12:30 PM",
+                "timeend": "1:30 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "5": {
+                "datemeet": "Fridays",
+                "timestart": "2:00 PM",
+                "timeend": "3:00 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "6": {
+                "datemeet": "Mondays",
+                "timestart": "2:00 PM",
+                "timeend": "3:00 PM",
+                "meettype": "C",
+                "meetspecial": "Promises"
+            },
+            "7": {
+                "datemeet": "Tuesdays",
+                "timestart": "2:00 PM",
+                "timeend": "3:00 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "8": {
+                "datemeet": "Wednesdays",
+                "timestart": "2:00 PM",
+                "timeend": "3:00 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "9": {
+                "datemeet": "Thursdays",
+                "timestart": "2:00 PM",
+                "timeend": "3:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "315 West 22nd Street",
+        "zipcode": "10011",
+        "buildingName": "German Evangelist Lutheran Church of St. Paul",
+        "meetingName": "Never Had A Legal Drink",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "1st Floor",
+        "descr2": "Betw. 8th &amp; 9th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Thursdays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "OD",
+                "meetspecial": "Young People"
+            }
+        }
+    },
+    {
+        "streetAddress": "15 Rutherford Place",
+        "zipcode": "10003",
+        "buildingName": "Friends Meeting House",
+        "meetingName": "New Life In Sobriety",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Basement",
+        "descr2": "Betw 2nd &amp; 3rd Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Fridays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Mondays",
+                "timestart": "7:00 PM",
+                "timeend": "8:30 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Fridays",
+                "timestart": "8:30 PM",
+                "timeend": "9:30 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "25 East 15th",
+        "zipcode": "10003",
+        "buildingName": "The Realization Center",
+        "meetingName": "Ninjas In Recovery",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Conference Room H",
+        "descr2": "",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Wednesdays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "175 9th Avenue",
+        "zipcode": "10011",
+        "buildingName": "General Theological Seminary",
+        "meetingName": "Ninth Avenue (II)",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "1st and 2nd Floor",
+        "descr2": "Enter thru gate on 21st Street Betw. 9th &amp; 10th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Fridays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Fridays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Fridays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "OD",
+                "meetspecial": "Eleventh Step Meditation"
+            },
+            "3": {
+                "datemeet": "Fridays",
+                "timestart": "7:15 PM",
+                "timeend": "8:15 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "4": {
+                "datemeet": "Fridays",
+                "timestart": "7:15 PM",
+                "timeend": "8:15 PM",
+                "meettype": "C",
+                "meetspecial": "H.I.V Positive"
+            },
+            "5": {
+                "datemeet": "Fridays",
+                "timestart": "7:15 PM",
+                "timeend": "8:15 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "6": {
+                "datemeet": "Fridays",
+                "timestart": "7:15 PM",
+                "timeend": "8:15 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "7": {
+                "datemeet": "Fridays",
+                "timestart": "8:30 PM",
+                "timeend": "9:30 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "19 Union Square West",
+        "zipcode": "10003",
+        "buildingName": "The Realization Center",
+        "meetingName": "Oadw (Once A Drunk Woman)",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "7th Floor",
+        "descr2": "Conference Room B",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "C",
+                "meetspecial": "Women"
+            }
+        }
+    },
+    {
+        "streetAddress": "155 East 22nd Street",
+        "zipcode": "10010",
+        "buildingName": "Gustavus Adolphus Church",
+        "meetingName": "P.A.x",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "1st Floor",
+        "descr2": "Between Lexington &amp; 3rd Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Mondays",
+                "timestart": "6:45 PM",
+                "timeend": "7:45 PM",
+                "meettype": "B",
+                "meetspecial": "Men"
+            },
+            "1": {
+                "datemeet": "Mondays",
+                "timestart": "6:45 PM",
+                "timeend": "7:45 PM",
+                "meettype": "BB",
+                "meetspecial": "Men"
+            },
+            "2": {
+                "datemeet": "Tuesdays",
+                "timestart": "6:45 PM",
+                "timeend": "7:45 PM",
+                "meettype": "S",
+                "meetspecial": "Men"
+            },
+            "3": {
+                "datemeet": "Thursdays",
+                "timestart": "6:45 PM",
+                "timeend": "7:45 PM",
+                "meettype": "C",
+                "meetspecial": "Men"
+            },
+            "4": {
+                "datemeet": "Tuesdays",
+                "timestart": "6:45 PM",
+                "timeend": "7:45 PM",
+                "meettype": "C",
+                "meetspecial": "Men"
+            }
+        }
+    },
+    {
+        "streetAddress": "423 East 23rd Street",
+        "zipcode": "10010",
+        "buildingName": "Veterans Administration Hospital",
+        "meetingName": "Pot Luck",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "3rd fl",
+        "descr2": "Conference Room 3076 south",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Saturdays",
+                "timestart": "9:00 PM",
+                "timeend": "10:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "209 East 16th Street",
+        "zipcode": "10003",
+        "buildingName": "St. George's Church",
+        "meetingName": "Potpourri",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Olmstead Hall",
+        "descr2": "Betw 3rd Avenue &amp; Rutherford Place",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Mondays",
+                "timestart": "6:00 PM",
+                "timeend": "6:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Tuesdays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Wednesdays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Thursdays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "4": {
+                "datemeet": "Fridays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "411 East 12th Street",
+        "zipcode": "10009",
+        "buildingName": "",
+        "meetingName": "Primetime Nyc (II)",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Between 1st Avenue &amp; Avenue A",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "1:30 PM",
+                "timeend": "2:30 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "209 East 16th Street",
+        "zipcode": "10003",
+        "buildingName": "St. George's Church",
+        "meetingName": "Saturday Beginners",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Betw 3rd Avenue &amp; Rutherford Place",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Saturdays",
+                "timestart": "10:30 AM",
+                "timeend": "11:30 AM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Saturdays",
+                "timestart": "10:30 AM",
+                "timeend": "11:30 AM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "239 East 21st Street",
+        "zipcode": "10009",
+        "buildingName": "Epiphany Roman Catholic Church",
+        "meetingName": "Saturday Weekenders",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Church Rectory",
+        "descr2": "Betw. 2nd &amp; 3rd Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Saturdays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "12 West 12th Street",
+        "zipcode": "10011",
+        "buildingName": "First Presbyterian Church",
+        "meetingName": "Save Her A Seat",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "6th Floor",
+        "descr2": "Roof Level",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Fridays",
+                "timestart": "6:30 PM",
+                "timeend": "7:45 PM",
+                "meettype": "B",
+                "meetspecial": "Women"
+            },
+            "1": {
+                "datemeet": "Tuesdays",
+                "timestart": "7:15 PM",
+                "timeend": "8:30 PM",
+                "meettype": "C",
+                "meetspecial": "Women"
+            }
+        }
+    },
+    {
+        "streetAddress": "44 2nd Avenue",
+        "zipcode": "10003",
+        "buildingName": "Church of the Nativity",
+        "meetingName": "Second Avenue Clean And Dry",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Betw. East 2nd &amp; 3rd Streets",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "5:00 PM",
+                "timeend": "6:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "208 West 13th Street",
+        "zipcode": "10011",
+        "buildingName": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+        "meetingName": "Sober Miracles",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Betw 7th &amp; 8th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Saturdays",
+                "timestart": "9:30 PM",
+                "timeend": "10:30 PM",
+                "meettype": "OD",
+                "meetspecial": "Special Purpose Groups"
+            }
+        }
+    },
+    {
+        "streetAddress": "12 West 11th Street",
+        "zipcode": "10011",
+        "buildingName": "Church of the Ascension Parish House",
+        "meetingName": "Sobriety On The Square",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Ground Floor",
+        "descr2": "Betw 5th Avenue &amp; Avenue of the Americas",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Mondays",
+                "timestart": "7:30 AM",
+                "timeend": "8:30 AM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Tuesdays",
+                "timestart": "7:30 AM",
+                "timeend": "8:30 AM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Wednesdays",
+                "timestart": "7:30 AM",
+                "timeend": "8:30 AM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Thursdays",
+                "timestart": "7:30 AM",
+                "timeend": "8:30 AM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "4": {
+                "datemeet": "Fridays",
+                "timestart": "7:30 AM",
+                "timeend": "8:30 AM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "5": {
+                "datemeet": "Saturdays",
+                "timestart": "7:30 AM",
+                "timeend": "8:30 AM",
+                "meettype": "S",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "116 West 11th Street",
+        "zipcode": "10011",
+        "buildingName": "PS 41 Elementary School",
+        "meetingName": "Speaker Magic",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Fridays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "80 5th Avenue",
+        "zipcode": "10011",
+        "buildingName": "",
+        "meetingName": "Straight 12 (II) Downtown Saturday Night",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "14th Floor",
+        "descr2": "Room #1408C",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Saturdays",
+                "timestart": "6:15 PM",
+                "timeend": "7:15 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "116 West 11th Street",
+        "zipcode": "10011",
+        "buildingName": "P.S. 41 (see footnote re: temp location)",
+        "meetingName": "Sunday At Six",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Cafeteria",
+        "descr2": "Between 6th and 7th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "155 East 22nd Street",
+        "zipcode": "10010",
+        "buildingName": "Gustavus Adolphus Church",
+        "meetingName": "Sunday Morning Meditation",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Between Lexington Avenue and Third Avenue",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "9:00 AM",
+                "timeend": "10:00 AM",
+                "meettype": "C",
+                "meetspecial": "Meditation"
+            }
+        }
+    },
+    {
+        "streetAddress": "319 East 24th Street",
+        "zipcode": "10010",
+        "buildingName": "East Midtown Plaza (Community Room H)",
+        "meetingName": "Sunday Nooners",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Between First aqnd Second Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "12:30 PM",
+                "timeend": "1:30 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "10 East Union Square",
+        "zipcode": "10003",
+        "buildingName": "Beth Israel Hospital @ Karpas Cancer Center Library",
+        "meetingName": "Survivors In Sobriety",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "4th Floor",
+        "descr2": "Conf.Rm.#4A18",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "OD",
+                "meetspecial": "Special Purpose Groups"
+            }
+        }
+    },
+    {
+        "streetAddress": "206 East 11th Street",
+        "zipcode": "10003",
+        "buildingName": "All Saints Ukrainian Orthodox Church",
+        "meetingName": "Svoboda",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Btw. 2nd &amp; 3rd Avenues",
+        "descr2": "Ground Floor",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "C",
+                "meetspecial": "As Bill Sees It"
+            },
+            "1": {
+                "datemeet": "Mondays",
+                "timestart": "7:00 PM",
+                "timeend": "8:15 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Tuesdays",
+                "timestart": "9:00 PM",
+                "timeend": "10:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "123 East 15th Street",
+        "zipcode": "10003",
+        "buildingName": "Seafarers & International House",
+        "meetingName": "T.g.i.f. & S.",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "2nd Floor",
+        "descr2": "@ Irving Place",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Fridays",
+                "timestart": "7:30 PM",
+                "timeend": "8:30 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Fridays",
+                "timestart": "7:30 PM",
+                "timeend": "8:30 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Sundays",
+                "timestart": "8:30 PM",
+                "timeend": "9:30 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Fridays",
+                "timestart": "8:45 PM",
+                "timeend": "9:45 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "411 East 12th Street",
+        "zipcode": "10009",
+        "buildingName": "",
+        "meetingName": "The 12th Street Workshop",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Basement",
+        "descr2": "Betw 1st Avenue &amp; Avenue A",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "s",
+                "timestart": "12:00 AM",
+                "timeend": "12:00 AM",
+                "meettype": "null",
+                "meetspecial": "null"
+            },
+            "1": {
+                "datemeet": "Wednesdays",
+                "timestart": "6:15 AM",
+                "timeend": "7:15 AM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "2": {
+                "datemeet": "Thursdays",
+                "timestart": "7:30 AM",
+                "timeend": "8:30 AM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "3": {
+                "datemeet": "Wednesdays",
+                "timestart": "7:30 AM",
+                "timeend": "8:30 AM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "4": {
+                "datemeet": "Tuesdays",
+                "timestart": "7:30 AM",
+                "timeend": "8:30 AM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "5": {
+                "datemeet": "Mondays",
+                "timestart": "7:30 AM",
+                "timeend": "8:30 AM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "6": {
+                "datemeet": "Saturdays",
+                "timestart": "7:30 AM",
+                "timeend": "8:30 AM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "7": {
+                "datemeet": "Fridays",
+                "timestart": "7:30 AM",
+                "timeend": "8:30 AM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "8": {
+                "datemeet": "Sundays",
+                "timestart": "7:30 AM",
+                "timeend": "8:30 AM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "9": {
+                "datemeet": "Saturdays",
+                "timestart": "9:00 AM",
+                "timeend": "10:00 AM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "10": {
+                "datemeet": "Sundays",
+                "timestart": "9:30 AM",
+                "timeend": "10:30 AM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "11": {
+                "datemeet": "Fridays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "12": {
+                "datemeet": "Thursdays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "13": {
+                "datemeet": "Wednesdays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "14": {
+                "datemeet": "Tuesdays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "15": {
+                "datemeet": "Mondays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "S",
+                "meetspecial": "Steps 1-2-3"
+            },
+            "16": {
+                "datemeet": "Saturdays",
+                "timestart": "10:30 AM",
+                "timeend": "11:30 AM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "17": {
+                "datemeet": "Sundays",
+                "timestart": "11:00 AM",
+                "timeend": "12:00 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "18": {
+                "datemeet": "Mondays",
+                "timestart": "11:15 AM",
+                "timeend": "12:15 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "19": {
+                "datemeet": "Fridays",
+                "timestart": "12:30 PM",
+                "timeend": "1:30 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "20": {
+                "datemeet": "Thursdays",
+                "timestart": "12:30 PM",
+                "timeend": "1:30 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "21": {
+                "datemeet": "Wednesdays",
+                "timestart": "12:30 PM",
+                "timeend": "1:30 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "22": {
+                "datemeet": "Tuesdays",
+                "timestart": "12:30 PM",
+                "timeend": "1:30 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "23": {
+                "datemeet": "Mondays",
+                "timestart": "12:30 PM",
+                "timeend": "1:30 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "24": {
+                "datemeet": "Saturdays",
+                "timestart": "1:15 PM",
+                "timeend": "2:15 PM",
+                "meettype": "C",
+                "meetspecial": "Sponsorship Workshop"
+            },
+            "25": {
+                "datemeet": "Sundays",
+                "timestart": "1:30 PM",
+                "timeend": "2:30 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "26": {
+                "datemeet": "Mondays",
+                "timestart": "2:00 PM",
+                "timeend": "3:00 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "27": {
+                "datemeet": "Fridays",
+                "timestart": "2:00 PM",
+                "timeend": "3:00 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "28": {
+                "datemeet": "Thursdays",
+                "timestart": "2:00 PM",
+                "timeend": "3:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "29": {
+                "datemeet": "Wednesdays",
+                "timestart": "2:00 PM",
+                "timeend": "3:00 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "30": {
+                "datemeet": "Tuesdays",
+                "timestart": "2:00 PM",
+                "timeend": "3:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "31": {
+                "datemeet": "Saturdays",
+                "timestart": "2:30 PM",
+                "timeend": "3:30 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "32": {
+                "datemeet": "Sundays",
+                "timestart": "3:00 PM",
+                "timeend": "4:00 PM",
+                "meettype": "S",
+                "meetspecial": "Fourth Step Workshop"
+            },
+            "33": {
+                "datemeet": "Mondays",
+                "timestart": "4:00 PM",
+                "timeend": "5:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "34": {
+                "datemeet": "Fridays",
+                "timestart": "4:00 PM",
+                "timeend": "5:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "35": {
+                "datemeet": "Thursdays",
+                "timestart": "4:00 PM",
+                "timeend": "5:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "36": {
+                "datemeet": "Wednesdays",
+                "timestart": "4:00 PM",
+                "timeend": "5:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "37": {
+                "datemeet": "Tuesdays",
+                "timestart": "4:00 PM",
+                "timeend": "5:00 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "38": {
+                "datemeet": "Saturdays",
+                "timestart": "4:30 PM",
+                "timeend": "5:30 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "39": {
+                "datemeet": "Sundays",
+                "timestart": "4:30 PM",
+                "timeend": "5:30 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "40": {
+                "datemeet": "Mondays",
+                "timestart": "5:30 PM",
+                "timeend": "6:30 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "41": {
+                "datemeet": "Fridays",
+                "timestart": "5:30 PM",
+                "timeend": "6:30 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "42": {
+                "datemeet": "Thursdays",
+                "timestart": "5:30 PM",
+                "timeend": "6:30 PM",
+                "meettype": "O",
+                "meetspecial": "null"
+            },
+            "43": {
+                "datemeet": "Wednesdays",
+                "timestart": "5:30 PM",
+                "timeend": "6:30 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "44": {
+                "datemeet": "Tuesdays",
+                "timestart": "5:30 PM",
+                "timeend": "6:30 PM",
+                "meettype": "S",
+                "meetspecial": "First Step Workshop"
+            },
+            "45": {
+                "datemeet": "Saturdays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            },
+            "46": {
+                "datemeet": "Sundays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "OD",
+                "meetspecial": "Gay Men"
+            },
+            "47": {
+                "datemeet": "Tuesdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 AM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "48": {
+                "datemeet": "Mondays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "T",
+                "meetspecial": "null"
+            },
+            "49": {
+                "datemeet": "Fridays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "50": {
+                "datemeet": "Thursdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            },
+            "51": {
+                "datemeet": "Wednesdays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            },
+            "52": {
+                "datemeet": "Sundays",
+                "timestart": "7:30 PM",
+                "timeend": "8:30 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "53": {
+                "datemeet": "Saturdays",
+                "timestart": "8:00 PM",
+                "timeend": "9:00 PM",
+                "meettype": "C",
+                "meetspecial": "Promises"
+            },
+            "54": {
+                "datemeet": "Mondays",
+                "timestart": "8:15 PM",
+                "timeend": "9:15 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            },
+            "55": {
+                "datemeet": "Thursdays",
+                "timestart": "8:15 PM",
+                "timeend": "9:15 PM",
+                "meettype": "C",
+                "meetspecial": "Women"
+            },
+            "56": {
+                "datemeet": "Wednesdays",
+                "timestart": "8:30 PM",
+                "timeend": "9:30 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            },
+            "57": {
+                "datemeet": "Tuesdays",
+                "timestart": "8:30 PM",
+                "timeend": "9:30 PM",
+                "meettype": "C",
+                "meetspecial": "Living Sober"
+            },
+            "58": {
+                "datemeet": "Fridays",
+                "timestart": "8:30 PM",
+                "timeend": "9:30 PM",
+                "meettype": "B",
+                "meetspecial": "First Step Workshop"
+            }
+        }
+    },
+    {
+        "streetAddress": "125 West 14th Street",
+        "zipcode": "10011",
+        "buildingName": "McBurney YMCA",
+        "meetingName": "The Fellowship Club",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "1st Floor Meeting Room",
+        "descr2": "Betw. 6th &amp; 7th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Fridays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "B",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "208 West 13th Street",
+        "zipcode": "10011",
+        "buildingName": "LGBT Community Center",
+        "meetingName": "Transgender Focus",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "betw. 7th Ave and Greenwich Ave.",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "4:00 PM",
+                "timeend": "5:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "10 Union Square East",
+        "zipcode": "10003",
+        "buildingName": "Beth Israel Phillips Ambulatory Center",
+        "meetingName": "Twelve At Six",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "2nd Floor",
+        "descr2": "Conference Room #3",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Fridays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "S",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "155 West 22nd Street",
+        "zipcode": "10011",
+        "buildingName": "St. Francis Residence",
+        "meetingName": "Upon Awakening",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "1st Floor",
+        "descr2": "Betw. 6th &amp; 7th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "12:45 PM",
+                "timeend": "1:45 PM",
+                "meettype": "S",
+                "meetspecial": "Eleventh Step"
+            }
+        }
+    },
+    {
+        "streetAddress": "208 West 13th Street",
+        "zipcode": "10011",
+        "buildingName": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+        "meetingName": "Village Agnostics",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Betw 7th &amp; 8th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "4:00 PM",
+                "timeend": "5:00 PM",
+                "meettype": "C",
+                "meetspecial": "Agnostic"
+            },
+            "1": {
+                "datemeet": "Sundays",
+                "timestart": "5:30 PM",
+                "timeend": "6:30 PM",
+                "meettype": "S",
+                "meetspecial": "Agnostic"
+            }
+        }
+    },
+    {
+        "streetAddress": "12 West 12th Street",
+        "zipcode": "10011",
+        "buildingName": "First Presbyterian Church",
+        "meetingName": "Village Open Discussion (V.o.d.)",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Third Floor",
+        "descr2": "at 5th Avenue between 11th and 12th Streets",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "6:30 PM",
+                "timeend": "7:30 PM",
+                "meettype": "OD",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "20 Washington Square North",
+        "zipcode": "10011",
+        "buildingName": "The Caring Community",
+        "meetingName": "Village Sober",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "2nd Floor",
+        "descr2": "5th Avenue &amp; MacDougal Street",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Thursdays",
+                "timestart": "3:30 PM",
+                "timeend": "4:30 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "344 East 14th Street",
+        "zipcode": "10003",
+        "buildingName": "14th Street Y",
+        "meetingName": "Weekenders",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Betw. 1st &amp; 2nd Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Sundays",
+                "timestart": "10:00 AM",
+                "timeend": "11:00 AM",
+                "meettype": "S",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "155 West 22nd Street",
+        "zipcode": "10011",
+        "buildingName": "St. Francis Residence",
+        "meetingName": "West 22nd Street Sobriety",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "1st Floor",
+        "descr2": "Off of 7th Avenue",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "208 West 13th Street",
+        "zipcode": "10011",
+        "buildingName": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+        "meetingName": "Westwingers",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Betw. 7th &amp; 8th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "7:30 PM",
+                "timeend": "8:30 PM",
+                "meettype": "OD",
+                "meetspecial": "Gay Lesbian and Bisexual"
+            },
+            "1": {
+                "datemeet": "Thursdays",
+                "timestart": "9:00 PM",
+                "timeend": "10:00 PM",
+                "meettype": "OD",
+                "meetspecial": "Gay Lesbian and Bisexual"
+            }
+        }
+    },
+    {
+        "streetAddress": "602 East 9th Street",
+        "zipcode": "10009",
+        "buildingName": "Trinity Lutheran Church",
+        "meetingName": "Wholesale Miracles",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Ground Floor",
+        "descr2": "@ Avenue B",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "7:30 PM",
+                "timeend": "8:30 PM",
+                "meettype": "BB",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "208 West 13th Street",
+        "zipcode": "10011",
+        "buildingName": "Gay, Lesbian, Bi-Sexual & Transgender Community Center",
+        "meetingName": "Women Now",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Betw 7th &amp; 8th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Tuesdays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "208 West 13th Street",
+        "zipcode": "10011",
+        "buildingName": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+        "meetingName": "Women Together (I)",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "Betw 7th &amp; 8th Avenues",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Saturdays",
+                "timestart": "6:00 PM",
+                "timeend": "7:00 PM",
+                "meettype": "C",
+                "meetspecial": "Lesbian"
+            }
+        }
+    },
+    {
+        "streetAddress": "19 Union Square West",
+        "zipcode": "10003",
+        "buildingName": "Realization Center",
+        "meetingName": "Women's Saturday Eleventh Step Meditation",
+        "wheelchairacc": true,
+        "zone": "3",
+        "descr1": "7th Floor",
+        "descr2": "Ask for room #.",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Saturdays",
+                "timestart": "11:00 AM",
+                "timeend": "12:00 PM",
+                "meettype": "C",
+                "meetspecial": "null"
+            }
+        }
+    },
+    {
+        "streetAddress": "173 East 3rd Street",
+        "zipcode": "10009",
+        "buildingName": "Most Holy Redeemer Church",
+        "meetingName": "Works In Progress",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "basement",
+        "descr2": "between Avenues A and B",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Mondays",
+                "timestart": "7:00 PM",
+                "timeend": "8:00 PM",
+                "meettype": "OD",
+                "meetspecial": "AA Literature"
+            }
+        }
+    },
+    {
+        "streetAddress": "50 East 7th Street",
+        "zipcode": "10003",
+        "buildingName": "Middle Collegiate Church ",
+        "meetingName": "Young And Wise",
+        "wheelchairacc": false,
+        "zone": "3",
+        "descr1": "Betw 1st &amp; 2nd Avenue",
+        "timesNtypes": {
+            "0": {
+                "datemeet": "Fridays",
+                "timestart": "8:00 PM",
+                "timeend": "9:30 PM",
+                "meettype": "C",
+                "meetspecial": "Young People"
+            }
+        }
+    }
+]

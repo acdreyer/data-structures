@@ -1,0 +1,4 @@
+Saturdays From  4:15 PM to 5:30 PM Meeting Type B = Beginners meeting
+Tuesdays From  6:30 PM to 7:30 PM Meeting Type B = Beginners meeting Special Interest Living Sober
+Sundays From  5:00 PM to 6:00 PM Meeting Type OD = Open Discussion meeting,Mondays From  8:00 PM to 9:00 PM Meeting Type B = Beginners meeting,Tuesdays From  8:00 PM to 9:00 PM Meeting Type OD = Open Discussion meeting,Wednesdays From  8:00 PM to 9:00 PM Meeting Type C = Closed Discussion meeting,Thursdays From  8:00 PM to 9:00 PM Meeting Type OD = Open Discussion meeting,Fridays From  8:00 PM to 9:00 PM Meeting Type OD = Open Discussion meeting,Saturdays From  8:00 PM to 9:00 PM Meeting Type OD = Open Discussion meeting
+Sundays From  1:00 PM to 2:00 PM Meeting Type T = Tradition meeting,Mondays From  1:00 PM to 2:00 PM Meeting Type B = Beginners meeting

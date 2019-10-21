@@ -1,0 +1,75 @@
+Address,City/State,Zipcode 
+7 East 10th Street,NY,10003
+155 East 22nd Street,NY,10010
+61 Fourth Avenue,NY,10003
+208 West 13th Street,NY,10011
+123 East 15th Street,NY,10003
+61 Gramercy Park North,NY,10010
+155 East 22nd Street,NY,10010
+127 East 22nd Street,NY,10010
+602 East 9th Street,NY,10009
+125 West 14th Street,NY,10011
+346 West 20th Street,NY,10011
+125 West 14th Street,NY,10011
+414 East 14th Street,NY,10009
+119 Ninth Avenue,NY,10011
+202 West 24 Street,NY,10011
+28 Gramercy Park South,NY,10003
+50 East 7th Street,NY,10003
+273 Bowery,NY,10003
+802 Broadway,NY,10003
+28 Grammercy Park South,NY,10010
+209 East 16th Street,NY,10003
+44 2nd Avenue,NY,10003
+229 West 14th Street,NY,10011
+229 West 14th Street,NY,10011
+208 West 13th Street,NY,10011
+28 Gramercy Park South,NY,10003
+208 West 13th Street,NY,10001
+307 West 26th Street,NY,10011
+343 West 25th Street,NY,10001
+80 St. Mark&apos;s Place,NY,10003
+208 West 13th Street,NY,10011
+51 East 25th Street,NY,10010
+155 East 22nd Street,NY,10010
+7 East 10th Street,NY,10003
+315 West 22nd Street,NY,10011
+15 Rutherford Place,NY,10003
+25 East 15th,NY,10003
+175 9th Avenue,NY,10011
+19 Union Square West,NY,10003
+155 East 22nd Street,NY,10010
+423 East 23rd Street,NY,10010
+209 East 16th Street,NY,10003
+411 East 12th Street,NY,10009
+209 East 16th Street,NY,10003
+239 East 21st Street,NY,10009
+12 West 12th Street,NY,10011
+44 2nd Avenue,NY,10003
+208 West 13th Street,NY,10011
+12 West 11th Street,NY,10011
+116 West 11th Street,NY,10011
+80 5th Avenue,NY,10011
+116 West 11th Street,NY,10011
+155 East 22nd Street,NY,10010
+319 East 24th Street,NY,10010
+10 East Union Square,NY,10003
+206 East 11th Street,NY,10003
+123 East 15th Street,NY,10003
+411 East 12th Street,NY,10009
+125 West 14th Street,NY,10011
+208 West 13th Street,NY,10011
+10 Union Square East,NY,10003
+155 West 22nd Street,NY,10011
+208 West 13th Street,NY,10011
+12 West 12th Street,NY,10011
+20 Washington Square North,NY,10011
+344 East 14th Street,NY,10003
+155 West 22nd Street,NY,10011
+208 West 13th Street,NY,10011
+602 East 9th Street,NY,10009
+208 West 13th Street,NY,10011
+208 West 13th Street,NY,10011
+19 Union Square West,NY,10003
+173 East 3rd Street,NY,10009
+50 East 7th Street,NY,10003

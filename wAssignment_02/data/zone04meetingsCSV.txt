@@ -1,0 +1,54 @@
+Address,City/State,Zipcode 
+252 West 46th Street,NY,10036
+303 West 42nd Street,NY,10036
+303 West 42nd Street,NY,10036
+305 7th Avenue,NY,10001
+1 West 53rd Street,NY,10019
+303 West 42nd Street,NY,10036
+133 West 46th Street,NY,10036
+441 West 26th Street,NY,10001
+446 West 33rd Street,NY,10001
+252 West 46th Street,NY,10036
+252 West 46th Street,NY,10036
+252 West 46th Street,NY,10036
+339 West 47th Street,NY,10036
+303 West 42nd Street,NY,10036
+139 West 31st Street,NY,10001
+422 West 57th Street,NY,10019
+211 West 30th Street,NY,10001
+252 West 46th Street,NY,10036
+1 West 53rd Street,NY,10019
+422 West 57th Street,NY,10019
+7 West 55th Street,NY,10019
+252 West 46th Street,NY,10036
+729 7th Avenue,NY,10019
+538 West 47th Street,NY,10036
+1000 Tenth Avenue,NY,10019
+303 West 42nd Street,NY,10036
+252 West 46th Street,NY,10036
+307 West 26th Street,NY,10001
+405 West 59th Street,NY,10019
+303 West 42nd Street,NY,10036
+422 West 57th Street,NY,10019
+133 West 46th Street,NY,10036
+133 West 46th Street,NY,10036
+303 West 42nd Street,NY,10036
+296 9th Avenue,NY,10001
+139 West 31st Street,NY,10001
+1 West 53rd Street,NY,10019
+484 West 43rd Street,NY,10036
+7 West 55th Street,NY,10019
+252 West 46th Street,NY,10036
+252 West 46th Street,NY,10036
+4 West 43rd Street,NY,10017
+252 West 46th Street,NY,10036
+296 Ninth Avenue,NY,10001
+1 West 53rd Street,NY,10019
+210 West 31st Street,NY,10001
+422 West 57th Street,NY,10019
+252 West 46th Street,NY,10036
+134 West 29th Street,NY,10001
+1000 Tenth Avenue,NY,10019
+446 West 33rd Street,NY,10001
+423 West 46th Street,NY,10036
+252 West 46th Street,NY,10036
