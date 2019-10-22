@@ -18,9 +18,10 @@ db_credentials.database = 'aa';
 db_credentials.password = process.env.AWSRDS_PW;
 db_credentials.port = 5432;
 
-var meetings = require('./data/zone7AAmeetingsGeo.json');
-// meetings.forEach(function(value,index){console.log(value.GeoInfo.long)});
 
+
+var meetings = require('./data/zone09AAmeetings.json');
+// meetings.forEach(function(value,index){console.log(value.long)});
 
 
 
@@ -32,15 +33,85 @@ var meetings = require('./data/zone7AAmeetingsGeo.json');
 async.eachSeries(meetings, function(value, callback) {
     const client = new Client(db_credentials);
     client.connect();
-    var thisQuery = "INSERT INTO aameetings VALUES (default, 7, E'" + value.streetAddress + "', " + value.GeoInfo.lat + ", " + value.GeoInfo.long + ", " + value.zipcode + ", '00:00', '00:00', 'DayTest' ,E'" + value.buildingName.replace(/'/g,"\\'") + "', E'" + value.meetingName.replace(/'/g,"\\'") + "', 'Meetingtypetest' , 'SpecialinterestTest' );";
+    var thisQuery = "INSERT INTO aameetflat VALUES (default,'" + value.zone + "',E'" +  value.streetAddress + "'," + value.lat + "," + value.long + "," + value.zipcode + ", E'" + value.meetingName.replace(/'/g,"\\'") + "', '" + value.timestart + "','" + value.timeend + "','" + value.datemeet + "' ,'" + value.meettype + "','" + value.meetspecial + "', E'" + value.buildingName.replace(/'/g,"\\'") + "','" + value.wheelchair + "','" + value.descr1 + "','" + value.descr2 + "' );";
+ 
+//   var thisQuery =  "INSERT INTO aameetflat VALUES (\
+//                     id SERIAL PRIMARY KEY, \
+//                     zone char(2), \
+//                     address varchar(100), \
+//                     lat double precision, \
+//                     long double precision, \
+//                     zipcode char(5), \
+//                     meetingname varchar(100), \
+//                     timestart TIME, \
+//                     timeend TIME, \
+//                     days days, \
+//                     meetingtype meetingtype, \
+//                     specialinterest varchar(100), \
+//                     buildingname varchar(100), \
+//                     wheelchair boolean,\
+//                     additional1 varchar(100), \
+//                     additional2 varchar(100)\
+//                     );";
+ 
+    //  query += "CREATE TABLE locations (Location_ID serial primary key,\
+    //                                     Location_Name varchar(100),\
+    //                                     Address_Line_1 varchar(100),\
+    //                                     City varchar(100),\
+    //                                     State varchar(2),\
+    //                                     Zipcode varchar(5),\
+    //                                     Accessible BOOL,\
+    //                                     Extended_Address varchar(200),\
+    //                                     lat double precision,\
+    //                                     long double precision,\
+    //                                     Zone smallint);";
+                                        
+    //      var locationQuery = escape("INSERT INTO locations VALUES (DEFAULT, %L,%L,%L,%L,%L,%s,%L,%s,%s,%s) RETURNING Location_ID;",
+    //     location,
+    //     meetings[location]['address']['line_1'],
+    //     meetings[location]['address']['city'],
+    //     meetings[location]['address']['state'],
+    //     meetings[location]['address']['zip'],
+    //     meetings[location]['address']['wheelchair_access'],
+    //     meetings[location]['address']['friendly'],
+    //     meetings[location]['address']['coords']['latitude'],
+    //     meetings[location]['address']['coords']['longitude'],
+    //     meetings[location]['address']['zone']);
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+    
+    
+    
     // console.log("Meeting: " + value.meetingName.replace(/'/g,"\\'"));
+    
+    
+    
+    
     console.log(thisQuery);
-    // client.query(thisQuery, (err, res) => {
-    //     console.log(err, res);
-    //     client.end();
-    // });
+    client.query(thisQuery, (err, res) => {
+        console.log(err, res);
+        client.end();
+    });
     setTimeout(callback, 1000); 
 }); 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

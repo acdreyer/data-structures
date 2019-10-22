@@ -1,8 +1,9 @@
 /* MSDV PGDV5110 Weekly Assignment 04
 
 Created by A.C. Dreyer;  09/23/2019 */
+// updated 10/21/2019
 
-// Note: much of the SQL interface code comes from supplied sample code.
+// Note: some of the SQL interface code comes from supplied sample code.
 
 
 // Initialize variables
@@ -25,18 +26,68 @@ db_credentials.port = 5432;
 const client = new Client(db_credentials);
 client.connect();
 
-// -------------------------------aameetings-----------------------
-// -------------------------------aameetings-----------------------
-// Sample SQL statement to create a table for locations: 
-// This table should get an index (possibly a serial)...
-var thisQuery = "CREATE TABLE aameetings (id SERIAL PRIMARY KEY, zone char(2), address varchar(100), lat double precision, long double precision, zipcode char(5), timestart TIME, timeend TIME, days varchar(50), buildingname varchar(100), meetingname varchar(100), meetingtypes varchar(100), specialinterests varchar(100) );";
-// Sample SQL statement to delete a table: 
-// var thisQuery = "DROP TABLE aameetings;"; 
+
+// -------------------------------create type-----------------------
+
+// var thisType = "CREATE TYPE days AS ENUM (\
+//                 'Sundays', 'Mondays', 'Tuesdays', 'Wednesdays',\
+//                 'Thursdays','Fridays','Saturdays');";
+// // var thisType = "DROP TYPE days;"
+// client.query(thisType, (err, res) => {
+//     console.log(err, res);
+//     client.end();
+// });
+
+
+// // -------------------------------create type-----------------------
+// var thisType = "CREATE TYPE meetingtype AS ENUM (\
+//                 'B', 'BB', 'C', 'S', 'T','O','OD');";
+// // var thisType = "DROP TYPE meetingtype ;" 
+// client.query(thisType, (err, res) => {
+//     console.log(err, res);
+//     client.end();
+// });
+
+
+// B = Beginners meeting
+// BB = Big Book meeting
+// C = Closed Discussion meeting
+// S = Step meeting
+// T = Tradition meeting
+// O = Open meeting
+// OD = Open Discussion meeting
+
+// // -------------------------------aameetings-----------------------
+// // Sample SQL statement to create a table for locations: 
+var thisQuery =     "CREATE TABLE aameetflat (\
+                    id SERIAL PRIMARY KEY, \
+                    zone char(2), \
+                    address varchar(100), \
+                    lat double precision, \
+                    long double precision, \
+                    zipcode char(5), \
+                    meetingname varchar(100), \
+                    timestart TIME, \
+                    timeend TIME, \
+                    days days, \
+                    meetingtype meetingtype, \
+                    specialinterest varchar(100), \
+                    buildingname varchar(100), \
+                    wheelchair boolean,\
+                    additional1 varchar(100), \
+                    additional2 varchar(100)\
+                    );";
+                    
+                    
+// // Sample SQL statement to delete a table: 
+// // var thisQuery = "DROP TABLE aameetings;"; 
 
 client.query(thisQuery, (err, res) => {
     console.log(err, res);
     client.end();
 });
+
+
 
 
 

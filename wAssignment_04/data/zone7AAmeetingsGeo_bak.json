@@ -1,0 +1,889 @@
+[
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "A BAFFLED LOT - ",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor",
+		"descr2": "(Betw 1st &amp; 2nd Avenues) ",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "48 East 80th Street",
+		"buildingName": "Manhattan Church of Christ",
+		"meetingName": "A.A. TRADITIONS AND HISTORY - ",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor Library",
+		"descr2": "Ring Bell Next to Sign.",
+		"GeoInfo": {
+			"lat": "40.7767263",
+			"long": "-73.9612366",
+			"TAMUaddress": "48 E 80TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.9349112426035"
+		}
+	},
+	{
+		"streetAddress": "184 East 76th Street",
+		"buildingName": "St. Jean Baptiste Church",
+		"meetingName": "ACTIVE - Active",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "Basement",
+		"descr2": "(Betw Lexington &amp; 3rd Avenues",
+		"GeoInfo": {
+			"lat": "40.7729024777959",
+			"long": "-73.960301601538",
+			"TAMUaddress": "184 E 76TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "AFTERNOON AWAKENING - ",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor",
+		"descr2": "(Betw. 1st &amp; 2nd Avenues) ",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "1393 York Avenue",
+		"buildingName": "Church of the Epiphany",
+		"meetingName": "ATLANTIC ELEVENTH STEP MEDITATION - ",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "(@ 74th Street) ",
+		"GeoInfo": {
+			"lat": "40.768415",
+			"long": "-73.9528341",
+			"TAMUaddress": "1393 YORK AVE New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "520 Park Avenue",
+		"buildingName": "Christ United Methodist Church",
+		"meetingName": "ATLANTIC GROUP (:I) - Atlantic    (:I)",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "(@ 60th Street)  ",
+		"GeoInfo": {
+			"lat": "40.7639426",
+			"long": "-73.9700429",
+			"TAMUaddress": "520 PARK AVE New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.9349112426035"
+		}
+	},
+	{
+		"streetAddress": "337 E. 74th St.",
+		"buildingName": "Archdiocian Cathedral of the Holy Trinity",
+		"meetingName": "ATLANTIC GROUP (:II) - ",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "(Between First and Second Avenues) ",
+		"GeoInfo": {
+			"lat": "40.7696836",
+			"long": "-73.9561119",
+			"TAMUaddress": "337 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "1157 Lexington Avenue",
+		"buildingName": "All Souls Church",
+		"meetingName": "ATLANTIC GROUP (:III) - ",
+		"zipcode": "10075",
+		"zone": 7,
+		"descr1": "(between 79th and 80th Streets) ",
+		"GeoInfo": {
+			"lat": "40.7754455",
+			"long": "-73.9583638",
+			"TAMUaddress": "1157 LEXINGTON AVE New York NY 10075",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "420 East 76th Street",
+		"buildingName": "Gracie Square Hospital",
+		"meetingName": "BREAKING THROUGH - Breaking Through",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "(Betw 1st &amp; York Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7697705",
+			"long": "-73.9529077",
+			"TAMUaddress": "420 E 76TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "230 East 90th Street",
+		"buildingName": "Our Lady of Good Counsel Church",
+		"meetingName": "CAME TO BELIEVE - Came To Believe",
+		"zipcode": "10128",
+		"zone": 7,
+		"descr1": "Downstairs",
+		"descr2": "(Betw 2nd &amp; 3rd Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.780841",
+			"long": "-73.9510956",
+			"TAMUaddress": "230 E 90TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "65 East 89th Street",
+		"buildingName": "St. Thomas More Church",
+		"meetingName": "CARNEGIE HILL - Carnegie Hill",
+		"zipcode": "10128",
+		"zone": 7,
+		"descr1": "Basement",
+		"descr2": "(@ Park &amp; Madison Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.78259",
+			"long": "-73.9566571",
+			"TAMUaddress": "65 E 89TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "865 Madison Avenue",
+		"buildingName": "St. James Episcopal Church",
+		"meetingName": "CENTRAL - Central I",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "Basement",
+		"descr2": "(@ East 71st Street)  ",
+		"GeoInfo": {
+			"lat": "40.7713251",
+			"long": "-73.9655852",
+			"TAMUaddress": "865 MADISON AVE New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "1296 Lexington Avenue",
+		"buildingName": "Immanuel Lutheran Church",
+		"meetingName": "CHAPTER FIVE - Chapter Five     (:I)",
+		"zipcode": "10128",
+		"zone": 7,
+		"descr1": "Basement",
+		"descr2": "(Enter through red door on Lexington Avenue",
+		"GeoInfo": {
+			"lat": "40.7803300287851",
+			"long": "-73.9550885355201",
+			"TAMUaddress": "1296 LEXINGTON AVE New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "ELEVENTH STEP AT JAN HUS - Eleventh Step At Jan Hus",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "Mazaryk Room",
+		"descr2": "(Betw. 1st &amp; 2nd Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "1157 Lexington Avenue",
+		"buildingName": "All Souls Uniterian Church",
+		"meetingName": "FEARLESS - ",
+		"zipcode": "10028",
+		"zone": 7,
+		"descr1": "1st Floor",
+		"descr2": "(@ East 80th Street) ",
+		"GeoInfo": {
+			"lat": "40.7754455",
+			"long": "-73.9583638",
+			"TAMUaddress": "1157 LEXINGTON AVE New York NY 10028",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.9349112426035"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "FRIDAY CENTRAL - ",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "Mazaryk Room",
+		"descr2": "(Betw. 1st &amp; 2nd Avenues) ",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "FRIDAY NIGHT GAY MEN & WOMEN - Friday Night Gay Men & Women",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor",
+		"descr2": "(Betw. 1st &amp; 2nd Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "65 East 89th Street",
+		"buildingName": "St. Thomas More Church Rectory",
+		"meetingName": "FRIDAY NIGHT MEN'S STEP - Friday Night Men's Step",
+		"zipcode": "10128",
+		"zone": 7,
+		"descr1": "(Betw Madison &amp; Park Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.78259",
+			"long": "-73.9566571",
+			"TAMUaddress": "65 E 89TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "65 East 89th Street",
+		"buildingName": "Church of Saint Thomas Moore",
+		"meetingName": "HUMANISTS TOO - ",
+		"zipcode": "10128",
+		"zone": 7,
+		"descr1": "Rectory basement",
+		"descr2": "",
+		"GeoInfo": {
+			"lat": "40.78259",
+			"long": "-73.9566571",
+			"TAMUaddress": "65 E 89TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "I'M ALL IN - ",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor",
+		"descr2": "(Betw. 1st &amp; 2nd Avenues ) ",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "135 East 96th Street",
+		"buildingName": "St. Francis de Sales Church",
+		"meetingName": "INTO ACTION MANHATTAN - Into Action Manhattan",
+		"zipcode": "10128",
+		"zone": 7,
+		"descr1": "(between Lexington and Park Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7862757",
+			"long": "-73.951491",
+			"TAMUaddress": "135 E 96TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.4023668639053"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Presbyterian Church",
+		"meetingName": "KITCHEN TABLE MEETING - ",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor Kitchen",
+		"descr2": "(Betw. 1st &amp; 2nd Avenues) ",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "2 East 90th Street",
+		"buildingName": "Church of the Heavenly Rest",
+		"meetingName": "LENOX HILL - Lenox Hill",
+		"zipcode": "10128",
+		"zone": 7,
+		"descr1": "(Betw 5th &amp; Madison Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7836928",
+			"long": "-73.9578694",
+			"TAMUaddress": "2 E 90TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "1157 Lexington Avenue",
+		"buildingName": "All Souls Uniterian Church",
+		"meetingName": "LEX 80 STEP - ",
+		"zipcode": "10028",
+		"zone": 7,
+		"descr1": "(Betw. 79th &amp; 80th Streets) ",
+		"GeoInfo": {
+			"lat": "40.7754455",
+			"long": "-73.9583638",
+			"TAMUaddress": "1157 LEXINGTON AVE New York NY 10028",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.9349112426035"
+		}
+	},
+	{
+		"streetAddress": "420 East 76th Street",
+		"buildingName": "Gracie Square Hospital",
+		"meetingName": "LIVE AND LET LIVE - Live And Let Live",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "(Betw. 1st &amp; York  Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7697705",
+			"long": "-73.9529077",
+			"TAMUaddress": "420 E 76TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Presbyterian Church",
+		"meetingName": "MADISON 73 - Madison 73",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor",
+		"descr2": "(Betw.1st &amp; 2nd Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "MEDITATION (EXPECT MIRACLES) - Meditation (Expect Miracles)",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor Chapel Room",
+		"descr2": "(Betw. 1st &amp; 2nd Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "1285 Madison Avenue",
+		"buildingName": "Philomathist Center",
+		"meetingName": "MEN'S NYC BIG BOOK STEP STUDY - ",
+		"zipcode": "10128",
+		"zone": 7,
+		"descr1": "",
+		"GeoInfo": {
+			"lat": "40.7843189",
+			"long": "-73.9560924",
+			"TAMUaddress": "1285 MADISON AVE New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "48 East 84th Street",
+		"buildingName": "St. Ignatius Loyola School",
+		"meetingName": "METROPOLITAN - Metropolitan",
+		"zipcode": "10028",
+		"zone": 7,
+		"descr1": "(Betw Madison &amp; Park Avenues",
+		"descr2": "On Saturday enter via Park Avenue Entrance)  ",
+		"GeoInfo": {
+			"lat": "40.7790604",
+			"long": "-73.9588788",
+			"TAMUaddress": "48 E 84TH ST New York NY 10028",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "408 East 82nd Street",
+		"buildingName": "St. Stephen of Hungary Church",
+		"meetingName": "MONDAY EAST TOPIC - Monday East Topic",
+		"zipcode": "10028",
+		"zone": 7,
+		"descr1": "Rectory",
+		"descr2": "(Betw 1st &amp; York Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7738528",
+			"long": "-73.9504699",
+			"TAMUaddress": "408 E 82ND ST New York NY 10028",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "MONDAY WOMEN - ",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor Front Room",
+		"descr2": "(Betw. 1st &amp; 2nd Avenues) ",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "MORNING REFLECTIONS - ",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor",
+		"descr2": "Front Room",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "125 East 85th Street",
+		"buildingName": "Congregational Kehilath Jeshurun",
+		"meetingName": "NEW CHOICES - New Choices",
+		"zipcode": "10028",
+		"zone": 7,
+		"descr1": "Ramaz School Entrance",
+		"descr2": "(@ Lexington Avenue)  ",
+		"GeoInfo": {
+			"lat": "40.7790514",
+			"long": "-73.956386",
+			"TAMUaddress": "125 E 85TH ST New York NY 10028",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "OPEN BOOK - ",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor",
+		"descr2": "Library Room",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "OUR PRIMARY PURPOSE - ",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor Kitchen",
+		"descr2": "(Betw. 1st &amp; 2nd Avenues) ",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "865 Madison Avenue",
+		"buildingName": "St. James Church",
+		"meetingName": "PARK BENCH   (:II) - ",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "3rd Floor",
+		"descr2": "(Betw. 71st &amp; 72nd Streets) ",
+		"GeoInfo": {
+			"lat": "40.7713251",
+			"long": "-73.9655852",
+			"TAMUaddress": "865 MADISON AVE New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "62 East 92nd Street",
+		"buildingName": "Brick Church Parish House",
+		"meetingName": "PARK MADISON - Park Madison",
+		"zipcode": "10128",
+		"zone": 7,
+		"descr1": "Basement",
+		"descr2": "(Betw Madison &amp; Park Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7842393",
+			"long": "-73.955258",
+			"TAMUaddress": "62 E 92ND ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "PERSEVERANCE - Perseverance",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor Front Room",
+		"descr2": "(Betw. 1st &amp; 2nd Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "420 East 87th Street",
+		"buildingName": "St. Joseph's School",
+		"meetingName": "RECOVERY ROOM - Recovery Room",
+		"zipcode": "10128",
+		"zone": 7,
+		"descr1": "Basement",
+		"descr2": "(Betw 1st &amp; York Avenues) Enter thru Red Door  ",
+		"GeoInfo": {
+			"lat": "40.7770465",
+			"long": "-73.9479432",
+			"TAMUaddress": "420 E 87TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.4023668639053"
+		}
+	},
+	{
+		"streetAddress": "593 Park Avenue",
+		"buildingName": "Central Presbyterian Church",
+		"meetingName": "RENEWAL EAST - ",
+		"zipcode": "10128",
+		"zone": 7,
+		"descr1": "5th Floor Library",
+		"descr2": "(@ 64th Street) ",
+		"GeoInfo": {
+			"lat": "40.765841",
+			"long": "-73.9673386",
+			"TAMUaddress": "593 PARK AVE New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.4023668639053"
+		}
+	},
+	{
+		"streetAddress": "65 East 89th Street",
+		"buildingName": "St. Thomas More Church",
+		"meetingName": "RENEWAL NORTH - ",
+		"zipcode": "10128",
+		"zone": 7,
+		"descr1": "Ring Red Buzzer",
+		"descr2": "Chelsea Room",
+		"GeoInfo": {
+			"lat": "40.78259",
+			"long": "-73.9566571",
+			"TAMUaddress": "65 E 89TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "865 Madison Avenue",
+		"buildingName": "St. James Episcopal Church",
+		"meetingName": "RHINELANDER - Rhinelander",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "Basement",
+		"descr2": "(@ East 71st Street)  ",
+		"GeoInfo": {
+			"lat": "40.7713251",
+			"long": "-73.9655852",
+			"TAMUaddress": "865 MADISON AVE New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "543 Main St.",
+		"buildingName": "",
+		"meetingName": "ROOSEVELT ISLAND SERENITY - ",
+		"zipcode": "10044",
+		"zone": 7,
+		"descr1": "Basement ",
+		"GeoInfo": {
+			"lat": "40.7618261",
+			"long": "-73.9500511",
+			"TAMUaddress": "543 MAIN ST New York NY 10044",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "413 East 79th Street",
+		"buildingName": "St. Monica's Church",
+		"meetingName": "SEVENTY-NINTH STREET WORKSHOP - Seventy-Ninth Street Workshop    (:I)",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "Basement",
+		"descr2": "(Betw 1st &amp; York Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7721222",
+			"long": "-73.9517608",
+			"TAMUaddress": "413 E 79TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.9349112426035"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "SOBER WOMEN - Sober Women",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "Sanctuary",
+		"descr2": "(Betw. 1st &amp; 2nd Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "310 East 67th Street",
+		"buildingName": "New York Blood Center",
+		"meetingName": "STEP BY STEP - Step By Step",
+		"zipcode": "10065",
+		"zone": 7,
+		"descr1": "Auditorium",
+		"descr2": "(Betw. 1st &amp; 2nd Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7651821",
+			"long": "-73.9599207",
+			"TAMUaddress": "310 E 67TH ST New York NY 10065",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "331 E 70th St",
+		"buildingName": "Lenox Hill Neighborhood House",
+		"meetingName": "SUNDAY ON 70TH - Sunday On 70th",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "(Betw 1st &amp; 2nd Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.766948",
+			"long": "-73.9577722",
+			"TAMUaddress": "331 E 70TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "411 East 68th Street",
+		"buildingName": "Church of St. Catherine of Siena",
+		"meetingName": "SUTTON - Sutton",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "(Betw. York &amp; 1st Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7651081",
+			"long": "-73.957215",
+			"TAMUaddress": "411 E 68TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "98.9349112426035"
+		}
+	},
+	{
+		"streetAddress": "2 East 90th Street",
+		"buildingName": "Church of the Heavenly Rest",
+		"meetingName": "THREE TWELVES - Three Twelves",
+		"zipcode": "10128",
+		"zone": 7,
+		"descr1": "Basement",
+		"descr2": "(Enter thru the Family Chapel on 5th Avenue)  ",
+		"GeoInfo": {
+			"lat": "40.7836928",
+			"long": "-73.9578694",
+			"TAMUaddress": "2 E 90TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "341 East 87th Street",
+		"buildingName": "Holy Trinity Church",
+		"meetingName": "TRINITY - Trinity",
+		"zipcode": "10128",
+		"zone": 7,
+		"descr1": "Choir Room (Ring Bell)",
+		"descr2": "(Btw. 1st &amp; 2nd Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7780211",
+			"long": "-73.9497263",
+			"TAMUaddress": "341 E 87TH ST New York NY 10128",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "WE HUMANISTS - We Humanists",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor Museum Room",
+		"descr2": "(Betw 1st &amp; 2nd Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "WEDNESDAY EAST ON THURSDAY - Wednesday East",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor Kitchen",
+		"descr2": "(Betw. 1st &amp; 2nd Avenues)  ",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "351 East 74th Street",
+		"buildingName": "Jan Hus Church",
+		"meetingName": "YORKVILLE-BUTTERFIELD - Yorkville",
+		"zipcode": "10021",
+		"zone": 7,
+		"descr1": "2nd Floor",
+		"descr2": "Masaryk Room",
+		"GeoInfo": {
+			"lat": "40.7694194",
+			"long": "-73.9555151",
+			"TAMUaddress": "351 E 74TH ST New York NY 10021",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	}
+]
