@@ -13,7 +13,9 @@ The assignment is detailed in the [data structures course github page](https://g
 ### Documentation:
 --------------------------
 
-1. Parsing all the zone data:
+### 1. Parsing all the zone data:
+--------------------------
+
 
 [Week 02](https://github.com/acdreyer/data-structures/tree/master/wAssignment_02)
 was revisited by firstly re-parsing AA meeting data for zone 7 
@@ -52,7 +54,9 @@ and all final .json files are located in [this week's data folder](https://githu
 
 
 
-2. Getting the Geolocations:
+### 2. Getting the Geolocations:
+--------------------------
+
 
 [Week 03](https://github.com/acdreyer/data-structures/tree/master/wAssignment_03)
 was revisited to obtain Geolocation data for all ten zones.
@@ -74,7 +78,9 @@ located in the [week 3 data section](https://github.com/acdreyer/data-structures
 ```
 
 
-3. Re-shaping the data:
+
+### 3. Re-shaping the data:
+--------------------------
 
 [Week 04](https://github.com/acdreyer/data-structures/tree/master/wAssignment_04)
 was then re-visited to populate the full database. Previously it was decided
@@ -98,14 +104,19 @@ The subsequent database structure is given below.
 
 Location table example row:
 
+```
     {
         "id": 198,
         "streetAddress": "178 Bennett Avenue",
         "lat": "40.8560069",
         "long": "-73.9342762"
     }
+```
+    
 
 Meetings table example row:
+
+```
     {
         "zone": "10",
         "streetAddress": "178 Bennett Avenue",
@@ -124,7 +135,7 @@ Meetings table example row:
         "descr2": "@ 189th Street",
         "fn_key": 198
     }
-
+```
 
 
 
