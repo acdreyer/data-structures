@@ -32,9 +32,9 @@ client.connect();
 //  SQL statement to query the entire contents of a table: 
 // Uncomment for debugging sections:
 
-var thisQuery = "SELECT * FROM aameetflat;";
+// var thisQuery = "SELECT * FROM aameetflat;";
 
-// var thisQuery = "SELECT * FROM aalocations; ";
+var thisQuery = "SELECT * FROM aalocations; ";
 
 // var thisQuery = "SELECT id FROM aalocations WHERE \
 //         " + 40.7927121 + "=lat and " + -73.94069 + "=long;";
