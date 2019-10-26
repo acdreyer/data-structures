@@ -119,9 +119,9 @@ async.eachSeries(meetingContent, function(value, callback) {
 
 // Write out the files; a raw output and a refined output in meeting data
 }, function() {
-    fs.writeFileSync('./data/TAMUrawZone' + zoneStr + '.json', JSON.stringify(TAMUraw, null, '\t'));
+    // fs.writeFileSync('./data/TAMUrawZone' + zoneStr + '.json', JSON.stringify(TAMUraw, null, '\t'));
     fs.writeFileSync('./data/zone' + zoneStr + 'AAmeetingsGeo.json', JSON.stringify(meetingContent, null, '\t'));
-    fs.writeFileSync('./data/zone' + zoneStr + 'TamuCSV.txt', APIdebug);
+    // fs.writeFileSync('./data/zone' + zoneStr + 'TamuCSV.txt', APIdebug);
     console.log('*** *** *** *** ***');
     console.log('Number of locations in this zone: ');
     console.log(meetingContent.length);

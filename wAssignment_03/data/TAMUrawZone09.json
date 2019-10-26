@@ -1,12 +1,12 @@
 [
 	{
 		"version": "4.10",
-		"TransactionId": "91d1b5ac-f966-45a4-ab4e-63195ff46ee4",
+		"TransactionId": "04d41248-94e2-4e86-a86b-048eb13b9225",
 		"Version": "4.1",
 		"QueryStatusCodeValue": "200",
 		"FeatureMatchingResultType": "Success",
 		"FeatureMatchingResultCount": "1",
-		"TimeTaken": "0.218762",
+		"TimeTaken": "0.2187581",
 		"ExceptionOccured": "False",
 		"Exception": "",
 		"InputAddress": {
@@ -39,12 +39,12 @@
 	},
 	{
 		"version": "4.10",
-		"TransactionId": "9c8fccf4-c022-40ce-be3d-305c9e6acc62",
+		"TransactionId": "3bc3480b-e96a-48d2-9821-f45499253a2d",
 		"Version": "4.1",
 		"QueryStatusCodeValue": "200",
 		"FeatureMatchingResultType": "Success",
 		"FeatureMatchingResultCount": "1",
-		"TimeTaken": "0.2030741",
+		"TimeTaken": "0.1875044",
 		"ExceptionOccured": "False",
 		"Exception": "",
 		"InputAddress": {
@@ -77,12 +77,12 @@
 	},
 	{
 		"version": "4.10",
-		"TransactionId": "0f4a9f77-e7d1-4e80-8fd2-b251e298991a",
+		"TransactionId": "22e90976-25ce-456d-b757-ece8241e15ce",
 		"Version": "4.1",
 		"QueryStatusCodeValue": "200",
 		"FeatureMatchingResultType": "Success",
 		"FeatureMatchingResultCount": "1",
-		"TimeTaken": "0.1406224",
+		"TimeTaken": "0.1406311",
 		"ExceptionOccured": "False",
 		"Exception": "",
 		"InputAddress": {
@@ -115,12 +115,12 @@
 	},
 	{
 		"version": "4.10",
-		"TransactionId": "16a9cc06-70aa-4ba5-975a-edc89e464886",
+		"TransactionId": "c0f77ad9-7363-40c3-856f-8659f3e28cbf",
 		"Version": "4.1",
 		"QueryStatusCodeValue": "200",
 		"FeatureMatchingResultType": "Success",
 		"FeatureMatchingResultCount": "1",
-		"TimeTaken": "0.2187454",
+		"TimeTaken": "0.2031168",
 		"ExceptionOccured": "False",
 		"Exception": "",
 		"InputAddress": {

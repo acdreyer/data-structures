@@ -1,0 +1,829 @@
+[
+	{
+		"streetAddress": "20 Cardinal Hayes Place",
+		"zipcode": "10007",
+		"buildingName": "St Andrews Church",
+		"meetingName": "A Design For Living",
+		"wheelchairacc": false,
+		"zone": "1",
+		"descr1": "Rectory Basement",
+		"descr2": "Between Duane and Pearl Streets",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "7:00 AM",
+				"timeend": "8:00 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:00 AM",
+				"timeend": "8:00 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7132514",
+			"long": "-74.002398",
+			"TAMUaddress": "20 CARDINAL HAYES PL New York NY 10007",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "20 Cardinal Hayes Place",
+		"zipcode": "10007",
+		"buildingName": "St. Andrew's Church",
+		"meetingName": "Chambers Street",
+		"wheelchairacc": false,
+		"zone": "1",
+		"descr1": "Enter through driveway behind Church.",
+		"descr2": "1 Block North of Chambers Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Thursdays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Fridays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7132514",
+			"long": "-74.002398",
+			"TAMUaddress": "20 CARDINAL HAYES PL New York NY 10007",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "29 Mott Street",
+		"zipcode": "10013",
+		"buildingName": "Church of the Transfiguration",
+		"meetingName": "Chinatown",
+		"wheelchairacc": false,
+		"zone": "1",
+		"descr1": "Basement",
+		"descr2": "@ Mott &amp; Mosco Streets",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7147965",
+			"long": "-73.9990363",
+			"TAMUaddress": "29 MOTT ST New York NY 10013",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "49 Fulton Street",
+		"zipcode": "10038",
+		"buildingName": "St. Margaret's Residence",
+		"meetingName": "Downtown",
+		"wheelchairacc": true,
+		"zone": "1",
+		"descr1": "1st Floor Library",
+		"descr2": "@ Pearl Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7080393",
+			"long": "-74.0042361",
+			"TAMUaddress": "49 FULTON ST New York NY 10038",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "44 John Street",
+		"zipcode": "10038",
+		"buildingName": "",
+		"meetingName": "Exchange Views @ John Street Church",
+		"wheelchairacc": false,
+		"zone": "1",
+		"descr1": "between Nassau and William",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Thursdays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Mondays",
+				"timestart": "1:30 PM",
+				"timeend": "2:30 PM",
+				"meettype": "B",
+				"meetspecial": "Living Sober"
+			},
+			"4": {
+				"datemeet": "Thursdays",
+				"timestart": "1:30 PM",
+				"timeend": "2:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7091732",
+			"long": "-74.0080677",
+			"TAMUaddress": "44 JOHN ST New York NY 10038",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "49 Fulton Street",
+		"zipcode": "10038",
+		"buildingName": "",
+		"meetingName": "Exchange Views @ St. Margaret's House",
+		"wheelchairacc": true,
+		"zone": "1",
+		"descr1": "near Water",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "6:30 AM",
+				"timeend": "7:30 AM",
+				"meettype": "C",
+				"meetspecial": "Topic"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:30 AM",
+				"timeend": "7:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:30 AM",
+				"timeend": "7:30 AM",
+				"meettype": "C",
+				"meetspecial": "Topic"
+			},
+			"3": {
+				"datemeet": "Thursdays",
+				"timestart": "6:30 AM",
+				"timeend": "7:30 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Fridays",
+				"timestart": "6:30 AM",
+				"timeend": "7:30 AM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"5": {
+				"datemeet": "Mondays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"6": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"7": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"8": {
+				"datemeet": "Thursdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"9": {
+				"datemeet": "Fridays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"10": {
+				"datemeet": "Sundays",
+				"timestart": "7:45 AM",
+				"timeend": "8:45 AM",
+				"meettype": "OD",
+				"meetspecial": "Round-Robin Meeting Format"
+			},
+			"11": {
+				"datemeet": "Saturdays",
+				"timestart": "7:45 AM",
+				"timeend": "8:45 AM",
+				"meettype": "OD",
+				"meetspecial": "Round-Robin Meeting Format"
+			},
+			"12": {
+				"datemeet": "Fridays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7080393",
+			"long": "-74.0042361",
+			"TAMUaddress": "49 FULTON ST New York NY 10038",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "20 Cardinal Hayes Place",
+		"zipcode": "10007",
+		"buildingName": "St. Andrew's Church",
+		"meetingName": "Friday Downtown",
+		"wheelchairacc": true,
+		"zone": "1",
+		"descr1": "Enter thru driveway behind Church.",
+		"descr2": "1 Block North of Chamber Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7132514",
+			"long": "-74.002398",
+			"TAMUaddress": "20 CARDINAL HAYES PL New York NY 10007",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "22 Barclay Street",
+		"zipcode": 10007,
+		"buildingName": "St. Peter's Church",
+		"meetingName": "Gateway",
+		"wheelchairacc": false,
+		"zone": "1",
+		"descr1": "Entrance on Church St. between Vesey &amp; Barclay Streets",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7125016",
+			"long": "-74.0094639",
+			"TAMUaddress": "22 BARCLAY ST New York NY 10007",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "20 Cardinal Hayes Place",
+		"zipcode": "10007",
+		"buildingName": "St. Andrew's Church",
+		"meetingName": "Passing The Bar",
+		"wheelchairacc": true,
+		"zone": "1",
+		"descr1": "Enter thru driveway behind Church.",
+		"descr2": "Betw. Duane &amp; Pearl Streets",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "1:15 PM",
+				"timeend": "2:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "1:15 PM",
+				"timeend": "2:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Wednesdays",
+				"timestart": "1:15 PM",
+				"timeend": "2:15 PM",
+				"meettype": "C",
+				"meetspecial": "Promises"
+			},
+			"3": {
+				"datemeet": "Thursdays",
+				"timestart": "1:15 PM",
+				"timeend": "2:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Fridays",
+				"timestart": "1:15 PM",
+				"timeend": "2:15 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7132514",
+			"long": "-74.002398",
+			"TAMUaddress": "20 CARDINAL HAYES PL New York NY 10007",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "22 Barclay Street",
+		"zipcode": "10007",
+		"buildingName": "Saint Peter's Church",
+		"meetingName": "S.O.B.E.R.",
+		"wheelchairacc": false,
+		"zone": "1",
+		"descr1": "Corner of Barclay &amp; Church Streets",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "7:30 PM",
+				"timeend": "8:45 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7125016",
+			"long": "-74.0094639",
+			"TAMUaddress": "22 BARCLAY ST New York NY 10007",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "283 West Broadway",
+		"zipcode": "10013",
+		"buildingName": "Hazelden Tribeca",
+		"meetingName": "Sane And Sober",
+		"wheelchairacc": true,
+		"zone": "1",
+		"descr1": "Betw. Lispenard and Canal Streets",
+		"descr2": "Ground Floor",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:00 PM",
+				"meettype": "C",
+				"meetspecial": "Mental Health Issues in Sobriety"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7144166",
+			"long": "-73.9843646",
+			"TAMUaddress": "283 W BROADWAY New York NY 10013",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "94.792899408284"
+		}
+	},
+	{
+		"streetAddress": "125 Barclay Street",
+		"zipcode": "10007",
+		"buildingName": "Municipal Union Bldg DC 37",
+		"meetingName": "Saturday Afternoon Discussion",
+		"wheelchairacc": false,
+		"zone": "1",
+		"descr1": "Betw. Greenwich Street &amp; West Side Highway",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "2:00 PM",
+				"timeend": "3:15 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7143477",
+			"long": "-74.0130151",
+			"TAMUaddress": "125 BARCLAY ST New York NY 10007",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "49 Fulton Street",
+		"zipcode": "10038",
+		"buildingName": "St. Margaret's House",
+		"meetingName": "Seamen's Group",
+		"wheelchairacc": true,
+		"zone": "1",
+		"descr1": "Conference Room #1",
+		"descr2": "@ Water &amp; Fulton Streets",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7080393",
+			"long": "-74.0042361",
+			"TAMUaddress": "49 FULTON ST New York NY 10038",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "49 Fulton Street",
+		"zipcode": "10038",
+		"buildingName": "St. Margaret's House",
+		"meetingName": "Seaport",
+		"wheelchairacc": true,
+		"zone": "1",
+		"descr1": "Corner of Fulton &amp; Pearl Streets @ Water Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Fridays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Mondays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "S",
+				"meetspecial": "Meditation"
+			},
+			"3": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Tuesdays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7080393",
+			"long": "-74.0042361",
+			"TAMUaddress": "49 FULTON ST New York NY 10038",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "20 Cardinal Hayes Place",
+		"zipcode": "10007",
+		"buildingName": "Church of Saint Andrew",
+		"meetingName": "Tower",
+		"wheelchairacc": false,
+		"zone": "1",
+		"descr1": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7132514",
+			"long": "-74.002398",
+			"TAMUaddress": "20 CARDINAL HAYES PL New York NY 10007",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "283 West Broadway",
+		"zipcode": "10013",
+		"buildingName": "Tribeca 12 Building",
+		"meetingName": "Triangle Group",
+		"wheelchairacc": true,
+		"zone": "1",
+		"descr1": "Canal and Lispendard Sts.",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "11:00 AM",
+				"timeend": "12:00 PM",
+				"meettype": "C",
+				"meetspecial": "Meditation"
+			},
+			"1": {
+				"datemeet": "Fridays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Mondays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Thursdays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7144166",
+			"long": "-73.9843646",
+			"TAMUaddress": "283 W BROADWAY New York NY 10013",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "94.792899408284"
+		}
+	},
+	{
+		"streetAddress": "49 Fulton Street",
+		"zipcode": "10038",
+		"buildingName": "",
+		"meetingName": "Tribeca Group @ St. Margaret's House",
+		"wheelchairacc": true,
+		"zone": "1",
+		"descr1": "Near Water",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Saturdays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Thursdays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7080393",
+			"long": "-74.0042361",
+			"TAMUaddress": "49 FULTON ST New York NY 10038",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "22 Barclay Street",
+		"zipcode": "10006",
+		"buildingName": "St. Peter's Church",
+		"meetingName": "Tribeca Group @ St. Peter's Church",
+		"wheelchairacc": false,
+		"zone": "1",
+		"descr1": "basement chapel",
+		"descr2": "between Church and Broadway",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "7:45 PM",
+				"timeend": "8:45 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Wednesdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7125016",
+			"long": "-74.0094639",
+			"TAMUaddress": "22 BARCLAY ST New York NY 10006",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "99.4674556213018"
+		}
+	},
+	{
+		"streetAddress": "20 Cardinal Hayes Place",
+		"zipcode": "10007",
+		"buildingName": "St. Andrew's Church",
+		"meetingName": "Women's Downtown Aa Step Meeting",
+		"wheelchairacc": false,
+		"zone": "1",
+		"descr1": "On Plaza east of Centre St and Reade St",
+		"descr2": "1st floor",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "1:15 PM",
+				"timeend": "2:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7132514",
+			"long": "-74.002398",
+			"TAMUaddress": "20 CARDINAL HAYES PL New York NY 10007",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "283 West Broadway",
+		"zipcode": "10013",
+		"buildingName": "Hazelden Center",
+		"meetingName": "Young People's Diversity",
+		"wheelchairacc": false,
+		"zone": "1",
+		"descr1": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "C",
+				"meetspecial": "Gay Lesbian and Bisexual"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7144166",
+			"long": "-73.9843646",
+			"TAMUaddress": "283 W BROADWAY New York NY 10013",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "94.792899408284"
+		}
+	},
+	{
+		"streetAddress": "283 West Broadway",
+		"zipcode": "10013",
+		"buildingName": "Hazelden Center",
+		"meetingName": "Young People's Step",
+		"wheelchairacc": true,
+		"zone": "1",
+		"descr1": "Between West Broadway and Canal Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:45 PM",
+				"timeend": "8:45 PM",
+				"meettype": "C",
+				"meetspecial": "Young People"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7144166",
+			"long": "-73.9843646",
+			"TAMUaddress": "283 W BROADWAY New York NY 10013",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "94.792899408284"
+		}
+	},
+	{
+		"streetAddress": "283 West Broadway",
+		"zipcode": "10013",
+		"buildingName": "Hazelden Center",
+		"meetingName": "Youth Enjoying Sobriety (Y.E.S.)",
+		"wheelchairacc": true,
+		"zone": "1",
+		"descr1": "at Canal Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "7:00 PM",
+				"timeend": "8:15 PM",
+				"meettype": "B",
+				"meetspecial": "Young People"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7144166",
+			"long": "-73.9843646",
+			"TAMUaddress": "283 W BROADWAY New York NY 10013",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "94.792899408284"
+		}
+	}
+]

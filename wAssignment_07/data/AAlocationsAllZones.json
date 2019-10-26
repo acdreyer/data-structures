@@ -1,0 +1,1190 @@
+[
+    {
+        "id": 1,
+        "streetAddress": "20 Cardinal Hayes Place",
+        "lat": "40.7132514",
+        "long": "-74.002398"
+    },
+    {
+        "id": 2,
+        "streetAddress": "29 Mott Street",
+        "lat": "40.7147965",
+        "long": "-73.9990363"
+    },
+    {
+        "id": 3,
+        "streetAddress": "49 Fulton Street",
+        "lat": "40.7080393",
+        "long": "-74.0042361"
+    },
+    {
+        "id": 4,
+        "streetAddress": "44 John Street",
+        "lat": "40.7091732",
+        "long": "-74.0080677"
+    },
+    {
+        "id": 5,
+        "streetAddress": "22 Barclay Street",
+        "lat": "40.7125016",
+        "long": "-74.0094639"
+    },
+    {
+        "id": 6,
+        "streetAddress": "283 West Broadway",
+        "lat": "40.7144166",
+        "long": "-73.9843646"
+    },
+    {
+        "id": 7,
+        "streetAddress": "125 Barclay Street",
+        "lat": "40.7143477",
+        "long": "-74.0130151"
+    },
+    {
+        "id": 8,
+        "streetAddress": "273 Bowery",
+        "lat": "40.7236736",
+        "long": "-73.9924832"
+    },
+    {
+        "id": 9,
+        "streetAddress": "232 West 11th Street",
+        "lat": "40.736193",
+        "long": "-74.0028632"
+    },
+    {
+        "id": 10,
+        "streetAddress": "220 West Houston Street",
+        "lat": "40.7286385",
+        "long": "-74.0045871"
+    },
+    {
+        "id": 11,
+        "streetAddress": "253 Center Street",
+        "lat": "40.7206323",
+        "long": "-73.9979756"
+    },
+    {
+        "id": 12,
+        "streetAddress": "487 Hudson Street",
+        "lat": "40.7326",
+        "long": "-74.0067"
+    },
+    {
+        "id": 13,
+        "streetAddress": "292 Henry Street",
+        "lat": "40.7137143",
+        "long": "-73.983033"
+    },
+    {
+        "id": 14,
+        "streetAddress": "141 Henry Street",
+        "lat": "40.7134487",
+        "long": "-73.9906625"
+    },
+    {
+        "id": 15,
+        "streetAddress": "83 Christopher Street",
+        "lat": "40.7335702",
+        "long": "-74.0037456"
+    },
+    {
+        "id": 16,
+        "streetAddress": "50 Perry Street",
+        "lat": "40.7354854",
+        "long": "-74.0031569"
+    },
+    {
+        "id": 17,
+        "streetAddress": "224 Waverly Place",
+        "lat": "40.7360657",
+        "long": "-74.0019452"
+    },
+    {
+        "id": 18,
+        "streetAddress": "154 Sullivan Street",
+        "lat": "40.7273786",
+        "long": "-74.0017414"
+    },
+    {
+        "id": 19,
+        "streetAddress": "371 6th Avenue",
+        "lat": "40.6701581",
+        "long": "-73.9819879"
+    },
+    {
+        "id": 20,
+        "streetAddress": "155 Sullivan Street",
+        "lat": "40.7272525",
+        "long": "-74.0015782"
+    },
+    {
+        "id": 21,
+        "streetAddress": "7 East 10th Street",
+        "lat": "40.7332068",
+        "long": "-73.9946888"
+    },
+    {
+        "id": 22,
+        "streetAddress": "81 Christopher Street",
+        "lat": "40.7335983",
+        "long": "-74.0035744"
+    },
+    {
+        "id": 23,
+        "streetAddress": "155 East 22nd Street",
+        "lat": "40.7384244",
+        "long": "-73.9840055"
+    },
+    {
+        "id": 24,
+        "streetAddress": "61 Fourth Avenue",
+        "lat": "40.7307719",
+        "long": "-73.9903164"
+    },
+    {
+        "id": 25,
+        "streetAddress": "208 West 13th Street",
+        "lat": "40.7381228",
+        "long": "-74.0010304"
+    },
+    {
+        "id": 26,
+        "streetAddress": "123 East 15th Street",
+        "lat": "40.7346341",
+        "long": "-73.9879773"
+    },
+    {
+        "id": 27,
+        "streetAddress": "61 Gramercy Park North",
+        "lat": "40.7387068",
+        "long": "-73.986572"
+    },
+    {
+        "id": 28,
+        "streetAddress": "127 East 22nd Street",
+        "lat": "40.7390247",
+        "long": "-73.9854161"
+    },
+    {
+        "id": 29,
+        "streetAddress": "602 East 9th Street",
+        "lat": "40.7260409",
+        "long": "-73.9800393"
+    },
+    {
+        "id": 30,
+        "streetAddress": "125 West 14th Street",
+        "lat": "40.7379244",
+        "long": "-73.9976813"
+    },
+    {
+        "id": 31,
+        "streetAddress": "346 West 20th Street",
+        "lat": "40.7441452",
+        "long": "-74.0019191"
+    },
+    {
+        "id": 32,
+        "streetAddress": "414 East 14th Street",
+        "lat": "40.7309298",
+        "long": "-73.9819876"
+    },
+    {
+        "id": 33,
+        "streetAddress": "119 Ninth Avenue",
+        "lat": "40.7432442",
+        "long": "-74.0039393"
+    },
+    {
+        "id": 34,
+        "streetAddress": "202 West 24 Street",
+        "lat": "40.7449478",
+        "long": "-73.995862"
+    },
+    {
+        "id": 35,
+        "streetAddress": "28 Gramercy Park South",
+        "lat": "40.7371499",
+        "long": "-73.9853123"
+    },
+    {
+        "id": 36,
+        "streetAddress": "50 East 7th Street",
+        "lat": "40.7276522",
+        "long": "-73.9875923"
+    },
+    {
+        "id": 37,
+        "streetAddress": "802 Broadway",
+        "lat": "40.7320395",
+        "long": "-73.991189"
+    },
+    {
+        "id": 38,
+        "streetAddress": "209 East 16th Street",
+        "lat": "40.7345135",
+        "long": "-73.9854432"
+    },
+    {
+        "id": 39,
+        "streetAddress": "44 2nd Avenue",
+        "lat": "40.7251086",
+        "long": "-73.9899858"
+    },
+    {
+        "id": 40,
+        "streetAddress": "229 West 14th Street",
+        "lat": "40.7392489",
+        "long": "-74.0008788"
+    },
+    {
+        "id": 41,
+        "streetAddress": "307 West 26th Street",
+        "lat": "40.7474685",
+        "long": "-73.9974137"
+    },
+    {
+        "id": 42,
+        "streetAddress": "343 West 25th Street",
+        "lat": "40.747411",
+        "long": "-73.9992698"
+    },
+    {
+        "id": 43,
+        "streetAddress": "80 St. Mark&apos;s Place",
+        "lat": "40.7276521",
+        "long": "-73.9857329"
+    },
+    {
+        "id": 44,
+        "streetAddress": "51 East 25th Street",
+        "lat": "40.7419488",
+        "long": "-73.9861549"
+    },
+    {
+        "id": 45,
+        "streetAddress": "315 West 22nd Street",
+        "lat": "40.7450587",
+        "long": "-73.9997029"
+    },
+    {
+        "id": 46,
+        "streetAddress": "15 Rutherford Place",
+        "lat": "40.7337834",
+        "long": "-73.985098"
+    },
+    {
+        "id": 47,
+        "streetAddress": "25 East 15th",
+        "lat": "40.7361047",
+        "long": "-73.9914936"
+    },
+    {
+        "id": 48,
+        "streetAddress": "175 9th Avenue",
+        "lat": "40.6717748",
+        "long": "-73.9913909"
+    },
+    {
+        "id": 49,
+        "streetAddress": "19 Union Square West",
+        "lat": "40.7360864",
+        "long": "-73.9912277"
+    },
+    {
+        "id": 50,
+        "streetAddress": "423 East 23rd Street",
+        "lat": "40.7368113",
+        "long": "-73.9772015"
+    },
+    {
+        "id": 51,
+        "streetAddress": "411 East 12th Street",
+        "lat": "40.729824",
+        "long": "-73.982816"
+    },
+    {
+        "id": 52,
+        "streetAddress": "239 East 21st Street",
+        "lat": "40.7369141",
+        "long": "-73.9823276"
+    },
+    {
+        "id": 53,
+        "streetAddress": "12 West 12th Street",
+        "lat": "40.7348062",
+        "long": "-73.9951634"
+    },
+    {
+        "id": 54,
+        "streetAddress": "12 West 11th Street",
+        "lat": "40.7341868",
+        "long": "-73.9957178"
+    },
+    {
+        "id": 55,
+        "streetAddress": "116 West 11th Street",
+        "lat": "40.7355598",
+        "long": "-73.9990141"
+    },
+    {
+        "id": 56,
+        "streetAddress": "80 5th Avenue",
+        "lat": "40.7358709",
+        "long": "-73.9939317"
+    },
+    {
+        "id": 57,
+        "streetAddress": "319 East 24th Street",
+        "lat": "40.7380755",
+        "long": "-73.9789197"
+    },
+    {
+        "id": 58,
+        "streetAddress": "10 East Union Square",
+        "lat": "40.7348335",
+        "long": "-73.9897815"
+    },
+    {
+        "id": 59,
+        "streetAddress": "206 East 11th Street",
+        "lat": "40.7309636",
+        "long": "-73.9880637"
+    },
+    {
+        "id": 60,
+        "streetAddress": "155 West 22nd Street",
+        "lat": "40.7431787",
+        "long": "-73.9952777"
+    },
+    {
+        "id": 61,
+        "streetAddress": "20 Washington Square North",
+        "lat": "40.7319436",
+        "long": "-73.9977667"
+    },
+    {
+        "id": 62,
+        "streetAddress": "344 East 14th Street",
+        "lat": "40.7314102",
+        "long": "-73.9832013"
+    },
+    {
+        "id": 63,
+        "streetAddress": "173 East 3rd Street",
+        "lat": "40.7233431",
+        "long": "-73.9843062"
+    },
+    {
+        "id": 64,
+        "streetAddress": "252 West 46th Street",
+        "lat": "40.7593831",
+        "long": "-73.9872329"
+    },
+    {
+        "id": 65,
+        "streetAddress": "303 West 42nd Street",
+        "lat": "40.7575385",
+        "long": "-73.9901368"
+    },
+    {
+        "id": 66,
+        "streetAddress": "305 7th Avenue",
+        "lat": "40.7467107",
+        "long": "-73.9935208"
+    },
+    {
+        "id": 67,
+        "streetAddress": "1 West 53rd Street",
+        "lat": "40.7608523",
+        "long": "-73.9765938"
+    },
+    {
+        "id": 68,
+        "streetAddress": "133 West 46th Street",
+        "lat": "40.6589343",
+        "long": "-73.9348705"
+    },
+    {
+        "id": 69,
+        "streetAddress": "441 West 26th Street",
+        "lat": "40.7495486",
+        "long": "-74.0015106"
+    },
+    {
+        "id": 70,
+        "streetAddress": "446 West 33rd Street",
+        "lat": "40.753496",
+        "long": "-73.9989428"
+    },
+    {
+        "id": 71,
+        "streetAddress": "339 West 47th Street",
+        "lat": "40.7612077",
+        "long": "-73.9891128"
+    },
+    {
+        "id": 72,
+        "streetAddress": "139 West 31st Street",
+        "lat": "40.647412",
+        "long": "-73.9480599"
+    },
+    {
+        "id": 73,
+        "streetAddress": "422 West 57th Street",
+        "lat": "40.7682311",
+        "long": "-73.9868768"
+    },
+    {
+        "id": 74,
+        "streetAddress": "211 West 30th Street",
+        "lat": "40.7486793956479",
+        "long": "-73.9927286472649"
+    },
+    {
+        "id": 75,
+        "streetAddress": "7 West 55th Street",
+        "lat": "40.7618823",
+        "long": "-73.9751297"
+    },
+    {
+        "id": 76,
+        "streetAddress": "729 7th Avenue",
+        "lat": "40.7601119",
+        "long": "-73.9837538"
+    },
+    {
+        "id": 77,
+        "streetAddress": "538 West 47th Street",
+        "lat": "40.7634021",
+        "long": "-73.9948352"
+    },
+    {
+        "id": 78,
+        "streetAddress": "1000 Tenth Avenue",
+        "lat": "40.7700536177104",
+        "long": "-73.9877635987168"
+    },
+    {
+        "id": 79,
+        "streetAddress": "405 West 59th Street",
+        "lat": "40.7697538",
+        "long": "-73.9857965"
+    },
+    {
+        "id": 80,
+        "streetAddress": "296 9th Avenue",
+        "lat": "40.7493642017494",
+        "long": "-73.9991233310954"
+    },
+    {
+        "id": 81,
+        "streetAddress": "484 West 43rd Street",
+        "lat": "40.7599913",
+        "long": "-73.9948326"
+    },
+    {
+        "id": 82,
+        "streetAddress": "4 West 43rd Street",
+        "lat": "40.7543885",
+        "long": "-73.9812083"
+    },
+    {
+        "id": 83,
+        "streetAddress": "210 West 31st Street",
+        "lat": "40.7434762",
+        "long": "-73.9789404"
+    },
+    {
+        "id": 84,
+        "streetAddress": "134 West 29th Street",
+        "lat": "40.7472463",
+        "long": "-73.9917061"
+    },
+    {
+        "id": 85,
+        "streetAddress": "423 West 46th Street",
+        "lat": "40.6483729",
+        "long": "-74.009462"
+    },
+    {
+        "id": 86,
+        "streetAddress": "122 East 37th Street",
+        "lat": "40.7483929",
+        "long": "-73.9787906"
+    },
+    {
+        "id": 87,
+        "streetAddress": "30 East 35th Street",
+        "lat": "40.7496221",
+        "long": "-73.9855348"
+    },
+    {
+        "id": 88,
+        "streetAddress": "350 East 56th Street",
+        "lat": "40.757654",
+        "long": "-73.963834"
+    },
+    {
+        "id": 89,
+        "streetAddress": "619 Lexington Avenue",
+        "lat": "40.7588016",
+        "long": "-73.9704542"
+    },
+    {
+        "id": 90,
+        "streetAddress": "28 East 35th Street",
+        "lat": "40.7496065",
+        "long": "-73.9854965"
+    },
+    {
+        "id": 91,
+        "streetAddress": "283 Lexington Avenue",
+        "lat": "40.7479969",
+        "long": "-73.9783809"
+    },
+    {
+        "id": 92,
+        "streetAddress": "141 East 43rd Street",
+        "lat": "40.7518754",
+        "long": "-73.9747248"
+    },
+    {
+        "id": 93,
+        "streetAddress": "209 Madison Avenue",
+        "lat": "40.7486487",
+        "long": "-73.9821254"
+    },
+    {
+        "id": 94,
+        "streetAddress": "240 East 31st Street",
+        "lat": "40.7430963",
+        "long": "-73.9780494"
+    },
+    {
+        "id": 95,
+        "streetAddress": "114 East 35th Street",
+        "lat": "40.7473169",
+        "long": "-73.9800724"
+    },
+    {
+        "id": 96,
+        "streetAddress": "230 East 60th Street",
+        "lat": "40.7615607",
+        "long": "-73.9649474"
+    },
+    {
+        "id": 97,
+        "streetAddress": "244 East 58th Street",
+        "lat": "40.7600925",
+        "long": "-73.9653811"
+    },
+    {
+        "id": 98,
+        "streetAddress": "325 Park Avenue",
+        "lat": "40.7574552",
+        "long": "-73.9733937"
+    },
+    {
+        "id": 99,
+        "streetAddress": "236 EAST 31st Street",
+        "lat": "40.74314",
+        "long": "-73.9781525"
+    },
+    {
+        "id": 100,
+        "streetAddress": "308 East 55th Street",
+        "lat": "40.7576943",
+        "long": "-73.9657436"
+    },
+    {
+        "id": 101,
+        "streetAddress": "109 East 50th Street",
+        "lat": "40.7569178",
+        "long": "-73.97309"
+    },
+    {
+        "id": 102,
+        "streetAddress": "207 West 96th Street",
+        "lat": "40.7945161",
+        "long": "-73.9710419"
+    },
+    {
+        "id": 103,
+        "streetAddress": "120 West 69th Street",
+        "lat": "40.7756982",
+        "long": "-73.9810333"
+    },
+    {
+        "id": 104,
+        "streetAddress": "164 West 74th Street",
+        "lat": "40.7796117",
+        "long": "-73.9801807"
+    },
+    {
+        "id": 105,
+        "streetAddress": "144 West 90th Street",
+        "lat": "40.7898068",
+        "long": "-73.9723737"
+    },
+    {
+        "id": 106,
+        "streetAddress": "141 West 73rd Street",
+        "lat": "40.7789036",
+        "long": "-73.9799533"
+    },
+    {
+        "id": 107,
+        "streetAddress": "4 West 76th Street",
+        "lat": "40.7788736",
+        "long": "-73.9745891"
+    },
+    {
+        "id": 108,
+        "streetAddress": "221 West 107th Street",
+        "lat": "40.8017795",
+        "long": "-73.9665393"
+    },
+    {
+        "id": 109,
+        "streetAddress": "215 West 82nd Street",
+        "lat": "40.7852818734432",
+        "long": "-73.9771060064311"
+    },
+    {
+        "id": 110,
+        "streetAddress": "601 West 114th Street",
+        "lat": "40.8069051",
+        "long": "-73.965058"
+    },
+    {
+        "id": 111,
+        "streetAddress": "160 Central Park West",
+        "lat": "40.7787712",
+        "long": "-73.9743066"
+    },
+    {
+        "id": 112,
+        "streetAddress": "5 West 63rd Street",
+        "lat": "40.7708644",
+        "long": "-73.9806413"
+    },
+    {
+        "id": 113,
+        "streetAddress": "152 West 66th Street",
+        "lat": "40.7744405",
+        "long": "-73.9838262"
+    },
+    {
+        "id": 114,
+        "streetAddress": "3 West 95th Street",
+        "lat": "40.7912379",
+        "long": "-73.9655109"
+    },
+    {
+        "id": 115,
+        "streetAddress": "251 West 80th Street",
+        "lat": "40.7848713",
+        "long": "-73.9800524"
+    },
+    {
+        "id": 116,
+        "streetAddress": "111 West 71st Street",
+        "lat": "40.7769996",
+        "long": "-73.9796679"
+    },
+    {
+        "id": 117,
+        "streetAddress": "26 West 84th Street",
+        "lat": "40.7844228",
+        "long": "-73.9716168"
+    },
+    {
+        "id": 118,
+        "streetAddress": "200 West 97th Street",
+        "lat": "40.7946604892952",
+        "long": "-73.9699229082063"
+    },
+    {
+        "id": 119,
+        "streetAddress": "218 West 108th Street",
+        "lat": "40.8021037",
+        "long": "-73.9658778"
+    },
+    {
+        "id": 120,
+        "streetAddress": "125 West 104th Street",
+        "lat": "40.7985878",
+        "long": "-73.9649967"
+    },
+    {
+        "id": 121,
+        "streetAddress": "236 West 73rd Street",
+        "lat": "40.7796494",
+        "long": "-73.982239"
+    },
+    {
+        "id": 122,
+        "streetAddress": "165 West 105th Street",
+        "lat": "40.7996866",
+        "long": "-73.9657282"
+    },
+    {
+        "id": 123,
+        "streetAddress": "2504 Broadway",
+        "lat": "40.7927534",
+        "long": "-73.972842"
+    },
+    {
+        "id": 124,
+        "streetAddress": "405 West 114th Street",
+        "lat": "40.7946083",
+        "long": "-73.9358608"
+    },
+    {
+        "id": 125,
+        "streetAddress": "368 West End Ave",
+        "lat": "40.783225",
+        "long": "-73.9817572"
+    },
+    {
+        "id": 126,
+        "streetAddress": "225 West 99th Street",
+        "lat": "40.7964452",
+        "long": "-73.9694226"
+    },
+    {
+        "id": 127,
+        "streetAddress": "251 West 100th Street",
+        "lat": "40.7977791",
+        "long": "-73.9709911"
+    },
+    {
+        "id": 128,
+        "streetAddress": "552 West End Avenue",
+        "lat": "40.78931",
+        "long": "-73.9773114"
+    },
+    {
+        "id": 129,
+        "streetAddress": "340 West 85th Street",
+        "lat": "40.7887343",
+        "long": "-73.9798639"
+    },
+    {
+        "id": 130,
+        "streetAddress": "152 West 71st Street",
+        "lat": "40.7774259",
+        "long": "-73.9812051"
+    },
+    {
+        "id": 131,
+        "streetAddress": "131 West 72nd Street",
+        "lat": "40.7780247",
+        "long": "-73.9798344"
+    },
+    {
+        "id": 132,
+        "streetAddress": "30 West 68th Street",
+        "lat": "40.7740859",
+        "long": "-73.979107"
+    },
+    {
+        "id": 133,
+        "streetAddress": "263 West 86th Street",
+        "lat": "40.7887918",
+        "long": "-73.9772649"
+    },
+    {
+        "id": 134,
+        "streetAddress": "306 West 102nd Street",
+        "lat": "40.7992334",
+        "long": "-73.9710638"
+    },
+    {
+        "id": 135,
+        "streetAddress": "595 Columbus Avenue",
+        "lat": "40.7879892",
+        "long": "-73.9707609"
+    },
+    {
+        "id": 136,
+        "streetAddress": "213 West 82nd Street",
+        "lat": "40.7760114",
+        "long": "-73.9550312"
+    },
+    {
+        "id": 137,
+        "streetAddress": "351 East 74th Street",
+        "lat": "40.7694194",
+        "long": "-73.9555151"
+    },
+    {
+        "id": 138,
+        "streetAddress": "48 East 80th Street",
+        "lat": "40.7767263",
+        "long": "-73.9612366"
+    },
+    {
+        "id": 139,
+        "streetAddress": "184 East 76th Street",
+        "lat": "40.7729024777959",
+        "long": "-73.960301601538"
+    },
+    {
+        "id": 140,
+        "streetAddress": "1393 York Avenue",
+        "lat": "40.768415",
+        "long": "-73.9528341"
+    },
+    {
+        "id": 141,
+        "streetAddress": "520 Park Avenue",
+        "lat": "40.7639426",
+        "long": "-73.9700429"
+    },
+    {
+        "id": 142,
+        "streetAddress": "337 East 74th Street",
+        "lat": "40.7696836",
+        "long": "-73.9561119"
+    },
+    {
+        "id": 143,
+        "streetAddress": "1157 Lexington Avenue",
+        "lat": "40.7754455",
+        "long": "-73.9583638"
+    },
+    {
+        "id": 144,
+        "streetAddress": "420 East 76th Street",
+        "lat": "40.7697705",
+        "long": "-73.9529077"
+    },
+    {
+        "id": 145,
+        "streetAddress": "230 East 90th Street",
+        "lat": "40.780841",
+        "long": "-73.9510956"
+    },
+    {
+        "id": 146,
+        "streetAddress": "65 East 89th Street",
+        "lat": "40.78259",
+        "long": "-73.9566571"
+    },
+    {
+        "id": 147,
+        "streetAddress": "865 Madison Avenue",
+        "lat": "40.7713251",
+        "long": "-73.9655852"
+    },
+    {
+        "id": 148,
+        "streetAddress": "1296 Lexington Avenue",
+        "lat": "40.7803300287851",
+        "long": "-73.9550885355201"
+    },
+    {
+        "id": 149,
+        "streetAddress": "135 East 96th Street",
+        "lat": "40.7862757",
+        "long": "-73.951491"
+    },
+    {
+        "id": 150,
+        "streetAddress": "2 East 90th Street",
+        "lat": "40.7836928",
+        "long": "-73.9578694"
+    },
+    {
+        "id": 151,
+        "streetAddress": "1285 Madison Avenue",
+        "lat": "40.7843189",
+        "long": "-73.9560924"
+    },
+    {
+        "id": 152,
+        "streetAddress": "48 East 84th Street",
+        "lat": "40.7790604",
+        "long": "-73.9588788"
+    },
+    {
+        "id": 153,
+        "streetAddress": "408 East 82nd Street",
+        "lat": "40.7738528",
+        "long": "-73.9504699"
+    },
+    {
+        "id": 154,
+        "streetAddress": "125 East 85th Street",
+        "lat": "40.7790514",
+        "long": "-73.956386"
+    },
+    {
+        "id": 155,
+        "streetAddress": "62 East 92nd Street",
+        "lat": "40.7842393",
+        "long": "-73.955258"
+    },
+    {
+        "id": 156,
+        "streetAddress": "420 East 87th Street",
+        "lat": "40.7770465",
+        "long": "-73.9479432"
+    },
+    {
+        "id": 157,
+        "streetAddress": "593 Park Avenue",
+        "lat": "40.765841",
+        "long": "-73.9673386"
+    },
+    {
+        "id": 158,
+        "streetAddress": "543 Main Street",
+        "lat": "40.7618261",
+        "long": "-73.9500511"
+    },
+    {
+        "id": 159,
+        "streetAddress": "413 East 79th Street",
+        "lat": "40.7721222",
+        "long": "-73.9517608"
+    },
+    {
+        "id": 160,
+        "streetAddress": "310 East 67th Street",
+        "lat": "40.7651821",
+        "long": "-73.9599207"
+    },
+    {
+        "id": 161,
+        "streetAddress": "331 East 70th Street",
+        "lat": "40.766948",
+        "long": "-73.9577722"
+    },
+    {
+        "id": 162,
+        "streetAddress": "411 East 68th Street",
+        "lat": "40.7651081",
+        "long": "-73.957215"
+    },
+    {
+        "id": 163,
+        "streetAddress": "341 East 87th Street",
+        "lat": "40.7780211",
+        "long": "-73.9497263"
+    },
+    {
+        "id": 164,
+        "streetAddress": "109 West 129th Street",
+        "lat": "40.8106798",
+        "long": "-73.944244"
+    },
+    {
+        "id": 165,
+        "streetAddress": "240 West 145th Street",
+        "lat": "40.8222189",
+        "long": "-73.9408621"
+    },
+    {
+        "id": 166,
+        "streetAddress": "469 West 142nd Street",
+        "lat": "40.8232166",
+        "long": "-73.9484769"
+    },
+    {
+        "id": 167,
+        "streetAddress": "204 West 134th Street",
+        "lat": "40.8147959",
+        "long": "-73.9448542"
+    },
+    {
+        "id": 168,
+        "streetAddress": "2044 Adam Clayton Powell Blvd.",
+        "lat": "40.8072583",
+        "long": "-73.9499047"
+    },
+    {
+        "id": 169,
+        "streetAddress": "521 West 126th Street",
+        "lat": "40.8148408",
+        "long": "-73.9561515"
+    },
+    {
+        "id": 170,
+        "streetAddress": "2044 Seventh Avenue",
+        "lat": "40.8071759186691",
+        "long": "-73.9497519327616"
+    },
+    {
+        "id": 171,
+        "streetAddress": "127 West 127th Street",
+        "lat": "40.8095378",
+        "long": "-73.9453852"
+    },
+    {
+        "id": 172,
+        "streetAddress": "310 West 139th Street",
+        "lat": "40.8192096",
+        "long": "-73.9453784"
+    },
+    {
+        "id": 173,
+        "streetAddress": "409 West 141st Street",
+        "lat": "40.8215113",
+        "long": "-73.9463991"
+    },
+    {
+        "id": 174,
+        "streetAddress": "91 Claremont Avenue",
+        "lat": "40.8119559",
+        "long": "-73.9625116"
+    },
+    {
+        "id": 175,
+        "streetAddress": "1727 Amsterdam Avenue",
+        "lat": "40.8255289",
+        "long": "-73.9471616"
+    },
+    {
+        "id": 176,
+        "streetAddress": "219 West 132nd Street",
+        "lat": "40.8138548",
+        "long": "-73.9459315"
+    },
+    {
+        "id": 177,
+        "streetAddress": "211 West 129th Street",
+        "lat": "40.8119105",
+        "long": "-73.9471217"
+    },
+    {
+        "id": 178,
+        "streetAddress": "425 West 144th Street",
+        "lat": "40.8238524",
+        "long": "-73.9461167"
+    },
+    {
+        "id": 179,
+        "streetAddress": "506 Lenox Avenue",
+        "lat": "40.8143457",
+        "long": "-73.9403066"
+    },
+    {
+        "id": 180,
+        "streetAddress": "1854 Amsterdam Avenue",
+        "lat": "40.8295902",
+        "long": "-73.9446541"
+    },
+    {
+        "id": 181,
+        "streetAddress": "58 West 135th Street",
+        "lat": "40.8137051",
+        "long": "-73.9403147"
+    },
+    {
+        "id": 182,
+        "streetAddress": "35 East 125 Street",
+        "lat": "40.805958",
+        "long": "-73.940763"
+    },
+    {
+        "id": 183,
+        "streetAddress": "223 East 117th Street",
+        "lat": "40.7982106",
+        "long": "-73.9382769"
+    },
+    {
+        "id": 184,
+        "streetAddress": "2126 2nd Avenue",
+        "lat": "40.7927121",
+        "long": "-73.94069"
+    },
+    {
+        "id": 185,
+        "streetAddress": "22 East 119th Street",
+        "lat": "40.8021458",
+        "long": "-73.9442327"
+    },
+    {
+        "id": 186,
+        "streetAddress": "701 West 168th Street",
+        "lat": "40.8424566",
+        "long": "-73.9424508"
+    },
+    {
+        "id": 187,
+        "streetAddress": "715 West 179th Street",
+        "lat": "40.8492702",
+        "long": "-73.9382266"
+    },
+    {
+        "id": 188,
+        "streetAddress": "431 West 204th Street",
+        "lat": "40.8620966104922",
+        "long": "-73.9190004613749"
+    },
+    {
+        "id": 189,
+        "streetAddress": "550 West 155th Street",
+        "lat": "40.8321897",
+        "long": "-73.945059"
+    },
+    {
+        "id": 190,
+        "streetAddress": "557 West 156th Street",
+        "lat": "40.8333254",
+        "long": "-73.9446563"
+    },
+    {
+        "id": 191,
+        "streetAddress": "35 Thayer Street",
+        "lat": "40.8626147",
+        "long": "-73.9263819"
+    },
+    {
+        "id": 192,
+        "streetAddress": "502 West 165th Street",
+        "lat": "40.8378476619065",
+        "long": "-73.9384773058967"
+    },
+    {
+        "id": 193,
+        "streetAddress": "91 Arden Street",
+        "lat": "40.8639073",
+        "long": "-73.9282532"
+    },
+    {
+        "id": 194,
+        "streetAddress": "20 Cumming Street",
+        "lat": "40.8664723",
+        "long": "-73.9264521"
+    },
+    {
+        "id": 195,
+        "streetAddress": "84 Vermilyea Avenue",
+        "lat": "40.86596",
+        "long": "-73.9231447"
+    },
+    {
+        "id": 196,
+        "streetAddress": "620 Isham Street",
+        "lat": "40.8692449",
+        "long": "-73.9206611"
+    },
+    {
+        "id": 197,
+        "streetAddress": "2005 Amsterdam Avenue",
+        "lat": "40.8342553",
+        "long": "-73.9407968"
+    },
+    {
+        "id": 198,
+        "streetAddress": "178 Bennett Avenue",
+        "lat": "40.8560069",
+        "long": "-73.9342762"
+    }
+]

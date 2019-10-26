@@ -139,6 +139,7 @@
         "wheelchairacc": false,
         "zone": "3",
         "descr1": "Betw Park &amp; Lexington Avenues",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Wednesdays",
@@ -195,6 +196,7 @@
         "wheelchairacc": true,
         "zone": "3",
         "descr1": "@ Avenue B",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Thursdays",
@@ -232,6 +234,7 @@
         "wheelchairacc": false,
         "zone": "3",
         "descr1": "between 8th and 9th Avenue",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Tuesdays",
@@ -613,6 +616,7 @@
         "wheelchairacc": false,
         "zone": "3",
         "descr1": "Betw. 7th &amp; 8th Avenues",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Mondays",
@@ -638,6 +642,7 @@
         "wheelchairacc": false,
         "zone": "3",
         "descr1": "Betw. 7th &amp; 8th Avenues",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Tuesdays",
@@ -656,6 +661,7 @@
         "wheelchairacc": true,
         "zone": "3",
         "descr1": "Betw 7th &amp; 8th Avenues",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Sundays",
@@ -674,6 +680,7 @@
         "wheelchairacc": true,
         "zone": "3",
         "descr1": "@ East 20th Street &amp; Irving Place",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Tuesdays",
@@ -711,6 +718,7 @@
         "wheelchairacc": true,
         "zone": "3",
         "descr1": "at 8th Avenues",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Thursdays",
@@ -757,6 +765,7 @@
         "wheelchairacc": false,
         "zone": "3",
         "descr1": "downstairs",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Mondays",
@@ -885,6 +894,7 @@
         "wheelchairacc": true,
         "zone": "3",
         "descr1": "Betw. 7th &amp; 8th Avenues",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Sundays",
@@ -1315,6 +1325,7 @@
         "wheelchairacc": false,
         "zone": "3",
         "descr1": "Between 1st Avenue &amp; Avenue A",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Sundays",
@@ -1333,6 +1344,7 @@
         "wheelchairacc": false,
         "zone": "3",
         "descr1": "Betw 3rd Avenue &amp; Rutherford Place",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Saturdays",
@@ -1403,6 +1415,7 @@
         "wheelchairacc": false,
         "zone": "3",
         "descr1": "Betw. East 2nd &amp; 3rd Streets",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Sundays",
@@ -1421,6 +1434,7 @@
         "wheelchairacc": false,
         "zone": "3",
         "descr1": "Betw 7th &amp; 8th Avenues",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Saturdays",
@@ -1493,6 +1507,7 @@
         "wheelchairacc": false,
         "zone": "3",
         "descr1": "",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Fridays",
@@ -1549,6 +1564,7 @@
         "wheelchairacc": false,
         "zone": "3",
         "descr1": "Between Lexington Avenue and Third Avenue",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Sundays",
@@ -1567,6 +1583,7 @@
         "wheelchairacc": true,
         "zone": "3",
         "descr1": "Between First aqnd Second Avenues",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Sundays",
@@ -1679,13 +1696,6 @@
         "descr1": "Basement",
         "descr2": "Betw 1st Avenue &amp; Avenue A",
         "timesNtypes": {
-            "0": {
-                "datemeet": "s",
-                "timestart": "12:00 AM",
-                "timeend": "12:00 AM",
-                "meettype": "null",
-                "meetspecial": "null"
-            },
             "1": {
                 "datemeet": "Wednesdays",
                 "timestart": "6:15 AM",
@@ -2121,6 +2131,7 @@
         "wheelchairacc": true,
         "zone": "3",
         "descr1": "betw. 7th Ave and Greenwich Ave.",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Sundays",
@@ -2177,6 +2188,7 @@
         "wheelchairacc": false,
         "zone": "3",
         "descr1": "Betw 7th &amp; 8th Avenues",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Sundays",
@@ -2240,6 +2252,7 @@
         "wheelchairacc": true,
         "zone": "3",
         "descr1": "Betw. 1st &amp; 2nd Avenues",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Sundays",
@@ -2277,6 +2290,7 @@
         "wheelchairacc": true,
         "zone": "3",
         "descr1": "Betw. 7th &amp; 8th Avenues",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Tuesdays",
@@ -2321,6 +2335,7 @@
         "wheelchairacc": false,
         "zone": "3",
         "descr1": "Betw 7th &amp; 8th Avenues",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Tuesdays",
@@ -2339,6 +2354,7 @@
         "wheelchairacc": true,
         "zone": "3",
         "descr1": "Betw 7th &amp; 8th Avenues",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Saturdays",
@@ -2395,6 +2411,7 @@
         "wheelchairacc": false,
         "zone": "3",
         "descr1": "Betw 1st &amp; 2nd Avenue",
+        "descr2": "",
         "timesNtypes": {
             "0": {
                 "datemeet": "Fridays",

@@ -1,0 +1,1528 @@
+[
+	{
+		"streetAddress": "122 East 37th Street",
+		"zipcode": "10016",
+		"buildingName": "",
+		"meetingName": "Aa Literature",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "Basement",
+		"descr2": "Betw Park &amp; Lexington Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7483929",
+			"long": "-73.9787906",
+			"TAMUaddress": "122 E 37TH ST New York NY 10016",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "30 East 35th Street",
+		"zipcode": "10016",
+		"buildingName": "",
+		"meetingName": "Breakfast Club",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "Betw Madison &amp; Park Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Thursdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "O",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Fridays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Mondays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7496221",
+			"long": "-73.9855348",
+			"TAMUaddress": "30 E 35TH ST New York NY 10016",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "94.792899408284"
+		}
+	},
+	{
+		"streetAddress": "350 East 56th Street",
+		"zipcode": "10022",
+		"buildingName": "Cathedral High School",
+		"meetingName": "Carlyle",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "Betw 1st  &amp; 2nd Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "5:45 PM",
+				"timeend": "6:45 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Wednesdays",
+				"timestart": "5:45 PM",
+				"timeend": "6:45 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.757654",
+			"long": "-73.963834",
+			"TAMUaddress": "350 E 56TH ST New York NY 10022",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "619 Lexington Avenue",
+		"zipcode": "10022",
+		"buildingName": "St. Peter's Lutheran Church @ Citicorp Center",
+		"meetingName": "City Group",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "Lower Level Music Rooms",
+		"descr2": "Enter on 54th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Mondays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Fridays",
+				"timestart": "7:45 AM",
+				"timeend": "8:45 AM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Mondays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"5": {
+				"datemeet": "Mondays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"6": {
+				"datemeet": "Tuesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"7": {
+				"datemeet": "Thursdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			},
+			"8": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"9": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"10": {
+				"datemeet": "Thursdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"11": {
+				"datemeet": "Fridays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"12": {
+				"datemeet": "Fridays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"13": {
+				"datemeet": "Tuesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7588016",
+			"long": "-73.9704542",
+			"TAMUaddress": "619 LEXINGTON AVE New York NY 10022",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "122 East 37th Street",
+		"zipcode": "10016",
+		"buildingName": "",
+		"meetingName": "Courage To Change",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "Basement",
+		"descr2": "Betw. Park &amp; Lexington Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "12:45 PM",
+				"timeend": "1:45 PM",
+				"meettype": "S",
+				"meetspecial": "First Step Workshop"
+			},
+			"1": {
+				"datemeet": "Sundays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Sundays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "C",
+				"meetspecial": "Promises"
+			},
+			"3": {
+				"datemeet": "Mondays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"5": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"6": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"7": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"8": {
+				"datemeet": "Thursdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"9": {
+				"datemeet": "Fridays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"10": {
+				"datemeet": "Fridays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7483929",
+			"long": "-73.9787906",
+			"TAMUaddress": "122 E 37TH ST New York NY 10016",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "28 East 35th Street",
+		"zipcode": "10016",
+		"buildingName": "J.H. Holmes Community House",
+		"meetingName": "Empire State",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "upstairs",
+		"descr2": "through red door",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Fridays",
+				"timestart": "12:15 PM",
+				"timeend": "1:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7496065",
+			"long": "-73.9854965",
+			"TAMUaddress": "28 E 35TH ST New York NY 10016",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "94.792899408284"
+		}
+	},
+	{
+		"streetAddress": "350 East 56th Street",
+		"zipcode": "10022",
+		"buildingName": "Cathedral High School ",
+		"meetingName": "Gotham",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "56th Street &amp; First Avenue",
+		"descr2": "3rd Floor Library",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Sundays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Sundays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Tuesdays",
+				"timestart": "5:45 PM",
+				"timeend": "6:45 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.757654",
+			"long": "-73.963834",
+			"TAMUaddress": "350 E 56TH ST New York NY 10022",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "283 Lexington Avenue",
+		"zipcode": "10016",
+		"buildingName": "Soldiers, Sailors, Marines & Airmen's Club",
+		"meetingName": "Grand Central",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "2nd Floor",
+		"descr2": "Betw 36th &amp; 37th Streets",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Fridays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "C",
+				"meetspecial": "First Step Workshop"
+			},
+			"3": {
+				"datemeet": "Wednesdays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Thursdays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7479969",
+			"long": "-73.9783809",
+			"TAMUaddress": "283 LEXINGTON AVE New York NY 10016",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "122 East 37th Street",
+		"zipcode": "10016",
+		"buildingName": "",
+		"meetingName": "Grupo Brasil",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "Basement",
+		"descr2": "Betw. Park &amp; Lexington Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Fridays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7483929",
+			"long": "-73.9787906",
+			"TAMUaddress": "122 E 37TH ST New York NY 10016",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "619 Lexington Avenue",
+		"zipcode": "10022",
+		"buildingName": "St. Peter's Lutheran Church @ CitiCorp Center",
+		"meetingName": "Life Line",
+		"wheelchairacc": true,
+		"zone": "5",
+		"descr1": "Lower Level 2 in The Studio",
+		"descr2": "Enter on 54th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Fridays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7588016",
+			"long": "-73.9704542",
+			"TAMUaddress": "619 LEXINGTON AVE New York NY 10022",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "141 East 43rd Street",
+		"zipcode": "10017",
+		"buildingName": "Saint Agnes Church",
+		"meetingName": "Lunch Bunch",
+		"wheelchairacc": true,
+		"zone": "5",
+		"descr1": "Basement Hall",
+		"descr2": "elevator is available.",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Tuesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Thursdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Fridays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7518754",
+			"long": "-73.9747248",
+			"TAMUaddress": "141 E 43RD ST New York NY 10017",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "122 East 37TH Street",
+		"zipcode": "10016",
+		"buildingName": "MUSTARD SEED",
+		"meetingName": "Lunchtime Express At The Mustard Seed",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "Btw. Park and Lexington",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:15 PM",
+				"meettype": "O",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7483929",
+			"long": "-73.9787906",
+			"TAMUaddress": "122 E 37TH ST New York NY 10016",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "122 East 37th Street",
+		"zipcode": "10016",
+		"buildingName": "Mustard Seed",
+		"meetingName": "Meditation Saturday Night",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "Betw. Park &amp; Lexington Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "null",
+				"meetspecial": "Eleventh Step Meditation"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7483929",
+			"long": "-73.9787906",
+			"TAMUaddress": "122 E 37TH ST New York NY 10016",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "141 East 43rd Street",
+		"zipcode": "10017",
+		"buildingName": "St. Agnes Church",
+		"meetingName": "Monday Men",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "Betw. Lexington &amp; 3rd Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Thursdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Mondays",
+				"timestart": "7:15 PM",
+				"timeend": "8:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7518754",
+			"long": "-73.9747248",
+			"TAMUaddress": "141 E 43RD ST New York NY 10017",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "209 Madison Avenue",
+		"zipcode": "10016",
+		"buildingName": "Church of the Incarnation",
+		"meetingName": "Murray Hill",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "2nd Floor",
+		"descr2": "Enter through side door @ 35th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Mondays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7486487",
+			"long": "-73.9821254",
+			"TAMUaddress": "209 MADISON AVE New York NY 10016",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "122 East 37th Street",
+		"zipcode": "10016",
+		"buildingName": "",
+		"meetingName": "Mustard Seed",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "Basement",
+		"descr2": "Betw Park &amp; Lexington Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:15 AM",
+				"timeend": "7:15 AM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Thursdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"3": {
+				"datemeet": "Thursdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"4": {
+				"datemeet": "Wednesdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"5": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"6": {
+				"datemeet": "Mondays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"7": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"8": {
+				"datemeet": "Sundays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"9": {
+				"datemeet": "Mondays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"10": {
+				"datemeet": "Fridays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"11": {
+				"datemeet": "Thursdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"12": {
+				"datemeet": "Saturdays",
+				"timestart": "8:00 AM",
+				"timeend": "9:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"13": {
+				"datemeet": "Saturdays",
+				"timestart": "8:00 AM",
+				"timeend": "9:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"14": {
+				"datemeet": "Thursdays",
+				"timestart": "8:00 AM",
+				"timeend": "9:00 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"15": {
+				"datemeet": "Sundays",
+				"timestart": "8:15 AM",
+				"timeend": "9:15 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"16": {
+				"datemeet": "Thursdays",
+				"timestart": "9:30 AM",
+				"timeend": "10:30 AM",
+				"meettype": "C",
+				"meetspecial": "Daily Reflections"
+			},
+			"17": {
+				"datemeet": "Wednesdays",
+				"timestart": "9:30 AM",
+				"timeend": "10:30 AM",
+				"meettype": "C",
+				"meetspecial": "Daily Reflections"
+			},
+			"18": {
+				"datemeet": "Tuesdays",
+				"timestart": "9:30 AM",
+				"timeend": "10:30 AM",
+				"meettype": "C",
+				"meetspecial": "Daily Reflections"
+			},
+			"19": {
+				"datemeet": "Mondays",
+				"timestart": "9:30 AM",
+				"timeend": "10:30 AM",
+				"meettype": "C",
+				"meetspecial": "Daily Reflections"
+			},
+			"20": {
+				"datemeet": "Sundays",
+				"timestart": "9:30 AM",
+				"timeend": "10:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"21": {
+				"datemeet": "Sundays",
+				"timestart": "9:30 AM",
+				"timeend": "10:30 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"22": {
+				"datemeet": "Saturdays",
+				"timestart": "9:30 AM",
+				"timeend": "10:30 AM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"23": {
+				"datemeet": "Fridays",
+				"timestart": "9:30 AM",
+				"timeend": "10:30 AM",
+				"meettype": "C",
+				"meetspecial": "Daily Reflections"
+			},
+			"24": {
+				"datemeet": "Saturdays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"25": {
+				"datemeet": "Sundays",
+				"timestart": "11:00 AM",
+				"timeend": "12:00 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"26": {
+				"datemeet": "Fridays",
+				"timestart": "11:30 AM",
+				"timeend": "12:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"27": {
+				"datemeet": "Thursdays",
+				"timestart": "11:30 AM",
+				"timeend": "12:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"28": {
+				"datemeet": "Wednesdays",
+				"timestart": "11:30 AM",
+				"timeend": "12:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"29": {
+				"datemeet": "Tuesdays",
+				"timestart": "11:30 AM",
+				"timeend": "12:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"30": {
+				"datemeet": "Mondays",
+				"timestart": "11:30 AM",
+				"timeend": "12:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"31": {
+				"datemeet": "Saturdays",
+				"timestart": "12:45 PM",
+				"timeend": "1:45 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"32": {
+				"datemeet": "Fridays",
+				"timestart": "12:45 PM",
+				"timeend": "1:45 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"33": {
+				"datemeet": "Thursdays",
+				"timestart": "12:45 PM",
+				"timeend": "1:45 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"34": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:45 PM",
+				"timeend": "1:45 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"35": {
+				"datemeet": "Tuesdays",
+				"timestart": "12:45 PM",
+				"timeend": "1:45 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"36": {
+				"datemeet": "Mondays",
+				"timestart": "12:45 PM",
+				"timeend": "1:45 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"37": {
+				"datemeet": "Sundays",
+				"timestart": "12:45 PM",
+				"timeend": "1:45 PM",
+				"meettype": "S",
+				"meetspecial": "First Step Workshop"
+			},
+			"38": {
+				"datemeet": "Sundays",
+				"timestart": "3:00 PM",
+				"timeend": "4:00 PM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			},
+			"39": {
+				"datemeet": "Fridays",
+				"timestart": "3:15 PM",
+				"timeend": "4:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"40": {
+				"datemeet": "Thursdays",
+				"timestart": "3:15 PM",
+				"timeend": "4:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"41": {
+				"datemeet": "Wednesdays",
+				"timestart": "3:15 PM",
+				"timeend": "4:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"42": {
+				"datemeet": "Tuesdays",
+				"timestart": "3:15 PM",
+				"timeend": "4:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"43": {
+				"datemeet": "Mondays",
+				"timestart": "3:15 PM",
+				"timeend": "4:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"44": {
+				"datemeet": "Saturdays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"45": {
+				"datemeet": "Sundays",
+				"timestart": "6:15 PM",
+				"timeend": "7:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"46": {
+				"datemeet": "Fridays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"47": {
+				"datemeet": "Thursdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"48": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"49": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"50": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"51": {
+				"datemeet": "Mondays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"52": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"53": {
+				"datemeet": "Fridays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			},
+			"54": {
+				"datemeet": "Saturdays",
+				"timestart": "7:30 PM",
+				"timeend": "8:30 PM",
+				"meettype": "null",
+				"meetspecial": "Meditation"
+			},
+			"55": {
+				"datemeet": "Tuesdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"56": {
+				"datemeet": "Sundays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"57": {
+				"datemeet": "Thursdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "C",
+				"meetspecial": "Men"
+			},
+			"58": {
+				"datemeet": "Wednesdays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"59": {
+				"datemeet": "Mondays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "B",
+				"meetspecial": "Women"
+			},
+			"60": {
+				"datemeet": "Fridays",
+				"timestart": "10:00 PM",
+				"timeend": "11:00 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7483929",
+			"long": "-73.9787906",
+			"TAMUaddress": "122 E 37TH ST New York NY 10016",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "619 Lexington Avenue",
+		"zipcode": "10022",
+		"buildingName": "St. Peter's Lutheran Church @ CitiCorp Center",
+		"meetingName": "Rebellion Dogs",
+		"wheelchairacc": true,
+		"zone": "5",
+		"descr1": "Lower Level",
+		"descr2": "Enter on 54th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "C",
+				"meetspecial": "Living Sober"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7588016",
+			"long": "-73.9704542",
+			"TAMUaddress": "619 LEXINGTON AVE New York NY 10022",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "240 East 31st Street",
+		"zipcode": "10016",
+		"buildingName": "Church of the Good Shepherd",
+		"meetingName": "Saturday East",
+		"wheelchairacc": true,
+		"zone": "5",
+		"descr1": "",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "4:00 PM",
+				"timeend": "5:00 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7430963",
+			"long": "-73.9780494",
+			"TAMUaddress": "240 E 31ST ST New York NY 10016",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "114 East 35th Street",
+		"zipcode": "10016",
+		"buildingName": "The New York New Church",
+		"meetingName": "Saturday Step",
+		"wheelchairacc": true,
+		"zone": "5",
+		"descr1": "2nd Floor",
+		"descr2": "Betw. Park &amp; Lexington Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "10:00 AM",
+				"timeend": "11:00 AM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7473169",
+			"long": "-73.9800724",
+			"TAMUaddress": "114 E 35TH ST New York NY 10016",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "230 East 60th Street",
+		"zipcode": "10022",
+		"buildingName": "ALL SAINTS CHURCH",
+		"meetingName": "Serenity East",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "Betw 2nd &amp; 3rd Avenues",
+		"descr2": "Basement",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "7:30 AM",
+				"timeend": "8:30 AM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Fridays",
+				"timestart": "6:30 PM",
+				"timeend": "7:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Fridays",
+				"timestart": "8:00 PM",
+				"timeend": "9:00 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7615607",
+			"long": "-73.9649474",
+			"TAMUaddress": "230 E 60TH ST New York NY 10022",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "244 East 58th Street",
+		"zipcode": "10022",
+		"buildingName": "Caron Foundation",
+		"meetingName": "Serenity East (I)",
+		"wheelchairacc": true,
+		"zone": "5",
+		"descr1": "Between 2nd and 3rd Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "5:30 PM",
+				"timeend": "6:30 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7600925",
+			"long": "-73.9653811",
+			"TAMUaddress": "244 E 58TH ST New York NY 10022",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "619 Lexington Avenue",
+		"zipcode": "10022",
+		"buildingName": "St. Peter's Lutheran Church @ CitiCorp Center",
+		"meetingName": "Silkworth Women's",
+		"wheelchairacc": true,
+		"zone": "5",
+		"descr1": "Lower Level",
+		"descr2": "Enter on 54th Street",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "Women"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7588016",
+			"long": "-73.9704542",
+			"TAMUaddress": "619 LEXINGTON AVE New York NY 10022",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "325 Park Avenue",
+		"zipcode": "10022",
+		"buildingName": "St. Bartholomew's Church",
+		"meetingName": "St. Bart's Twelve",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "Betw. East 50th &amp; 51st Streets",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Fridays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "BB",
+				"meetspecial": "null"
+			},
+			"1": {
+				"datemeet": "Mondays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "C",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Wednesdays",
+				"timestart": "12:30 PM",
+				"timeend": "1:30 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7574552",
+			"long": "-73.9733937",
+			"TAMUaddress": "325 PARK AVE New York NY 10022",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "236 EAST 31st Street",
+		"zipcode": "10016",
+		"buildingName": "CHURCH OF THE GOOD SHEPARD",
+		"meetingName": "Straight 12",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "basement",
+		"descr2": "BETWEEN 2nd and 3rd AVENUES",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Saturdays",
+				"timestart": "6:00 PM",
+				"timeend": "7:00 PM",
+				"meettype": "C",
+				"meetspecial": "Promises"
+			},
+			"1": {
+				"datemeet": "Saturdays",
+				"timestart": "7:15 PM",
+				"timeend": "8:15 PM",
+				"meettype": "B",
+				"meetspecial": "null"
+			},
+			"2": {
+				"datemeet": "Saturdays",
+				"timestart": "8:30 PM",
+				"timeend": "9:30 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.74314",
+			"long": "-73.9781525",
+			"TAMUaddress": "236 E 31ST ST New York NY 10016",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "308 East 55th Street",
+		"zipcode": "10022",
+		"buildingName": "Conservative Synagogue",
+		"meetingName": "Templeton",
+		"wheelchairacc": false,
+		"zone": "5",
+		"descr1": "Betw 1st &amp; 2nd Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7576943",
+			"long": "-73.9657436",
+			"TAMUaddress": "308 E 55TH ST New York NY 10022",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "244 East 58th Street",
+		"zipcode": "10022",
+		"buildingName": "The Caron Foundation",
+		"meetingName": "Trafalgar",
+		"wheelchairacc": true,
+		"zone": "5",
+		"descr1": "Betw. 2nd &amp; 3rd Avenues",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Tuesdays",
+				"timestart": "6:45 PM",
+				"timeend": "7:45 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7600925",
+			"long": "-73.9653811",
+			"TAMUaddress": "244 E 58TH ST New York NY 10022",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "244 East 58th Street",
+		"zipcode": "10022",
+		"buildingName": "Caron Foundation",
+		"meetingName": "Tudor",
+		"wheelchairacc": true,
+		"zone": "5",
+		"descr1": "Lower Level",
+		"descr2": "Betw. 2nd &amp; 3rd Avenues",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Thursdays",
+				"timestart": "6:15 PM",
+				"timeend": "7:15 PM",
+				"meettype": "OD",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7600925",
+			"long": "-73.9653811",
+			"TAMUaddress": "244 E 58TH ST New York NY 10022",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	},
+	{
+		"streetAddress": "109 East 50th Street",
+		"zipcode": "10022",
+		"buildingName": "",
+		"meetingName": "Women's Eleventh Step",
+		"wheelchairacc": true,
+		"zone": "5",
+		"descr1": "Between Park &amp; Lexington",
+		"descr2": "",
+		"timesNtypes": {
+			"0": {
+				"datemeet": "Wednesdays",
+				"timestart": "5:45 PM",
+				"timeend": "7:15 PM",
+				"meettype": "S",
+				"meetspecial": "null"
+			}
+		},
+		"GeoInfo": {
+			"lat": "40.7569178",
+			"long": "-73.97309",
+			"TAMUaddress": "109 E 50TH ST New York NY 10022",
+			"MatchType": "Success",
+			"StatusCode": "200",
+			"MatchScore": "100"
+		}
+	}
+]
