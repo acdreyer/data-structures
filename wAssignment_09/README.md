@@ -94,9 +94,13 @@ An example of the output for a database query is shown as well:
 ![Database query](./images/wa09_query3.PNG)
 
 
+### Verification:
+--------------------------
 
-
-
+The outputs were checked again and verified to be working after 1 and 2 days:
+![Database query](./images/wa09_pm2b.PNG)
+![Database query](./images/wa09_pm2c.PNG)
+![Database query](./images/wa09_query_2days.PNG)
 
 
 
@@ -105,6 +109,5 @@ An example of the output for a database query is shown as well:
 
 The is intented to be run on Cloud9 where all dependencies for development is already available;
 [aws-sdk](https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/) (for email services),  
-[pm2](https://pm2.keymetrics.io/docs/usage/pm2-doc-single-page/)
-[dotenv](https://www.npmjs.com/package/dotenv) and [pg](https://node-postgres.com/).
+[pm2](https://pm2.keymetrics.io/docs/usage/pm2-doc-single-page/) and [dotenv](https://www.npmjs.com/package/dotenv) and [pg](https://node-postgres.com/).
 
