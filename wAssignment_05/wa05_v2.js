@@ -138,10 +138,142 @@ blogEntries.push(new BlogEntry('Processblog', '10-09-2019',
 'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191009_115414.jpg',
 ["Stayed home"]));
 
+// ---------------------------------------lull
+// ---------------------------------------lull
+
+blogEntries.push(new BlogEntry('Thoughts', '10-10-2019', 
+"A thought-provoking presentation on the use of data-viz in Major studio today.\
+The morphing effect between africa and USA was striking.", 
+["Data Viz"],
+'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191010_124006.jpg',
+["Class"]));
 
 
 
+blogEntries.push(new BlogEntry('Thoughts', '10-12-2019', 
+"Today was my birthday.\
+It gave me time to stroll in the park and reflect on my life journey so far.\
+I'm grateful to be doing what I'm doing now.", 
+["Reflection"],
+'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191012_175416.jpg',
+["Central Park"]));
 
+
+blogEntries.push(new BlogEntry('Thoughts', '10-13-2019', 
+"This bad boy was parked in the street.\
+Having a motorbike in the city might be useful for parking spaces.\
+However, I don't know how dangerous it would be. Would be interesting to find out.", 
+["Vehicles"],
+'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191013_121804.jpg',
+["Shopping"]));
+
+
+
+blogEntries.push(new BlogEntry('Thoughts', '10-15-2019', 
+"The O'Nassis reservoir never stops supplying beautiful sights.\
+The calm fall weather gives still water with beautiful reflections.", 
+["Sunsets"],
+'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191015_184102.jpg',
+["Central Park"]));
+
+
+
+blogEntries.push(new BlogEntry('Thoughts', '10-19-2019', 
+"Today I went to a talk by Julie Andrews; she presented her new book on her Hollywood years. \
+I did not know she was still alive, but she is a real lady. Very diplomatic and conscientious. \
+When someone asked her if she preferred musicals over other movies, she said that all types of \
+movies are nice...although she must say there is something extra special about musicals. \
+Another person asked who'd she recommend playing her in a movie of her life, to which she replied \
+that she couldn't say, because there are so many good upcoming actresses that might not have been \
+discovered yet.", 
+["Events", "Julie Andrews"],
+'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191019_191841.jpg',
+["A talk"]));
+
+
+blogEntries.push(new BlogEntry('Thoughts', '10-23-2019', 
+"The Subway is an interesting place. Today coming late from class there were only a few \
+people on the station and I caught some perspective. ", 
+["Subway"],
+'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191023_223214.jpg',
+["Class"]));
+
+
+blogEntries.push(new BlogEntry('IoT', '10-24-2019', 
+"The IoT project is one of my favourites. I built the starter circuit so long \
+before I got time to solder the temperature sensor. The breadboard makes it easy. ", 
+["IoT stuff"],
+'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191024_093307.jpg',
+["Class"]));
+
+
+blogEntries.push(new BlogEntry('IoT', '10-24-2019 08:00:00', 
+"I soldered the temperature sensor yesterday. When the solder is shiny you know it is good. \
+I also researched on what the pins mean. It uses a digital serail I2C protocol on the SCL and SDA \
+pins, with the address hardwired on some of the other by adding a voltage (or not). \
+If done correctly you can string a few of these on the same input lines to the Particle Photon.", 
+["IoT stuff"],
+'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191024_093331.jpg',
+["Class"]));
+
+blogEntries.push(new BlogEntry('IoT', '10-24-2019 09:00:00', 
+"This is the board all wired up.", 
+["IoT stuff"],
+'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191024_093428.jpg',
+["Class"]));
+
+blogEntries.push(new BlogEntry('IoT', '10-24-2019 10:00:00', 
+"Connection success when the LED is breathing Cyan!", 
+["IoT stuff"],
+'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191024_100123.jpg',
+["Class"]));
+
+blogEntries.push(new BlogEntry('Thoughts', '10-24-2019 17:00:00', 
+"The first flashing of the code. Done from the library to the device in my room. \
+Did I mention I love this type of stuff?", 
+["Events"],
+'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191024_110417.jpg',
+["Class"]));
+
+
+blogEntries.push(new BlogEntry('IoT', '10-26-2019 23:00:00', 
+"The light breathing cyan is nice, but very bright. \
+I have to cover it sometimes to not keep me awake at night. \
+I'm ok with that...", 
+["IoT stuff"],
+'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191026_193800.jpg',
+["Sleep"]));
+
+
+blogEntries.push(new BlogEntry('Thoughts', '10-26-2019 19:30:00', 
+"This was the 18th Century Scandanavia Nordic Accord Chamber orchestra. \
+Suberb music from Telemann and others. The Norwegian Cornetto player was especially good. \
+(Not to mention the huge organ Aerophone behind them...wished I could hear how it sounds. \
+The building had a very high ceiling and good acoustics. \
+The event inspired me to delve into Aerophones for the Major Studio project...", 
+["Events","Musical"],
+'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191026_011855.jpg',
+["A show"]));
+
+
+
+blogEntries.push(new BlogEntry('Thoughts', '10-28-2019 17:30:00', 
+"The skies are cloudy today and winter is coming. \
+Nice to see how the different patterns emerge. ", 
+["Clouds"],
+'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191028_180712.jpg',
+["Central Park"]));
+
+
+
+blogEntries.push(new BlogEntry('IoT', '10-30-2019 10:00:00', 
+"Although this isn't strictly a requirement for the course, I bought a lot of extra stuff. \
+For the IoT project from Sparkfun.com. If there is time I want to see how many sensor I can add. \
+In order not to break the primary project, I bought another photon to run in parallel. \
+Hope I can make it work. ", 
+["Sensors"],
+'https://github.com/acdreyer/data-structures/blob/master/wAssignment_05/images/20191030_102740.jpg',
+["Class"]));
 
 
 
