@@ -24,9 +24,9 @@ client.connect();
 
 // Sample SQL statements for checking your work: 
 // var thisQuery = "SELECT * FROM particlewave;"; // print all values
-var thisQuery = "WITH t AS (SELECT * FROM particlewave ORDER BY DBtime DESC limit 200) SELECT * FROM t ORDER BY DBtime ASC ;"; // print all values
-var secondQuery = "SELECT COUNT (*) FROM particlewave;"; // print the number of rows
-var thirdQuery = "SELECT tempsensor, COUNT (*) FROM particlewave GROUP BY tempsensor;"; // print the number of rows for each sensorValue
+var thisQuery = "WITH t AS (SELECT * FROM particleelectron ORDER BY DBtime DESC limit 20) SELECT * FROM t ORDER BY DBtime ASC ;"; // print all values
+var secondQuery = "SELECT COUNT (*) FROM particleelectron;"; // print the number of rows
+// var thirdQuery = "SELECT tempsensorRM COUNT (*) FROM particleelectron GROUP BY tempsensorRM;"; // print the number of rows for each sensorValue
 
 
 // SELECT * FROM mytable ORDER BY record_date DESC LIMIT 5;
@@ -44,10 +44,10 @@ client.query(secondQuery, (err, res) => {
     }
 });
 
-client.query(thirdQuery, (err, res) => {
-    if (err) {throw err}
-    else {
-    console.table(res.rows);
-    }
-    client.end();
-});
+// client.query(thirdQuery, (err, res) => {
+//     if (err) {throw err}
+//     else {
+//     console.table(res.rows);
+//     }
+//     client.end();
+// });
