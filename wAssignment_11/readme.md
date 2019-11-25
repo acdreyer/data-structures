@@ -127,8 +127,10 @@ every minute accross a month, hence monthly data will be averaged over hours or 
 on data plotted by week. Averaging will be done in the database query as far as possible in order to limit the 
 burden of transferring data points over the network. The query will be constructed using the `AVG` command
 over time data per hour and/or minute intervals.
+Depending on performance, it is also planned to add a view that shows the daily maxima and minima as an offset line graph.
 
-* The default view is planned as data for the past week.
+* The default view is planned as data for the past day or week.
+* 
 * It is assumed the user will have some basic understanding of line charts and basic abilities to interact 
 with web pages.
 
