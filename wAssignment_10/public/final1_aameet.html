@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+
+
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    
+</head>
+
+
+
+
+
+<body>
+    <div class="aameetingspage">
+
+    <h1>AA meetings data </h1>
+    <a href='/'>Navigate to main page</a>
+    
+<br>       
+Days
+<form action="/aameetings" method="POST">
+<select name='dayDropdownSelect' onchange='this.form.submit()'>
+  <option value="" selected disabled hidden>Choose here</option>
+  <option value="alldays" >All days</option>
+  <option value="Mondays" >Mondays</option>
+  <option value="Tuesdays">Tuesdays</option>
+  <option value="Wednesdays">Wednesdays</option>
+  <option value="Thursdays">Thursdays</option>
+  <option value="Fridays">Fridays</option>
+  <option value="Saturdays">Saturdays</option>
+  <option value="Sundays">Sundays</option>
+</select>
+<noscript><input type="submit" value="Submit"></noscript>
+</form>
+
+Times
+<form action="/aameetings" method="POST">
+<select name='timeDropdownSelect' onchange='this.form.submit()'>
+    <option value="" selected disabled hidden>Choose here</option>
+  <!--<option value="alltimes" selected>All times</option>-->
+  <option value="alltimes">All times</option>
+  <option value="morning">6:00AM - 12:00 noon</option>
+  <option value="midday">11:00AM - 5:00PM</option>
+  <option value="evening">4:00PM - 9:00PM</option>
+  <option value="night">8:00PM - 11:00PM</option>
+</select>
+<noscript><input type="submit" value="Submit"></noscript>
+</form>
+
+<!--<form action="/aameetings" method="POST">-->
+<!--<select name='typeDropdownSelect' onchange='this.form.submit()'>-->
+<!--  <option value="alltimes" selected>All types</option>-->
+<!--</select>-->
+<!--<noscript><input type="submit" value="Submit"></noscript>-->
+<!--</form>-->
+
+
+   <!--{{filtmeetdata}} -->
+
+
+
+
+    </div>
+
+
+    <!--bootstrap links in this order; jquery, popper, bootstrap-->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+</body>
+
+<!--<footer>-->
+<!--    <text> Requested at {{time}} </text>-->
+<!--</footer>-->
+
+
+
+</html>
