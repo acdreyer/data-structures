@@ -209,14 +209,14 @@ if (meetdaysSelect == "alldays" && meettimesSelect == "alltimes"){
 }
 else if (meetdaysSelect == "alldays" && meettimesSelect != "alltimes"){
     var aameetingQuery1 = "SELECT lat, long, json_agg(json_build_object('bldNm', buildingname, 'addr', address, 'time', timestart, 'name', meetingname, 'day', days, 'typ', meetingtype, 'wch', wheelchair)) as meetings\
-                 FROM aameetflat WHERE timestart >= '"+ timestart + "' GROUP BY lat, long;";
+                 FROM aameetflat WHERE timestart >= '"+ timestart + "' and timeend <= '"+ timeend + "' GROUP BY lat, long;";
 
 } else if (meettimesSelect == "alltimes" && meetdaysSelect != "alldays"){
     var aameetingQuery1 = "SELECT lat, long, json_agg(json_build_object('bldNm', buildingname, 'addr', address, 'time', timestart, 'name', meetingname, 'day', days, 'typ', meetingtype, 'wch', wheelchair)) as meetings\
                  FROM aameetflat WHERE days = '" + meetdaysSelect + "' GROUP BY lat, long;";
 } else {
     var aameetingQuery1 = "SELECT lat, long, json_agg(json_build_object('bldNm', buildingname, 'addr', address, 'time', timestart, 'name', meetingname, 'day', days, 'typ', meetingtype, 'wch', wheelchair)) as meetings\
-                 FROM aameetflat WHERE days = '" + meetdaysSelect + "' and timestart >= '"+ timestart + "' GROUP BY lat, long;";
+                 FROM aameetflat WHERE days = '" + meetdaysSelect + "' and timestart >= '"+ timestart + "' or timestart <= '"+ timeend + "' GROUP BY lat, long;";
 }
 
     console.log(aameetingQuery1);
@@ -326,6 +326,116 @@ app.get('/sensor', function(req, res) {
 }); //sensor
 
 
+
+
+
+// ---------------------------------------------------------------
+// Sensor data 2
+// ---------------------------------------------------------------
+app.get('/sensor2', function(req, res) {
+    // res.send('<h3>this is the page for my sensor data</h3>');
+//  SQL statements for sensors: 
+var sensorQuery4 = "SELECT MIN(tempsensor) FROM particlewave;"; // print all values
+var sensorQuery5 = "SELECT COUNT (*) FROM particlewave;"; // print the number of rows
+// var sensorQuery3 = "WITH t AS (SELECT * FROM particlewave ORDER BY DBtime DESC limit 20) SELECT * FROM t ORDER BY DBtime DESC ;";
+
+// var sensorQuery6 = "SELECT EXTRACT(DAY FROM DBtime) as sensorday, AVG(tempsensor::int) as num_obs\
+//              FROM particlewave GROUP BY sensorday ORDER BY sensorday;"
+// 
+
+
+// var sensorQuery6 =  "SELECT tempsensor2, (SELECT avg(t2.col) from weatherstation t2 where t2.timestamp >= weatherstation.timestamp and\
+//               t2.timestamp < weatherstation.timestamp + interval '15 minute'        ) as future_15min_avg\
+//             FROM weatherstation;"
+
+
+//https://stackoverflow.com/questions/13818524/moving-average-based-on-timestamps-in-postgresql
+// join table to itself in order to get moving average temperature values
+// var sensorQuery6 = "SELECT l1.DBtime, AVG( l2.tempsensor2 )\
+// FROM weatherstation \
+//     l1 INNER JOIN weatherstation l2 ON l2.DBtime <= l1.DBtime AND \
+//       l2.DBtime + INTERVAL '15 minutes' > l1.DBtime GROUP BY l1.DBtime ORDER BY DBtime DESC;"
+var sensorQuery6 = "SELECT EXTRACT(hour FROM l1.DBtime) as sensorhour, MAX( l2.tempsensor2 )\
+FROM weatherstation \
+    l1 INNER JOIN weatherstation l2 ON l2.DBtime <= l1.DBtime AND \
+      l2.DBtime + INTERVAL '60 minutes' > l1.DBtime GROUP BY sensorhour ORDER BY sensorhour DESC;"
+            
+            
+
+console.log(sensorQuery6)
+// var sensorQuery3 = "SELECT tempsensor, COUNT (*) FROM particlewave GROUP BY tempsensor;"; // print the number of rows for each sensorValue
+var sensorHtmlString = [];
+var keepresult = [];
+var keepresult2 = {};
+var keepresult3 = [];
+
+    var output ={};
+    
+    
+    sensorHtmlString.push("<h1>IoT sensor data </h1>");
+    sensorHtmlString.push("<h1>Daily maximima</h1>");
+    sensorHtmlString.push("<a href='/'>Navigate to main page</a>");
+
+    // Connect to the AWS RDS Postgres database
+    const client = new Client(db_credentials);
+    client.connect();
+
+    client.query(sensorQuery4, (err, res1) => {
+        if (err) { throw err }
+        else {
+            console.table(res1.rows);
+            // console.log(res1);
+            keepresult.push(res1.rows[0].min);
+            keepresult2.minval = res1.rows[0].min;
+            // console.log(keepresult);
+
+            // nested query
+            client.query(sensorQuery5, (err, res2) => {
+                if (err) { console.log(err) }
+                else {
+                    console.table(res2.rows);
+                    // console.log(res2);
+                    keepresult.push(res2.rows[0].count);
+                    keepresult2.countval = res2.rows[0].count;
+                    // console.log(keepresult2);
+
+
+                    client.query(sensorQuery6, (err, res6) => {
+                        if (err) { console.log(err) }
+                        else {
+                            console.table(res6.rows);
+                            // console.log(res6);
+                            keepresult3 = res6;
+                            // keepresult.push(res3.rows[0].count);
+                            // keepresult2.countval = res3.rows[0].count;
+                            // console.log("keepresult3 " + keepresult3);
+
+
+                            // send query
+                            // sensorHtmlString.push("<p>The minimum temperature: " + keepresult2.minval)
+                            sensorHtmlString.push("<br> The total amount of readings: " + keepresult2.countval)
+                            keepresult3.rows.forEach(function(val) {
+                                // sensorHtmlString.push("<p>Temperature : " + val.tempsensor + " Time: " + val.dbtime.toLocaleString('en-US', { timeZone: 'America/New_York' }));
+                                sensorHtmlString.push("<p>Max Temp. : " + val.max + " Hour: " + val.sensorhour.toLocaleString('en-US', { timeZone: 'America/New_York' }));
+                            // console.log(val)
+                            });
+                            // console.log(sensorHtmlString.join(" "));
+                            res.send(sensorHtmlString.join(" "));
+                            sensorHtmlString = [];
+
+                        } //if else inner
+                    }); //nested query
+
+
+                } //if else inner
+
+
+            }); //nested query
+        } //ifelse outer
+    }); //client.query
+
+
+}); //sensor
 
 
 

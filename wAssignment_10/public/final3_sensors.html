@@ -18,18 +18,21 @@
 
 
 <body>
-    <div class="mainpage">
+    <div class="sensordata">
 
-        <!--<h1>{{title}}</h1>-->
-        <!--<div class="body">-->
-        <!--    {{body}}-->
-        <!--</div>-->
-        <h1>Data Structures Final Assignments</h1>
-        <ul>
-            <li><a href="/aameetings">AA meetings data</a> </li>
-            <li><a href="/sensor">Sensor Data</a> </li>
-            <li><a href="/processblog">Process Blog</a> </li>
-        </ul>
+    <h1>IoT sensor data </h1>
+    <a href='/'>Navigate to main page</a>
+  
+<br>       
+Days
+<form action="/aameetings" method="POST">
+<select name='dayDropdownSelect' onchange='this.form.submit()'>
+  <option value="" selected disabled hidden>Choose here</option>
+  <option value="alldays" >All days</option>
+  <option value="Mondays" >Mondays</option>
+</select>
+<noscript><input type="submit" value="Submit"></noscript>
+</form>
 
     </div>
 
