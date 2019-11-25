@@ -36,6 +36,12 @@ meeting times were grouped the same as the official AA meeting page; with
 ranges of morning, midday, evening and night.
 
 
+```
+   var aameetingQuery1 = "SELECT lat, long, json_agg(json_build_object('bldNm', buildingname, \
+   'addr', address, 'time', timestart, 'name', meetingname, \
+   'day', days, 'typ', meetingtype, 'wch', wheelchair)) as meetings\
+                 FROM aameetflat GROUP BY lat, long;";
+```
 
 ![AAmeetings](./images/week10_aameetings.PNG)
 
@@ -74,6 +80,7 @@ however these will be expanded to show the latest day, week or month.
 The second view aggregates maxima and minima for every hour over the entire date 
 range for all values by constructing a more complicated database join.
 The result takes long to compute and might have to be revised for better performance.
+The query is based on code from [Dani Herra](https://stackoverflow.com/questions/13818524/moving-average-based-on-timestamps-in-postgresql).
 
 
 ```
