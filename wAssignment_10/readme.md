@@ -9,7 +9,7 @@ website. Queries are constructed to aggregate the data for the final site.
 
 The site is running on the AWS instance.
 
-The assignment is detailed in the [data structures course github page](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_10.md).
+The assignment is detailed in the [data structures course github page](https://github.com/visualizedata/data-structures/tree/master/weekly_assignment_10).
 
 
 ### Documentation:

@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+
+
+
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Data structures Course Process Blog">
+    <title>Process Blog</title>
+    <meta name="author" content="Blog">
+    <!-- Local CSS -->
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="./styles/processblog.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script type="text/javascript" src="./libraries/moment.min.js"></script>
+</head>
+
+
+
+
+
+<body>
+
+
+    <header>
+        <h1>Process Blog </h1>
+    </header>
+
+
+
+    <section>
+
+        <div class="row">
+
+            <div class="column1">
+                <article>
+                    <!-- add the contents-->
+                    <div id="maincontentarea"></div>
+                </article>
+            </div>
+
+
+            <div class="column2">
+                <nav>
+                    <ul>
+                        <li><a href='/'>Navigate to main page</a></li>
+                        
+                        <li><h1>Process blog data </h1></li>
+                        <!--<li><a href='/'>Navigate to main page</a><li>-->
+                        <!--<li><a href='/prblThoughts'>Thoughts</a><li>-->
+                        <!--<li><a href='/prblIoT'>IoT</a><li>-->
+                        <!--<li><a href='/prblAAmeetings'>AAmeetings</a><li>-->
+                        <!--<li><a href='/prblProcessblog'>Processblog</a><li>-->
+                            
+                        <li>
+                            <div class="dropdownmenudiv">
+                                <text>Select Category</text>
+                            </div>
+                            <div class="dropdownmenudiv2">
+                            <select id="categoryDropdown">
+                                <option value="" selected disabled hidden>Choose here</option>
+                                <option value="Thoughts" selected>Thoughts</option>
+                                <option value="AAmeetings">AA meetings</option>
+                                <option value="Processblog">Process Blog</option>
+                                <option value="IoT">Internet of Things</option>
+                            </select>
+                            </div>
+                        </li>
+
+                        <li>
+                            <div class="dropdownmenudiv">
+                                <text>Dates</text>
+                                <div>
+                                <select id="dateDropdown">
+                                  <option value="" selected disabled hidden>Choose here</option>
+                                  <option value="1months" selected>Past 30 days</option>
+                                  <option value="3months">Past 3 months</option>
+                                  <option value="6months">Past 6 months</option>
+                                  <option value="1year">Past year</option>
+                                </select>
+                        </li>
+                        <li id="blogcount">
+                        </li>
+                    </ul>
+                </nav>
+                </div>
+
+                </div>
+    </section>
+
+
+
+    <!--</div>-->
+
+    <!--bootstrap links in this order; jquery, popper, bootstrap-->
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>-->
+    <!--<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>-->
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.4.2/handlebars.min.js"></script>
+    
+</body>
+
+
+<!------------------------------------------------------------->
+<!-------------------------- Scripts -------------------------->
+<!-- This might have to go into separate .js file...  -->
+<!------------------------------------------------------------->
+
+                <!--output.blogpost.push({  -->
+                <!--    date: item.dtstring.S, -->
+                <!--    category: item.category.S, -->
+                <!--    content: item.content.S,-->
+                <!--    filename: item.imageurl.S,-->
+                <!--    tags: item.tags.SS,-->
+                <!--    iwentto: item.iwentto.SS-->
+                <!--})-->
+                
+<!--create handlebars template for populating meeting data-->
+<script id="small-template" type="text/x-handlebars-template">
+{{#blogpost}}
+  <div class="col-xs-4">
+    <div class='post'>
+      <h5>Category: {{category}}</h5> <h5>Date: {{date}}</h5>
+      <p>{{content}}</p>  
+<div class="blogimage">
+<img class="rounded mx-auto d-block" src="./imagesBlog/{{filename}}" >
+</div>
+    </div>
+  </div>
+{{/blogpost}}
+</script>
+
+
+<!------------------------------------------------------------->
+<!-------------------do the blog  ----------------------->
+<!------------------------------------------------------------->
+
+<script>
+
+    // use variables to keep track of last selection
+    var keepCat = "Thoughts";  // to keep category filter 
+    var keepRange = "1months";      // to keep month filter
+    
+    
+    // use handlebars to template the blog post html and variables
+    var small_source = $("#small-template").html(); //handlebars source
+    var small_template = Handlebars.compile(small_source); //handlebars template
+
+
+    // call the function when the document loads/refreshes
+    populatedoc(keepCat, keepRange);
+    
+
+    // do the marker data selections from the document dropdowns
+    $(document.body).on('change', "#categoryDropdown", function() {
+        keepCat = this.value;
+        populatedoc(keepCat, keepRange);
+    });
+    $(document.body).on('change', "#dateDropdown", function() {
+        keepRange = this.value;
+        populatedoc(keepCat, keepRange);
+    });
+
+
+
+    // <!------------------------------------------------------------->
+    // get the data from the server and update the html file relevant sections
+    function populatedoc(keepCat, keepRange) {
+        
+        
+        console.log("Fn populatedoc, category: " + keepCat +", range: " + keepRange)
+
+        //get the data
+        $.get('/processblog', { category: keepCat, dtrange: keepRange }, function(data) {
+            // console.log("entries:\n" + data.blogpost[0].category)
+            var htmlposts = small_template(data);
+            $('#maincontentarea').html(htmlposts)
+            // for (var i = 0; i < data[1].length; i++) {
+            //     console.log(small_template(data[1][i].meetings));
+            // };
+        });
+    }
+    // <!------------------------------------------------------------->
+</script>
+
+<!------------------------------------------------------------->
+<!------------------------------------------------------------->
+
+
+
+<footer>
+    <!--<p>Footer</p>-->
+</footer>
+
+
+</html>

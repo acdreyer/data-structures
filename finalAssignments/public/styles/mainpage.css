@@ -1,0 +1,153 @@
+* {
+  box-sizing: border-box;
+}
+
+/*body {*/
+/*  font-family: Arial, Helvetica, sans-serif;*/
+/*}*/
+
+/* Style the header */
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+/* Container for flexboxes */
+section {
+  display: -webkit-flex;
+  display: flex;
+}
+
+
+.column1 {
+  float: left;
+  width: 66%;
+}
+
+.column2 {
+  float: left;
+  width: 33%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+
+
+/* Style the navigation menu */
+nav {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  background: #ccc;
+  padding: 20px;
+  text-align: left;
+}
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Style the content */
+/*article {*/
+/*  -webkit-flex: 3;*/
+/*  -ms-flex: 3;*/
+/*  flex: 3;*/
+/*  background-color: #f1f1f1;*/
+/*  padding: 10px;*/
+/*}*/
+
+/* Style the footer */
+/*footer {*/
+/*  background-color: #777;*/
+/*  padding: 10px;*/
+/*  text-align: center;*/
+/*  color: white;*/
+/*}*/
+
+
+.dropdownmenudiv {
+    /*display: inline-block;*/
+    width: 100%;
+    /*text-align: right;*/
+}
+
+select, option { width: 50%; }
+
+
+/*#mapid { height: 760px; }*/
+
+
+/* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+/*@media (max-width: 600px) {*/
+/*  section {*/
+/*    -webkit-flex-direction: column;*/
+/*    flex-direction: column;*/
+/*  }*/
+/*}*/
+
+
+
+
+
+
+
+
+body, html {
+    height: 100%;
+}
+
+/* The hero image */
+.hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/aameetings_main.png");
+  /* Set a specific height */
+  height: 20%;
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin: 2%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.hero-image_1 {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/aameetings_main.png");*/
+  background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.2)), url("../images/aameetings_main.png");
+  filter: brightness(110%);
+}
+/* The hero image */
+.hero-image_2 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(0, 0, 0, 0.2)), url("../images/processblog_main.png");
+  filter: brightness(115%);
+}
+.hero-image_3 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.2)), url("../images/iot_main.png");
+  filter: brightness(115%);
+}
+/* The hero image */
+
+
+/* Place text in the middle of the image */
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-size: 0.5em;
+}

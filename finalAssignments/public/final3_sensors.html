@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+
+
+
+
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Internet of Things IOT Sensor data">
+    <title>Sensor Data</title>
+    <meta name="author" content="Sensor Data">
+    <!-- Local CSS -->
+    <link rel="stylesheet" href="./styles/sensordata.css">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script type="text/javascript" src="./libraries/d3-time.v1.min.js"></script>
+    <!--<script type="text/javascript" src="./libraries/d3-time-format.v2.min.js"></script>-->
+    <script type="text/javascript" src="./libraries/d3.v3.min.js"></script>
+    <!--<script type="text/javascript" src="./libraries/d3.v4.min.js"></script>-->
+</head>
+
+
+
+
+<body>
+
+    <header>
+        <h1>Project 3: IoT Sensor Data </h1>
+    </header>
+    <a href='/'>Navigate to main page</a>
+
+
+    <div class="sensordata">
+
+        <p> Show Temperatures for </p>
+        <button type="button" class="btn btn-light" onclick="getdata('year','all')">Window Sens.</button>
+        <button type="button" class="btn btn-secondary" onclick="getdata('year','one')">Month +</button>
+        <button type="button" class="btn btn-secondary" onclick="getdata('month','one')">Past Month</button>
+        <button type="button" class="btn btn-secondary" onclick="getdata('week','one')">Past Week</button>
+        <button type="button" class="btn btn-secondary" onclick="getdata('day','one')" selected>Past 24 hours</button>
+        <p>Use the bottom view to focus the main chart</p>
+
+
+        <div class="container">
+            <div class="row justify-content-md-center">
+                <div class="col-md-auto">
+                    <div id="graph"></div>
+                </div>
+                <div class="col-sm">
+                    <div id="legend"></div>
+                </div>
+                <!--<div class="col">-->
+                <!--</div>-->
+            </div>
+            <br>
+
+            <!--, then <a id="addLine" href="#">add second line</a>.</p>-->
+            <!--<svg width="960" height="500"></svg>-->
+
+
+            <!--bootstrap links in this order; jquery, popper, bootstrap-->
+            <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+            <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.4.2/handlebars.min.js"></script>-->
+
+
+            <script type="text/javascript" src="chart.js"></script>
+        </div>
+</body>
+
+
+
+<footer>
+    <div id="datapointcount"></div>
+</footer>
+
+
+
+</html>
