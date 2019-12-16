@@ -41,7 +41,7 @@ function getdata(period, whichsensor) {
 
   //get the data
   $.get('/sensor', { duration: period, sensortype: whichsensor }, function(data) {
-    // console.log(data)
+    console.log(data)
     tempdatatable = data;
     count++;
     $('#datapointcount').html("Total of <strong> " + count + " </strong> requests")

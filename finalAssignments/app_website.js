@@ -291,23 +291,23 @@ app.get('/sensor', function(req, res) {
     // duration: period, sensortype: whichsensor
     if (req.query.sensortype == "all") {
         console.log("allsensors")
-        getsensordatamany(req.query.duration,"all",req,res);
+        getsensordatamany(req.query.duration, "all", req, res);
     }
     else if (req.query.duration == "day") {
         console.log("day")
-        getsensordata("day","one",req,res);
+        getsensordata("day", "one", req, res);
     }
     else if (req.query.duration == "week") {
         console.log("week")
-        getsensordata("week","one",req,res);
+        getsensordata("week", "one", req, res);
     }
     else if (req.query.duration == "month") {
         console.log("month")
-        getsensordata("month","one",req,res);
+        getsensordata("month", "one", req, res);
     }
     else if (req.query.duration == "year") {
         console.log("quarter")
-        getsensordata("year","one",req,res);
+        getsensordata("year", "one", req, res);
     }
 
 
@@ -318,40 +318,36 @@ app.get('/sensor', function(req, res) {
 
 
 
-function getsensordata(period,senstype,req,res) {
-    
-    
+function getsensordata(period, senstype, req, res) {
+
+
     var tempsensdataheader = "date_time,temp1,temp2\n";
-    
-    // var sensorQuery3 = "WITH t AS (SELECT * FROM particlewave ORDER BY DBtime DESC limit 200) SELECT * FROM t ORDER BY DBtime ASC ;";
-    
+
+
     // Construct query to return only times and temperatures in an array format
     // that resembles a CSV file. This saves data communication between server
     // and client because object key names only exist once in the header.
     // The CSV text format also makes debugging and transferral to a static 
     // site easier once the AWS ec-2 instance is shut down.
-    
-    // var sensorQuery3 = "SELECT array_to_string( \
-    //                             ARRAY(WITH t AS (SELECT * FROM particlewave ORDER BY DBtime DESC limit 1000) \
-    //                             SELECT DBtime || ',' || tempsensor || ',' || tempsensor FROM t ORDER BY DBtime ASC), '\n ') AS tempsensdata ;";
-    
+
+
     if (period == "month" || period == "year")
-    var sensorQuery3 = "SELECT array_to_string( \
+        var sensorQuery3 = "SELECT array_to_string( \
                                 ARRAY(WITH t AS (SELECT * FROM particlewave WHERE \
                                 extract(epoch from date_trunc('minute', DBtime))::int % (5*60) = 0 AND\
-                                DBtime BETWEEN now() - INTERVAL '1 "+ period +"' AND now()  ) \
+                                DBtime BETWEEN now() - INTERVAL '1 " + period + "' AND now()  ) \
                                 SELECT DBtime || ',' || tempsensor  FROM t ORDER BY DBtime ASC), '\n ') AS tempsensdata ;";
-    
+
     // DB query subsample filter based on https://www.postgresql.org/message-id/20091204063540.GA14099%40a-kretschmer.de
-    
+
     else {
-           var sensorQuery3 = "SELECT array_to_string( \
+        var sensorQuery3 = "SELECT array_to_string( \
                                 ARRAY(WITH t AS (SELECT * FROM particlewave WHERE \
-                                DBtime BETWEEN now() - INTERVAL '1 "+ period +"' AND now()\
+                                DBtime BETWEEN now() - INTERVAL '1 " + period + "' AND now()\
                                 ) \
-                                SELECT DBtime || ',' || tempsensor  FROM t ORDER BY DBtime ASC), '\n ') AS tempsensdata ;"; 
-    }                            
-                                
+                                SELECT DBtime || ',' || tempsensor  FROM t ORDER BY DBtime ASC), '\n ') AS tempsensdata ;";
+    }
+
     // Connect to the AWS RDS Postgres database
     const client = new Client(db_credentials);
     client.connect();
@@ -375,28 +371,28 @@ function getsensordata(period,senstype,req,res) {
 
 // ---------------------------------------------------------------
 // ---------------------------------------------------------------
-function getsensordatamany(period,senstype,req,res) {
-    
-        var tempsensdataheader = "date_time,temp1,temp2,temp3\n";
-        
-        var sensorQuery1 = "SELECT array_to_string( \
+function getsensordatamany(period, senstype, req, res) {
+
+    var tempsensdataheader = "date_time,temp1,temp2,temp3\n";
+
+    var sensorQuery1 = "SELECT array_to_string( \
                                 ARRAY(WITH t AS (SELECT * FROM particleelectron WHERE \
                                 extract(epoch from date_trunc('minute', DBtime))::int % (5*60) = 0 AND\
-                                DBtime BETWEEN now() - INTERVAL '1 "+ period +"' AND now()  ) \
+                                DBtime BETWEEN now() - INTERVAL '1 " + period + "' AND now()  ) \
                                 SELECT DBtime || ',' || tempsensor || ',' || tempsensor3 FROM t ORDER BY DBtime ASC), '\n ') AS tempsensdata ;";
-        var sensorQuery2 = "SELECT array_to_string( \
+    var sensorQuery2 = "SELECT array_to_string( \
                                 ARRAY(WITH t AS (SELECT * FROM weatherstation WHERE \
                                 extract(epoch from date_trunc('minute', DBtime))::int % (5*60) = 0 AND\
-                                DBtime BETWEEN now() - INTERVAL '1 "+ period +"' AND now()  ) \
+                                DBtime BETWEEN now() - INTERVAL '1 " + period + "' AND now()  ) \
                                 SELECT DBtime || ',' || tempsensor || ',' || tempsensor2 FROM t ORDER BY DBtime ASC), '\n ') AS tempsensdata ;";
-        var sensorQuery3 = "SELECT array_to_string( \
+    var sensorQuery3 = "SELECT array_to_string( \
                                 ARRAY(WITH t AS (SELECT * FROM weatherstation WHERE \
                                 extract(epoch from date_trunc('minute', DBtime))::int % (5*60) = 0 AND\
-                                DBtime BETWEEN now() - INTERVAL '1 "+ period +"' AND now()  ) \
+                                DBtime BETWEEN now() - INTERVAL '1 " + period + "' AND now()  ) \
                                 SELECT DBtime || ',' || tempsensor2 || ',' || windowOpCl || ',' || lightAnalog FROM t ORDER BY DBtime ASC), '\n ') AS tempsensdata ;";
-                                
-    
-        // Connect to the AWS RDS Postgres database
+
+
+    // Connect to the AWS RDS Postgres database
     const client = new Client(db_credentials);
     client.connect();
 
@@ -410,8 +406,8 @@ function getsensordatamany(period,senstype,req,res) {
             // res.send(tempres1.rows);
         } //if else inner
     }); //client.query
-    
-    
+
+
     // The following code is for multiple queries nested; for future use   
     // // Connect to the AWS RDS Postgres database
     // const client = new Client(db_credentials);
@@ -427,9 +423,9 @@ function getsensordatamany(period,senstype,req,res) {
     //                 client.query(sensorQuery3, (err, res3) => {
     //                     if (err) { console.log(err) }
     //                     else {
-                            
-                            
-                            
+
+
+
     //                     } //if else inner
     //                 }); //nested query
     //             } //if else inner
@@ -460,13 +456,13 @@ function getsensordatamany(period,senstype,req,res) {
 app.get('/processblog', function(req, res) {
 
 
-console.log("Category" + req.query.category + ", Start: " + req.query.dtrange );
+    console.log("Category" + req.query.category + ", Start: " + req.query.dtrange);
 
     // calculate dates from date ranges
     var endDate = moment();
     var startDate = endDate;
     var output = {};
-    
+
     if (req.query.dtrange == "1months") {
         startDate = moment().subtract(1, 'months')
     }
@@ -479,10 +475,10 @@ console.log("Category" + req.query.category + ", Start: " + req.query.dtrange );
     else if (req.query.dtrange == "1year") {
         startDate = moment().subtract(1, 'years')
     }
-    
-    console.log("Start: " + startDate.format('MMMM Do YYYY, h:mm:ss a') +", end: " + endDate.format('MMMM Do YYYY, h:mm:ss a'));
 
-    
+    console.log("Start: " + startDate.format('MMMM Do YYYY, h:mm:ss a') + ", end: " + endDate.format('MMMM Do YYYY, h:mm:ss a'));
+
+
 
     // --------------------------------------------------------------
     // ------------------ database interface ------------------------
@@ -490,7 +486,7 @@ console.log("Category" + req.query.category + ", Start: " + req.query.dtrange );
     var params = {
         TableName: "processblog",
         KeyConditionExpression: "#ct = :category and dt  between :minDate and :maxDate", // the query expression
-        ScanIndexForward: false,    // true = ascending, false = descending
+        ScanIndexForward: false, // true = ascending, false = descending
         ExpressionAttributeNames: { // name substitution, used for reserved words in DynamoDB
             "#ct": "category"
         },
@@ -510,14 +506,16 @@ console.log("Category" + req.query.category + ", Start: " + req.query.dtrange );
         }
         else {
             console.log("Query succeeded.");
-            
+
+            // add data to an array of objects inside an object to 
+            // facilitate handlebars templating
             output.blogpost = [];
             data.Items.forEach(function(item) {
                 // console.log("***** ***** ***** ***** ***** \n", item);
                 // filteredBlogs.push(item);
-                output.blogpost.push({  
-                    date: item.dtstring.S, 
-                    category: item.category.S, 
+                output.blogpost.push({
+                    date: item.dtstring.S,
+                    category: item.category.S,
                     content: item.content.S,
                     filename: item.imageurl.S,
                     tags: item.tags.SS,
@@ -544,28 +542,28 @@ console.log("Category" + req.query.category + ", Start: " + req.query.dtrange );
 
 
 
-// ----------------add navigation-------------------------
-// ------------------------------------------------------
-app.get("/prblThoughts", function(req, res) {
-    processBlReq = "Thoughts";
-    processHtmlString = [];
-    res.redirect("/processblog");
-});
-app.get("/prblIoT", function(req, res) {
-    processBlReq = "IoT";
-    processHtmlString = [];
-    res.redirect("/processblog");
-});
-app.get("/prblAAmeetings", function(req, res) {
-    processBlReq = "AAmeetings";
-    processHtmlString = [];
-    res.redirect("/processblog");
-});
-app.get("/prblProcessblog", function(req, res) {
-    processBlReq = "Processblog";
-    processHtmlString = [];
-    res.redirect("/processblog");
-});
+// // ----------------add navigation-------------------------
+// // ------------------------------------------------------
+// app.get("/prblThoughts", function(req, res) {
+//     processBlReq = "Thoughts";
+//     processHtmlString = [];
+//     res.redirect("/processblog");
+// });
+// app.get("/prblIoT", function(req, res) {
+//     processBlReq = "IoT";
+//     processHtmlString = [];
+//     res.redirect("/processblog");
+// });
+// app.get("/prblAAmeetings", function(req, res) {
+//     processBlReq = "AAmeetings";
+//     processHtmlString = [];
+//     res.redirect("/processblog");
+// });
+// app.get("/prblProcessblog", function(req, res) {
+//     processBlReq = "Processblog";
+//     processHtmlString = [];
+//     res.redirect("/processblog");
+// });
 
-// ---------------------------------------------------------------
-// ---------------------------------------------------------------
+// // ---------------------------------------------------------------
+// // ---------------------------------------------------------------
