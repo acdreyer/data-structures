@@ -232,6 +232,8 @@ update individual records. However, the added flexibility did come
 at a price, because only the primary key (and associated sort key) can be used
 to query data.
 
+The application running for assessment is located at:
+[http://34.203.246.48:8080/final2_processblog.html](http://34.203.246.48:8080/final2_processblog.html)
 
 <!--Your work will be assessed on:-->
 <!--The integrity of the data-->
@@ -252,7 +254,8 @@ to query data.
 
 #### 1. IoT Sensor Introduction
 
-The IoT temperature sensor project builds on the following weeks' work:
+The IoT temperature sensor project builds on the previous weeks' work. 
+At first these are summarized and then the final assigment detail are given:
 
 <!--https://github.com/acdreyer/data-structures/tree/master/wAssignment_08-->
 
@@ -267,29 +270,157 @@ Do the visual framework design for the final webpage.
 
 
 #### 2. IoT Sensor User Interface
-#### 3. IoT Sensor Navigation and Query
-#### 4. IoT Sensor Response and Content Display
+
+A line graph was chosen to visualize the IoT temperature sensor data.
+The user interface was subsequently optimized for horizontal space,
+since it was anticipated that the graph would require more space horizontally than 
+vertically. This is partially because initial temperatures were observed to very stable.
+
+A user interaction section was required to allow the user to filter historical data
+based on user interest. The default view is data for the past day (24 hours) since
+this allow a quick page load with the latest information, which is of most interest
+and also short duration for a quick response.
+
+
+![Sensor Page](./images_docs/IoTsensorpage.png)
+
+
+Buttons were added for the past 24 hours, the past week, month and "month +" to allow
+for visualizing data that is more than a month old. Depending on how long the sensor
+logs data, this could become a consideration for scalability, since longer datalogging
+times will require additional filtering/query subsampling.
+
+A secondary interactive brushing tool was also added below the main graph to allow
+the user to zoom into a certain time/date range of interest.
+This tool is also deemed useful to investigate the effects of subsampling data 
+points and investigate the effect of sampling rate and aggregation, hence
+it was included for both development purposes and increased user interaction.
+
+![Sensor Page](./images_docs/IoTsensorBrush.gif)
+
+
+
+#### 3. IoT Sensor Navigation and Display
+
+
+The buttons on the top of the page each call the same `getdata()` function when
+clicked, albeit each sending different parameters to the server. The grey buttons pass the string 
+parameters "day", "week", "month" and "year" together with the sensor parameter
+"one" for the single main IoT sensor and "all" for the additional window sensors.
+
+These parameters are then passed as parameters to a `$(get)` AJAX call to the 
+server application which uses if statements to select which sensors and date
+ranges to request from the database:
+
+```
+if (req.query.sensortype == "all") {
+    getsensordatamany(req.query.duration,"all",req,res);
+}
+else if (req.query.duration == "day") {
+    getsensordata("day","one",req,res);
+}
+else if ...
+```
+
+
+
+
+#### 4. IoT Sensor Throughput optimization
+
+Two main ways were employed to optimize throughput, response time and user experience
+- Reducing sampling rate at longer date ranges
+- Restructuring the server data rows from an object to an array to exclude object key names.
+
+
+##### Reducing sampling rate
+
+If the data query is for a month or longer, a special subsection is added to the
+database query string `extract(epoch from date_trunc('minute', DBtime))::int % (5*60) = 0`
+which uses the modulus operator to extract datapoints from every 5 minutes instead of 
+every minute. This effectively reduces the amount of data by 80% and results
+in a significant increase in performance, or more specifically it allows the
+user experience to remain unchanged when extracting longer time ranges.
+
+```
+var sensorQuery3 = "SELECT array_to_string( \
+                    ARRAY(WITH t AS (SELECT * FROM particlewave WHERE \
+                    extract(epoch from date_trunc('minute', DBtime))::int % (5*60) = 0 AND\
+                    DBtime BETWEEN now() - INTERVAL '1 "+ period +"' AND now()  ) \
+                    SELECT DBtime || ',' || tempsensor  FROM t ORDER BY DBtime ASC), '\n ') AS tempsensdata ;";
+```
+
+The query effectively reduces the sensor sampling rate, but since there is so many more
+data points on screen, the user will not notice any perceivable difference.
+Only when using the brushing tool to zoom into a day range is some slight loss in 
+resolution visible.
+
+Below is the data for a month zoomed into the last day, which shows a gradual trend,
+and compare this to the day values, which is slightly more noisy.
+
+Month data zoomed into 1 day at 5min effective sampling:
+![Sensor Page](./images_docs/IoTsensorMonth.png)
+
+Day data at 1min sampling:
+![Sensor Page](./images_docs/IoTsensorDay.png)
+
+##### Restructuring server response data
+
+The second method to decrease the amount of data communication between the server
+and the client was to restructure the database response from the PostgreSQL
+database rows by dropping the object key/value names.
+
+It was observed that each datapoint has an object key name and since these are
+all the same, it does not make sense to pass this from the server to the client.
+Hence a csv-type array was used that only contain the sensor temperature and time
+values `SELECT array_to_string( ARRAY( ... ), '\n ') AS tempsensdata ;` with 
+as header that was custom constructed. This format allowed use of the D3 CSV
+tools to reconstruct the data on the client-side for plotting.
+
+
+
+##### Adding more sensors
+
+In order to do stress testing and investigate scalability, more sensors were
+added to the visualization with a more subtle "Window Sens." button. 
+This button allows the user to show sensor data from another IoT device that
+was located at the window and gives wider ranging temperature values.
+The sensors also include a Hall effect sensor that was attached to a the window
+and senses if the window is not fully closed. The other sensor is a photoresistor
+that measures voltage; more light reduces resistance and increases voltage.
+These are plotted on the same axis system even though the values are practically 
+meaningless and only serve as a qualitative measure of window open/close and
+if the temperature sensor was exposed to direct sunlight. The additional 
+sensors conveniently gives some indication of scalability.
+By employing the same subsampling technique these sensors could be added without
+any perceivable impact on user experience.
+It is recommended to add these sensors to separate axes systems and merge 
+the data tables from both temperature sensors onto one single chart.
+This task was deemed beyond the scope of the current project.
+
+
+
 #### 5. IoT Sensor Conclusion:
 
 
 
-Your submission should consist of:
+<!--Your submission should consist of:-->
 
-the URL where the visualization is running
-the URL of your (well-documented!) GitHub repository for this project, which should include:
-detailed written and visual documentation to provide context for your work, including specifics on how your endpoint data connects to each of the elements of your final interface design
-Your work will be assessed on:
-The integrity of the data (and successful gathering of at least four weeks of good data)
-The integrity of the database
-The efficiency of the queries and page load
-The choices of data structures
-The inclusion of relevant data
-The coherence and organization of your code and repository
-The strategy for binding the data to the visual representation
-Reliability, scalability, maintainability, and sustainability
+<!--the URL where the visualization is running-->
+<!--the URL of your (well-documented!) GitHub repository for this project, which should include:-->
+<!--detailed written and visual documentation to provide context for your work, -->
+<!--including specifics on how your endpoint data connects to each of the elements of your final interface design-->
+<!--Your work will be assessed on:-->
+<!--The integrity of the data (and successful gathering of at least four weeks of good data)-->
+<!--The integrity of the database-->
+<!--The efficiency of the queries and page load-->
+<!--The choices of data structures-->
+<!--The inclusion of relevant data-->
+<!--The coherence and organization of your code and repository-->
+<!--The strategy for binding the data to the visual representation-->
+<!--Reliability, scalability, maintainability, and sustainability-->
 
 
-![Sensor Page](./images_docs/IoTsensorpage.png)
+
 
 
 

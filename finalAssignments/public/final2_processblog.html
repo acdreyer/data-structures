@@ -172,17 +172,12 @@
     // get the data from the server and update the html file relevant sections
     function populatedoc(keepCat, keepRange) {
         
-        
         console.log("Fn populatedoc, category: " + keepCat +", range: " + keepRange)
 
         //get the data
         $.get('/processblog', { category: keepCat, dtrange: keepRange }, function(data) {
-            // console.log("entries:\n" + data.blogpost[0].category)
             var htmlposts = small_template(data);
             $('#maincontentarea').html(htmlposts)
-            // for (var i = 0; i < data[1].length; i++) {
-            //     console.log(small_template(data[1][i].meetings));
-            // };
         });
     }
     // <!------------------------------------------------------------->
