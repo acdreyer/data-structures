@@ -353,7 +353,7 @@ function getdata(period, whichsensor) {
 
     function type(d) {
       // console.log(d.date_time.slice(0,-3));
-      d.date_time = d3.time.format("%Y-%m-%d %H:%M:%S.%L").parse(d.date_time.slice(0, -3).trim());
+      d.date_time = d3.time.format.utc("%Y-%m-%d %H:%M:%S.%L").parse(d.date_time.slice(0, -3).trim());
       // console.log(d3.time.format("%Y-%m-%d %H:%M:%S.%L").parse(d.date_time.slice(0,-3).trim()));
       // console.log(d3.time.format("%Y-%m-%d %H:%M:%S.%L").parse("2019-12-14 20:21:44.888"));
       // d.date_time = d.date_time.trim();
