@@ -127,3 +127,13 @@ img {
   max-height: 300px;
   /*margin: 100px;*/
 }
+
+
+#blogcount {
+  background-color: #f1f1f1;
+  margin-top: 10%;
+  padding: 5%;
+  max-width: 60%;
+  display: inline-block;
+  border: 1px solid #000;
+}
