@@ -115,3 +115,12 @@ select, option {
     flex-direction: column;
   }
 }
+
+
+#meetingtable {
+  background-color: #f1f1f1;
+  margin-top: 10%;
+  padding: 5%;
+  display: inline-block;
+  border: 1px solid #000;
+}

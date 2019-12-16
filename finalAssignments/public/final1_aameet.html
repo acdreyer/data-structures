@@ -2,9 +2,6 @@
 <html lang="en">
 
 
-
-
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -21,17 +18,13 @@
 
 
 
-
-
-
+<!------------------------------------------------------------->
 
 <body>
-    <!--<div class="aameetingspage">-->
 
     <header>
         <h1>Project 1: AA meetings </h1>
     </header>
-
 
 
     <section>
@@ -49,8 +42,8 @@
             <div class="column2">
                 <nav>
                     <ul>
-                            <div class="dropdownmenudiv">
-                        <li><a href='/'>Navigate to main page</a></li>
+                        <div class="dropdownmenudiv">
+                            <li><a href='/'>Navigate to main page</a></li>
                         </div>
 
                         <li>
@@ -58,7 +51,6 @@
                                 <text>Days</text>
                             </div>
                             <div class="dropdownmenudiv2">
-                            <!--<form action="/aameetings" method="POST">-->
                                 <select id="dayDropdown">
                                   <option value="" selected disabled hidden>Choose here</option>
                                   <option value="alldays" >All days</option>
@@ -71,17 +63,13 @@
                                   <option value="Sundays">Sundays</option>
                                 </select>
                             </div>
-                            <!--<noscript><input type="submit" value="Submit"></noscript>-->
-                            <!--</form>-->
                         </li>
 
                         <li>
                             <div class="dropdownmenudiv">
                                 <text>Times</text>
                                 <div>
-                                    <!--<form action="/aameetings" method="POST">-->
-                            <!--<div class="dropdownmenudiv2">-->
-                                <select id="timeDropdown">
+                                    <select id="timeDropdown">
                                   <option value="" selected disabled hidden>Choose here</option>
                                   <option value="alltimes">All times</option>
                                   <option value="morning">Morning: 6am-12noon</option>
@@ -89,18 +77,25 @@
                                   <option value="evening">Evening: 4pm-9pm</option>
                                   <option value="night">Night: 8pm-3am</option>
                                 </select>
-                                <!--<div>-->
-                                    <!--<noscript><input type="submit" value="Submit"></noscript>-->
-                                    <!--</form>-->
                         </li>
-                            <div class="dropdownmenudiv">
-                        <li id="meetingcount">
+                        <div class="dropdownmenudiv">
+                            <li id="meetingcount">
 
-                        </li>
+                            </li>
                         </div>
-                        <li id="meetingtable">
-
-                        </li>
+                        <div class="dropdownmenudiv">
+                            <li id="meetingtable">
+                                <h6>Meeting Type Description</h6>
+                                <p>B = Beginners<p>
+                                <p>BB = Big Book</p>
+                                <p>C = Closed Discussion</p>
+                                <p>S = Step<p>
+                                <p>T = Tradition</p>
+                                <p>O = Open</p>
+                                <p>OD = Open Discussion</p>
+                                <p>Sp = Special</p>
+                            </li>
+                        </div>
                     </ul>
                 </nav>
                 </div>
@@ -113,7 +108,6 @@
 
 
 
-    <!--</div>-->
 
     <!--bootstrap links in this order; jquery, popper, bootstrap-->
     <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>-->
@@ -133,16 +127,20 @@
 
 <!--create handlebars template for populating meeting data-->
 <script id="small-template" type="text/x-handlebars-template">
-    <table>
+    <table class="table">
         <thead>
+            <th>Meeting name</th>
             <th>Times</th>
             <th>Days</th>
+            <th>Type</th>
         </thead>
         <tbody>
             {{#each this}}
             <tr>
+                <td>{{name}}</td>
                 <td>{{time}}</td>
                 <td>{{day}}</td>
+                <td>{{typ}}</td>
             </tr>
             {{/each}}
         </tbody>
@@ -155,10 +153,10 @@
 <!-------------------do the map drawing ----------------------->
 <!------------------------------------------------------------->
 <script>
-    var keepday = "alldays";        // to keep meeting day filter 
-    var keeptime = "alltimes";      // to keep meeting time filter
-    var small_source = $("#small-template").html();         //handlebars source
-    var small_template = Handlebars.compile(small_source);  //handlebars template
+    var keepday = "alldays"; // to keep meeting day filter 
+    var keeptime = "alltimes"; // to keep meeting time filter
+    var small_source = $("#small-template").html(); //handlebars source
+    var small_template = Handlebars.compile(small_source); //handlebars template
     // $("#meetingtable").html(small_template(small_data));
 
     // Define zoom boundaries for Manhattan
@@ -212,8 +210,20 @@
             $('#meetingcount').html("Total of <strong>" + data[0] + "</strong> meetings found")
 
             for (var i = 0; i < data[1].length; i++) {
+
+                // Assign data to html and markers
                 // L.marker([data[1][i].lat, data[1][i].long]).bindPopup(JSON.stringify(data[1][i].meetings)).addTo(allmarkers);
-                L.marker([data[1][i].lat, data[1][i].long]).bindPopup("<h6>"+data[1][i].meetings[0].addr+"</h6>"+small_template(data[1][i].meetings)).addTo(allmarkers);
+                if (data[1][i].meetings[0].bldNm == "null") { data[1][i].meetings[0].bldNm = "" }
+
+                if (data[1][i].meetings[0].wch) { data[1][i].meetings[0].wch = "Wheelchair accessible" }
+                else { data[1][i].meetings[0].wch = "" }
+
+
+                // Add to marker
+                L.marker([data[1][i].lat, data[1][i].long]).bindPopup("<h6>" + data[1][i].meetings[0].addr + "</h6><h6>" + data[1][i].meetings[0].bldNm + "</h6>" + small_template(data[1][i].meetings) + "<p><strong>" + data[1][i].meetings[0].wch + "<strong></p>").addTo(allmarkers);
+                console.log(data[1][i]);
+                // console.log(data[1][i].meetings[0].addr);
+                // console.log(small_template(data[1][i].meetings));
                 console.log("only the meetings " + JSON.stringify(data[1][i].meetings))
                 // console.log("only the meetings " + small_template(data[1][i].meetings))
             };
@@ -228,7 +238,7 @@
 
 
 <footer>
-    <p>Footer</p>
+    <!--<p>Footer</p>-->
 </footer>
 
 

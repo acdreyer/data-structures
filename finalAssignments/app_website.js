@@ -140,16 +140,6 @@ app.listen(8080, function() {
 // AA meeting data
 // ---------------------------------------------------------------
 
-// app.get('/aameetings', function(req, res) {
-
-//     // run the function
-//     getAAmeetingresults(meetdaysSelect, meettimesSelect, req, res);
-
-// }); //app.get
-
-// ---------------------------------------------------------------
-// ---------------------------------------------------------------
-
 
 app.get('/aameetings', function(req, res) {
 
@@ -207,11 +197,11 @@ function getAAmeetingresults(meetdaysSelect, meettimesSelect, req, res) {
     if (meetdaysSelect == "alldays") {
         if (meettimesSelect == "night") {
             var aameetingQuery1 = "SELECT lat, long, json_agg(json_build_object('bldNm', buildingname, 'addr', address, 'time', timestart, 'name', meetingname, 'day', days, 'typ', meetingtype, 'wch', wheelchair)) as meetings\
-                 FROM aameetflat WHERE timestart >= '" + timestart + "' OR timestart <= '" + timeend + "' GROUP BY lat, long;";
+                 FROM aameetflat WHERE timestart >= '" + timestart + "' OR timestart <= '" + timeend + "' GROUP BY lat, long ;";
         }
         else {
             var aameetingQuery1 = "SELECT lat, long, json_agg(json_build_object('bldNm', buildingname, 'addr', address, 'time', timestart, 'name', meetingname, 'day', days, 'typ', meetingtype, 'wch', wheelchair)) as meetings\
-                 FROM aameetflat WHERE timestart >= '" + timestart + "' AND timestart <= '" + timeend + "' GROUP BY lat, long;";
+                 FROM aameetflat WHERE timestart >= '" + timestart + "' AND timestart <= '" + timeend + "' GROUP BY lat, long ;";
         }
         console.log(meetdaysSelect + ' ' + timestart + ' ' + timeend)
         console.log(aameetingQuery1);
@@ -219,11 +209,11 @@ function getAAmeetingresults(meetdaysSelect, meettimesSelect, req, res) {
     else if (meetdaysSelect != "alldays") {
         if (meettimesSelect == "night") {
             var aameetingQuery1 = "SELECT lat, long, json_agg(json_build_object('bldNm', buildingname, 'addr', address, 'time', timestart, 'name', meetingname, 'day', days, 'typ', meetingtype, 'wch', wheelchair)) as meetings\
-                 FROM aameetflat WHERE days = '" + meetdaysSelect + "' AND (timestart >= '" + timestart + "' or timestart <= '" + timeend + "') GROUP BY lat, long;";
+                 FROM aameetflat WHERE days = '" + meetdaysSelect + "' AND (timestart >= '" + timestart + "' or timestart <= '" + timeend + "') GROUP BY lat, long ;";
         }
         else {
             var aameetingQuery1 = "SELECT lat, long, json_agg(json_build_object('bldNm', buildingname, 'addr', address, 'time', timestart, 'name', meetingname, 'day', days, 'typ', meetingtype, 'wch', wheelchair)) as meetings\
-                 FROM aameetflat WHERE days = '" + meetdaysSelect + "' AND timestart >= '" + timestart + "' AND timestart <= '" + timeend + "' GROUP BY lat, long;";
+                 FROM aameetflat WHERE days = '" + meetdaysSelect + "' AND timestart >= '" + timestart + "' AND timestart <= '" + timeend + "' GROUP BY lat, long ;";
         }
         console.log(meetdaysSelect + ' ' + timestart + ' ' + timeend)
         console.log(aameetingQuery1);
@@ -241,19 +231,9 @@ function getAAmeetingresults(meetdaysSelect, meettimesSelect, req, res) {
     client.query(aameetingQuery1, (err, aares) => {
         if (err) { throw err }
         else {
-            aares.rows.forEach(function(val) {
-                aameetingHtmlString.push(JSON.stringify(val) + '<br><br>');
-            })
             console.log("Number of table rows :" + aares.rows.length);
-
             client.end();
-            var newstring = aameetingHtmlString.join(" ");
-
-            // fs.readFile('./public/final1_aameet.html', "utf8", (error, data) => {
-            //     res.send(data + 'Days: ' + meetdaysSelect + '<br>Times: ' + meettimesSelect + ' <br>Total no. locations: ' + aares.rows.length + ' <br><br> ' + newstring)
-            // }); //fs.readFile
             res.send([aares.rows.length, aares.rows]);
-            aameetingHtmlString = [];
         }
 
     }); //client.query

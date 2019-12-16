@@ -1,5 +1,5 @@
 ## MSDV PGDV5110 Weekly assignment 04 
-(due 23/16/2019 6pm)
+(due 10/16/2019 6pm; extended 10/23)
 
 ### Summary:
 

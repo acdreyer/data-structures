@@ -6,7 +6,7 @@ For all assignments go [to the main documentation page](https://github.com/acdre
 
 -------------------------------------
 
-#### 1. IoT Sensor Introduction
+#### 1. Introduction
 
 The IoT temperature sensor project builds on the previous weeks' work. 
 At first these are summarized and then the final assigment detail are given:
@@ -59,10 +59,11 @@ The window magnetic sensor (window fully closed):
 
 
 
-#### 2. IoT Sensor User Interface
+#### 2. User Interface
 
 
 A line graph was chosen to visualize the IoT temperature sensor data in **degrees Celcius**.
+The graphic was constructed using D3.js and based on an [existing library](http://jsfiddle.net/HCF9x/1/).
 The user interface was subsequently optimized for horizontal space,
 since it was anticipated that the graph would require more space horizontally than 
 vertically. This is partially because initial temperatures were have low levels of fluctuation.
@@ -96,7 +97,7 @@ for user interaction.
 
 
 
-#### 3. IoT Sensor Navigation and Display
+#### 3. Navigation and Display
 
 
 The buttons on the top of the page each call the same `getdata()` function when
@@ -125,7 +126,7 @@ else if ...
 
 
 
-#### 4. IoT Sensor Data Throughput optimization
+#### 4. Data Throughput optimization
 
 Two main ways were employed to optimize data throughput from the server,
 reduce the response time and increase the user experience:
@@ -212,7 +213,7 @@ This task was deemed beyond the scope of the current project.
 
 
 
-#### 5. IoT Sensor Conclusion:
+#### 5. Conclusion
 
 The IoT senor project was deeply insightful into the world of digital sensing,
 storing and interfacing data from IoT devices. It seemed clear that
@@ -234,6 +235,8 @@ each sensor to be plotted on its own separate axis system. This task falls beyon
 of the current project.
 
 
+The application running for assessment is located at:
+[http://34.203.246.48:8080/final3_sensors.html](http://34.203.246.48:8080/final3_sensors.html)
 
 <!--Your submission should consist of:-->
 

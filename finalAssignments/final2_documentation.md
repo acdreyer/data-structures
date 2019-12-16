@@ -7,7 +7,7 @@ For all assignments go [to the main documentation page](https://github.com/acdre
 
 ----------------------------
 
-#### 1. Process Blog Introduction:
+#### 1. Introduction
 
 The Process Blog weekly assignments are briefly introduced, after which the final 
 assignment details are supplied:
@@ -25,7 +25,7 @@ Do the visual framework design for the final webpage.
 
 
 
-#### 2. Process Blog User Interface
+#### 2. User Interface
 
 Two main types of information are required by the user:
 - information to navigate the blog entries 
@@ -39,8 +39,8 @@ elements. There is space left below the navigation elements for future page grow
 ![Process Blog Page](./images_docs/Processblogpage.png)
 
 
-#### 3. Process Blog Navigation and Query
 
+#### 3. Navigation and Query
 
 
 The AWS DynamoDB allows sorting and searching only through the primary and sort keys, 
@@ -89,7 +89,7 @@ The server employs if statements to assign a DynamoDB query start and end date w
 library; with `endDate = moment();` and `startDate = moment().subtract(1, 'months')`.
 
 
-#### 4. Process Blog Response and Content Display
+#### 4. Server Response and Content Display
 
 Since the user will likely want to read latest content first,
 the blog entries are sorted and returned in *descending order* by including the `ScanIndexForward: false`
@@ -174,7 +174,7 @@ The blog post are then displayed each in its own content `<div>` element as foll
 
 
 
-#### 5. Progress Blog Conclusion:
+#### 5. Conclusion
 
 The process blog was likely the least challenging of the three assignments due to 
 the flexible nature of the DynamoDB database. Managing changes in the database
